@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permdesc_ACCESS_FINGERPRINT_MANAGER">Позволяет приложению использовать встроенный датчик отпечатков пальцев для регистрации пользователей и их аутентификации</string>
+</resources>

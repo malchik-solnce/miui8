@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ims_settings">Настройки IMS</string>
+    <string name="ims_vt_call_quality">VtCallQuality</string>
+    <string name="ims_vt_call_quality_title">Качество VT вызова</string>
+    <string name="ims_vt_call_quality_low">Низкое</string>
+    <string name="ims_vt_call_quality_high">Высокое</string>
+    <string name="ims_vt_call_quality_unknown">Unknown</string>
+    <string name="ims_vt_call_quality_set_failed">Failed to set video quality</string>
+    <string name="ims_pc_count">ImsPacketCount</string>
+    <string name="ims_per_count">ImsPacketErrorCount</string>
+    <string name="ims_get_packet_count_failed">Failed to get packet count</string>
+    <string name="ims_get_packet_error_count_failed">Failed to get packet error count</string>
+    <string name="ims_get_packet_count_label">click here to get packet count</string>
+    <string name="ims_get_packet_error_count_label">click here to get packet error count</string>
+    <string name="qti_ims_call_deflect">calldeflect</string>
+    <string name="qti_ims_call_deflect_title">Call Deflect number</string>
+    <string name="qti_ims_number_not_set">Not set</string>
+    <string name="ims_to_cs_retry">ImsToCsRetry</string>
+    <string name="ims_to_cs_retry_title">CS Retry</string>
+    <string name="ims_to_cs_retry_summary">Auto Retry with regular voice communications (Recommended)</string>
+</resources>

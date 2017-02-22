@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with BARS Extractor -->
+<resources>
+     <string name="crop_wallpaper">Crop wallpaper</string>
+     <string name="wallpaper_instructions">Set wallpaper</string>
+     <string name="wallpaper_load_fail">Couldnt load image as wallpaper</string>
+</resources>

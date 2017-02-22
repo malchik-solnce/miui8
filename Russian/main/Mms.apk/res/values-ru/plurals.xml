@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="cloud_sms_count">
+        <item quantity="other">Сообщений: %d</item>
+        <item quantity="zero">Сообщений: 0</item>
+        <item quantity="one">Сообщений: 1</item>
+     </plurals>
+	 <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="zero">Выберите элементы</item>
+     </plurals>
+     <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Не синхронизировано сообщений: %d"</item>
+        <item quantity="one">Не синхронизировано сообщений: 1</item>
+     </plurals>
+	 <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить выбранные переписки? (%1$s)</item>
+        <item quantity="one">Удалить эту переписку?</item>
+     </plurals>
+     <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+     </plurals>
+     <plurals name="slide_audio_duration">
+        <item quantity="other">%s сек.</item>
+        <item quantity="one">%s сек.</item>
+        <item quantity="few">%s сек.</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">Поиск "%2$s" (%1$s)</item>
+        <item quantity="one">Поиск "%2$s" (%1$s)</item>
+     </plurals>
+     <plurals name="recipient_count">
+        <item quantity="other">%1$s чел.</item>
+		<item quantity="one">1 чел.</item>
+     </plurals>
+     <plurals name="message_count">
+        <item quantity="other">Сообщений: %1$s</item>
+        <item quantity="one">%1$s сообщение</item>
+     </plurals>
+</resources>

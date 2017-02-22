@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="motion_behavior_entries">
+        <item>Удержание</item>
+        <item>Нажатие</item>
+    </string-array>
+	<string-array name="enabled_for_pad_entries">
+        <item>Выключено</item>
+        <item>Включено</item>
+        <item>В ландшафтном режиме</item>
+     </string-array>
+</resources>

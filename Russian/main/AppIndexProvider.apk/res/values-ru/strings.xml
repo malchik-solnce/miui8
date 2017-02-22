@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Настройки поиска</string>
+    <string name="search_label">Настройки</string>
+    <string name="application_desc">Приложение</string>
+    <string name="settings_description">Настройки</string>
+	<string name="update_keywords">проверить обновление системы;обновление MIUI</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Базовые функции системы</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="activity_title_fakecell">Защита от псевдо-базы</string>
+	<string name="detect_fakecell">Распознать SMS от поддельных базовых станций</string>
+    <string name="forbidden_fakecell">Не подключаться</string>
+    <string name="forbidden_fakecell_summary">Не допускать подключения к поддельной базовым станциям</string>
+    <string name="support_forbidden_fakecell">Ограничение подключения к поддельным базовым станциям может понизить сигнал в зонах с плохим покрытием</string>
+    <string name="not_support_forbidden_fakecell">Устройство не поддерживает защиту от поддельных базовых станций на уровне чипа</string>
+    <string name="restart_details">Чтобы включить или отключить защиту, необходимо перезагрузить телефон. Продолжить?</string>
+    <string name="restart_later">Не сейчас</string>
+    <string name="restart_now">Перезагрузить</string>
+	<string name="first_function">Предотвращение подключений к поддельным сетям</string>
+    <string name="point">В отдаленных районах сигнал сотовой сети может отсутствовать</string>
+    <string name="second_function">" "</string>
+    <string name="start_protect">Запустить защиту</string>
+    <string name="stop_protect">Остановить защиту</string>
+</resources>

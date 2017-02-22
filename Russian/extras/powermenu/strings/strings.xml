@@ -1,0 +1,14 @@
+<resources>
+    <string name="label_airplane_mode">Airplane</string>
+    <string name="label_silent_mode">Silent</string>
+    <string name="label_reboot">Reboot</string>
+	<string name="label_recovery">Recovery</string>
+	<string name="label_fastboot">Fastboot</string>
+    <string name="label_shutdown">Power off</string>
+    <string name="label_alert_reboot">Reboot</string>
+    <string name="label_alert_shutdown">Tap to power off</string>
+	<string name="label_alert_recovery">Tap to enter into Recovery</string>
+    <string name="label_alert_fastboot">Tap to enter into Fastboot</string>
+    <string name="label_blank">Back</string>
+	<string name="label_emergency_call">Emergency call</string>
+</resources>

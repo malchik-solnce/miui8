@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Медиа-сервер</string>
+	<string name="noti_projection_status_title">Беспроводной экран Mi Play</string>
+    <string name="noti_projection_status_desc_on">Включено дублироание экрана</string>
+    <string name="prjection_title">Беспроводной экран</string>
+    <string name="search_for_devices">Обновить</string>
+    <string name="media_feature_projection">Проекция экран</string>
+    <string name="media_status_error">Ошибка</string>
+    <string name="media_status_starting">Подключение…</string>
+    <string name="media_status_started">Подключено</string>
+    <string name="media_status_stopping">Остановка…</string>
+    <string name="media_status_stopped">Остановлено</string>
+    <string name="wifi_display_settings_title">Cast</string>
+    <string name="wifi_display_enable_menu_item">Включите беспроводной экран</string>
+    <string name="wifi_display_no_devices_found">Устройств по близости не найдено</string>
+    <string name="wifi_display_status_connecting">Подключение</string>
+    <string name="wifi_display_status_connected">Подключен</string>
+    <string name="wifi_display_status_in_use">Используется</string>
+    <string name="wifi_display_status_not_available">Недоступен</string>
+    <string name="wifi_display_details">Настройки экрана</string>
+    <string name="wifi_display_options_title">Опции беспроводного экрана</string>
+    <string name="wifi_display_options_forget">Удалить</string>
+    <string name="wifi_display_options_done">Готово</string>
+    <string name="wifi_display_options_name">Имя</string>
+    <string name="wifi_display_certification_heading">Сертификация</string>
+    <string name="wifi_display_session_info">Информация о сеансе</string>
+    <string name="wifi_display_listen_mode">Включить режима прослушивания</string>
+    <string name="wifi_display_autonomous_go">Включите автономный GO</string>
+    <string name="wifi_display_pause">Приостановить</string>
+    <string name="wifi_display_resume">Возобновить</string>
+    <string name="wifi_display_wps_config">Конфигурация WPS</string>
+    <string name="wifi_display_listen_channel">Канал прослушивания</string>
+    <string name="wifi_display_operating_channel">Операционный канал</string>
+    <string name="cancel">Отмена</string>
+	<string name="enable_wifi_title">Включите Wi-Fi</string>
+    <string name="enable_wifi_message">Включите Wi-Fi для поиска и подключения устройств поблизости</string>
+    <string name="enable_wifi_btn">Включить</string>
+</resources>

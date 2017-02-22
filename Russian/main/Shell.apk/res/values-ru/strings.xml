@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Оболочка</string>
+	 <string name="bugreport_storage_title">Отчеты</string>
+     <string name="bugreport_confirm">Отчет об ошибке содержит данные из системы различных журналов, в том числе личную информацию. Делитесь отчетом с людьми, которым Вы доверяете.</string>
+     <string name="bugreport_confirm_repeat">Показывать совет каждый раз</string>
+     <string name="bugreport_finished_text">Нажмите, чтобы поделиться отчетом</string>
+     <string name="bugreport_finished_title">Отчет об ошибке #%d создан</string>
+	 <string name="bugreport_add_details_to_zip_failed">Не удалось добавить данные отчета об ошибке в ZIP-файл</string>
+     <string name="bugreport_confirm_dont_repeat">Больше не показывать</string>
+     <string name="bugreport_finished_pending_screenshot_text">Нажмите для отправки отчета без скриншота, или дождитесь сохранения скриншота для завершения</string>
+     <string name="bugreport_in_progress_title">Создание отчета об ошибке #%d </string>
+     <string name="bugreport_info_action">Информация</string>
+     <string name="bugreport_info_description">Описание ошибки</string>
+     <string name="bugreport_info_dialog_title">Детали отчета #%d</string>
+     <string name="bugreport_info_name">Имя файла</string>
+     <string name="bugreport_info_title">Заголовок ошибки</string>
+     <string name="bugreport_screenshot_action">Скриншот</string>
+     <string name="bugreport_screenshot_failed">Не удалось сделать скриншот</string>
+     <string name="bugreport_screenshot_taken">Скриншот сохранен</string>
+     <string name="bugreport_unnamed">без имени</string>
+     <string name="bugreport_unreadable_text">Файл отчета не может быть прочитан</string>
+     <string name="bugreport_updating_title">Добавление дополнительных данных в отчет</string>
+     <string name="bugreport_updating_wait">Подождите…</string>
+     <string name="save">Сохранить</string>
+</resources>

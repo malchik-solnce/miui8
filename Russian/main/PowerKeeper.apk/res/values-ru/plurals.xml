@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d шага до переключения в расширенный режим</item>
+        <item quantity="one">%1$d шаг до переключения в расширенный режим</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d шага до выключения расширенного режима</item>
+        <item quantity="one">%1$d шаг до выключения расширенного режима</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Еще %1$d шага для разблокировки всех элементов</item>
+        <item quantity="one">Еще %1$d шаг для разблокировки всех элементов</item>
+    </plurals>
+</resources>

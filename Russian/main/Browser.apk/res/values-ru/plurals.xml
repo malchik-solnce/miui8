@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+     </plurals>
+     <plurals name="last_num_days">
+        <item quantity="other">Последние %d дн.</item>
+     </plurals>
+     <plurals name="matches_found">
+        <item quantity="other">%1$d из %2$d</item>
+        <item quantity="one">1 совпадение</item>
+     </plurals>
+     <plurals name="find_on_page_matches">
+        <item quantity="other">Совпадений: %d</item>
+        <item quantity="one">Совпадений: %d</item>
+     </plurals>
+     <plurals name="adblock_rules_number_text">
+        <item quantity="other">Заблокировано: %d</item>
+        <item quantity="one">Заблокировано: %d</item>
+     </plurals>
+	 <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d видео удалено</item>
+        <item quantity="one">%1$d видео удалено</item>
+     </plurals>
+     <plurals name="video_download_clear_prompt">
+        <item quantity="other">Удалить %1$d видео?</item>
+        <item quantity="one">Удалить %1$d видео?</item>
+     </plurals>
+     <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d записей удалено</item>
+        <item quantity="one">%1$d записей удалено</item>
+     </plurals>
+     <plurals name="video_history_clear_prompt">
+        <item quantity="other">Удалить %1$d записей истории?</item>
+        <item quantity="one">Удалить %1$d записей истории?</item>
+     </plurals>
+	 <plurals name="video_subtitle_last_message">
+        <item quantity="other">Осталось %d минут</item>
+        <item quantity="one">Осталась %d минута</item>
+        <item quantity="few">Осталось %d минуты</item>
+        <item quantity="many">Осталось %d минут</item>
+     </plurals>
+</resources>

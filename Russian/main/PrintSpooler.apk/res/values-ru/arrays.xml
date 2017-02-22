@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="color_mode_labels">
+        <item>Черно-белое</item>
+        <item>Цветное</item>
+     </string-array>
+     <string-array name="orientation_labels">
+        <item>Книжная</item>
+        <item>Альбомная</item>
+     </string-array>
+     <string-array name="page_options_labels">
+        <item>Все</item>
+        <item>Диапазон</item>
+     </string-array>
+	 <string-array name="duplex_mode_labels">
+        <item>Нет</item>
+        <item>Длинная сторона</item>
+        <item>Короткая сторона</item>
+     </string-array>
+</resources>

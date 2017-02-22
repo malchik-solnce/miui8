@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Оптимизация системы</string>
+	 <string name="permstep_description">"Разрешить приложению читать информацию с телефона о шагах"</string>
+     <string name="permstep_label">Чтение шагов</string>
+	 <string name="whetstone_accessibility_desc">вспомогательные функции Whetstone</string>
+     <string name="whetstone_accessibility_label">Сервис доступа Whetstone</string>
+</resources>

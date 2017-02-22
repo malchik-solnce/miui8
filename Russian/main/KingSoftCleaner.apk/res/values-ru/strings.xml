@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clean Master</string>
+    <string name="browser_scan_history_desc">История браузера</string>
+    <string name="browser_search_history_desc">Поисковые запросы</string>
+    <string name="call_log">Журнал вызово</string>
+    <string name="clip_board_history_desc">Скопированное содержимое</string>
+    <string name="clipboard">Буфер обмена</string>
+    <string name="phone_search">Поиск Google</string>
+    <string name="privacy_appdata_chrome_history_des">Посещенные сайты</string>
+    <string name="search_history">История поиска</string>
+    <string name="sms">Сообщения</string>
+	<string name="junk_tag_RF_EmptyFolders">Пустые папки</string>
+    <string name="junk_tag_RF_ImageThumbnails">Эскизы галереи</string>
+	<string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">Еще</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

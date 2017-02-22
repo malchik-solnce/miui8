@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v2_background_data_usage_this_month">
+        <item quantity="other">%1$d приложения использовали %2$s фонового трафика в этом месяце</item>
+        <item quantity="zero">%1$d приложений использовали фоновый трафик в этом месяце</item>
+        <item quantity="one">%1$d приложение использовали %2$s фонового трафика в этом месяце</item>
+        <item quantity="two">%1$d приложения использовали %2$s фонового трафика в этом месяце</item>
+        <item quantity="few">%1$d приложения использовали %2$s фонового трафика в этом месяце</item>
+        <item quantity="many">%1$d приложений использовали %2$s фонового трафика в этом месяце</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_this_week">
+        <item quantity="other">%1$d приложений использовали %2$s фонового трафика на этой неделе</item>
+        <item quantity="zero">%1$d приложений использовали фоновый трафик на этой неделе</item>
+        <item quantity="one">%1$d приложение использовало %2$s фонового трафика на этой неделе</item>
+        <item quantity="two">%1$d приложения использовали %2$s фонового трафика на этой неделе</item>
+        <item quantity="few">%1$d приложения использовали %2$s фонового трафика на этой неделе</item>
+        <item quantity="many">%1$d приложений использовали %2$s фонового трафика на этой неделе</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_today">
+        <item quantity="other">%1$d приложений использовали %2$s фонового трафика сегодня</item>
+        <item quantity="zero">%1$d приложений использовали фоновый трафик сегодня</item>
+        <item quantity="one">%1$d приложение использовало %2$s фонового трафика сегодня</item>
+        <item quantity="two">%1$d приложения использовали %2$s фонового трафика сегодня</item>
+        <item quantity="few">%1$d приложения использовали %2$s фонового трафика сегодня</item>
+        <item quantity="many">%1$d приложений использовали %2$s фонового трафика сегодня</item>
+    </plurals>
+    <plurals name="v2_mn_active_passes">
+        <item quantity="other">%d активных абонементов</item>
+        <item quantity="zero">%d активных абонемента</item>
+        <item quantity="one">%d активный абонемент</item>
+        <item quantity="two">%d активных абонемента</item>
+        <item quantity="few">%d активных абонементов</item>
+        <item quantity="many">%d активных абонементов</item>
+    </plurals>
+    <plurals name="v2_plurals_days">
+        <item quantity="other">%d дней</item>
+        <item quantity="zero">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="two">%d дня</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="v2_plurals_hours">
+        <item quantity="other">%d часов</item>
+        <item quantity="zero">%d часов</item>
+        <item quantity="one">%d час</item>
+        <item quantity="two">%d часа</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+    </plurals>
+    <plurals name="v2_plurals_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="zero">%d минут</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="two">%d минуты</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="v2_plurals_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="zero">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="two">%d секунды</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="v2_plurals_weeks">
+        <item quantity="other">%d недель</item>
+        <item quantity="zero">%d недель</item>
+        <item quantity="one">%d неделя</item>
+        <item quantity="two">%d недели</item>
+        <item quantity="few">%d недели</item>
+        <item quantity="many">%d недель</item>
+    </plurals>
+    <plurals name="v2_timeline_allbackground_data_apps">
+        <item quantity="other">%d др. прил.</item>
+        <item quantity="zero">%d др. прил.</item>
+        <item quantity="one">%d др. прил.</item>
+        <item quantity="two">%d др. прил.</item>
+        <item quantity="few">%d др. прил.</item>
+        <item quantity="many">%d др. прил.</item>
+    </plurals>
+</resources>

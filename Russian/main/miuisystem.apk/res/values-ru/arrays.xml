@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="cta_permission_names">
+        <item>Доступ к сети</item>
+        <item>Чтение SMS</item>
+        <item>Изменение SMS</item>
+        <item>Получение SMS</item>
+        <item>Отправка SMS</item>
+        <item>Совершение вызова</item>
+        <item>Чтение контактов</item>
+        <item>Изменение контактов</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Изменение журнала вызовов</item>
+        <item>Доступ к камере</item>
+        <item>Доступ к местоположению</item>
+     </string-array>
+</resources>

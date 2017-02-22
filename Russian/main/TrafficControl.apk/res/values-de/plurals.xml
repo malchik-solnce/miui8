@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v2_background_data_usage_this_month">
+        <item quantity="other">Diesen Monat haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="zero">Diesen Monat haben %1$d Apps im Hintergrund Daten verbraucht.</item>
+        <item quantity="one">Diesen Monat hat %1$d App im Hintergrund %2$s verbraucht.</item>
+        <item quantity="two">Diesen Monat haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="few">Diesen Monat haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="many">Diesen Monat haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_this_week">
+        <item quantity="other">Diese Woche haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="zero">Diese Woche haben %1$d Apps im Hintergrund Daten verbraucht.</item>
+        <item quantity="one">Diese Woche hat %1$d App im Hintergrund %2$s verbraucht.</item>
+        <item quantity="two">Diese Woche haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="few">Diese Woche haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+        <item quantity="many">Diese Woche haben %1$d Apps im Hintergrund %2$s verbraucht.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_today">
+        <item quantity="other">%1$d Apps haben heute im Hintergrund %2$s verbraucht.</item>
+        <item quantity="zero">%1$d Apps haben heute im Hintergrund Daten verbraucht.</item>
+        <item quantity="one">%1$d App hat heute im Hintergrund %2$s verbraucht.</item>
+        <item quantity="two">%1$d Apps haben heute im Hintergrund %2$s verbraucht.</item>
+        <item quantity="few">%1$d Apps haben heute im Hintergrund %2$s verbraucht.</item>
+        <item quantity="many">%1$d Apps haben heute im Hintergrund %2$s verbraucht.</item>
+    </plurals>
+    <plurals name="v2_mn_active_passes">
+        <item quantity="other">%d aktive Pässe</item>
+        <item quantity="zero">%d aktive Pässe</item>
+        <item quantity="one">%d aktiver Pass</item>
+        <item quantity="two">%d aktive Pässe</item>
+        <item quantity="few">%d aktive Pässe</item>
+        <item quantity="many">%d aktive Pässe</item>
+    </plurals>
+    <plurals name="v2_plurals_days">
+        <item quantity="other">%d Tage</item>
+        <item quantity="zero">%d Tage</item>
+        <item quantity="one">%d Tag</item>
+        <item quantity="two">%d Tage</item>
+        <item quantity="few">%d Tage</item>
+        <item quantity="many">%d Tage</item>
+    </plurals>
+    <plurals name="v2_plurals_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="zero">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+        <item quantity="two">%d Stunden</item>
+        <item quantity="few">%d Stunden</item>
+        <item quantity="many">%d Stunden</item>
+    </plurals>
+    <plurals name="v2_plurals_minutes">
+        <item quantity="other">%d Minuten</item>
+        <item quantity="zero">%d Minuten</item>
+        <item quantity="one">%d Minute</item>
+        <item quantity="two">%d Minuten</item>
+        <item quantity="few">%d Minuten</item>
+        <item quantity="many">%d Minuten</item>
+    </plurals>
+    <plurals name="v2_plurals_seconds">
+        <item quantity="other">%d Sekunden</item>
+        <item quantity="zero">%d Sekunden</item>
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="two">%d Sekunden</item>
+        <item quantity="few">%d Sekunden</item>
+        <item quantity="many">%d Sekunden</item>
+    </plurals>
+    <plurals name="v2_plurals_weeks">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="zero">%d Wochen</item>
+        <item quantity="one">%d Woche</item>
+        <item quantity="two">%d Wochen</item>
+        <item quantity="few">%d Wochen</item>
+        <item quantity="many">%d Wochen</item>
+    </plurals>
+    <plurals name="v2_timeline_allbackground_data_apps">
+        <item quantity="other">%d andere Apps</item>
+        <item quantity="zero">%d andere Apps</item>
+        <item quantity="one">%d andere App</item>
+        <item quantity="two">%d andere Apps</item>
+        <item quantity="few">%d andere Apps</item>
+        <item quantity="many">%d andere Apps</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_status_activity_title">Статус</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
+    <string name="wifiap_configure_subtext">%1$s %2$s портативная точка доступа Wi-Fi</string>
+    <string name="wifiap_configure_ssid_default">Androidwifiap</string>
+    <string name="wifiap_configure_ap_text">Настроить точку доступа Wi-Fi</string>
+    <string name="wifiap_list_category">ПОДКЛЮЧЕННЫЕ УСТРОЙСТВА</string>
+    <string name="wifiap_turn_on_hint">Для использования точки доступа Wi-Fi, включите ее</string>
+    <string name="wifiap_settings_desc">Точка доступа Wi-Fi может раздавать подключение к интернету с телефона другим ПК/мобильным устройствам через Wi-Fi</string>
+    <string name="wifiap_settings_indication">После включения точки доступа Wi-Fi, другие ПК/мобильные устройства могут подключиться к ней и начать использовать интернет с помощью следующих шагов:</string>
+    <string name="wifiap_settings_indication_step1">1. Включите Wi-Fi на ПК/мобильном устройстве</string>
+    <string name="wifiap_settings_indication_step2">2. Найдите “%s” в списке Wi-Fi сетей</string>
+    <string name="wifiap_settings_indication_step3_ssid">3. Выберите “%s”.</string>
+    <string name="wifiap_settings_indication_step3_all" formatted="false">3. Выберите “%s” и введите ”%s” в поле пароль</string>
+    <string name="wifiap_settings_indication_step4">4. Начните использовать интернет на ПК/мобильном устройстве</string>
+    <string name="wifiap_settings_menu_help">Помощь</string>
+    <string name="wifiap_default_device_name">Аноним</string>
+    <string name="wifiap_title">Точка доступа Wi-Fi</string>
+    <string name="wifi_ssid">Имя сети</string>
+    <string name="wifi_ssid_hint">Введите SSID</string>
+    <string name="wifi_security">Безопасность</string>
+    <string name="wifi_password">Пароль</string>
+    <string name="wifi_show_password">Показать пароль</string>
+    <string name="wifi_save">Сохранить</string>
+    <string name="credentials_password_too_short">Пароль должен содержать не менее 8 символов</string>
+    <string name="wifi_security_none">Открытая</string>
+    <string name="open_security_settings_note">С открытой безопасностью, любое устройство может подключиться к Вашей точке доступа Wi-Fi и использовать подключение к интернету</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_ap_band_config">Частота AP</string>
+    <string name="wifi_ap_choose_2G">2.4 ГГц</string>
+    <string name="wifi_ap_choose_5G">5 ГГц</string>
+    <string name="wifi_tether_configure_ap_text">Настроить точку доступа Wi-Fi</string>
+    <string name="wifi_cancel">Отмена</string>
+    <string name="maximum_connections_button_text">Максимальное число подключений</string>
+    <string name="wifi_hotspot_mode_title">Выключение точки доступа Wi-Fi</string>
+    <string name="dialog_not_show_again">Больше не показывать</string>
+    <string name="wifi_ap_broadcast_ssid">Имя сети (SSID)</string>
+</resources>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Поиск</string>
+	 <string name="choose_search_engine">Выберите источник поиска по умолчанию</string>
+	 <string name="appindex_description">функции установленных приложений</string>
+     <string name="appindex_search_label">Функции приложений</string>
+     <string name="pull_to_input">Потяните вниз, чтобы открыть панель поиска</string>
+     <string name="release_to_input">Отпустите, чтобы открыть панель поиска</string>
+	 <string name="app_loaction">Найти на экране</string>
+     <string name="local_app">Приложения</string>
+     <string name="local_setting">Настройки</string>
+	 <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\" )</string>
+     <string name="recent_apps_filter">Скрыть не используемые приложения</string>
+     <string name="recent_close_content">"Выключить эту функцию?
+Вы можете изменить это в Системные приложения > Поиск"</string>
+     <string name="recent_close_title">Выключение функции</string>
+     <string name="recent_delete_content">"Скрыть эти приложения?
+Вы можете изменить это в Системные приложения > Поиск"</string>
+     <string name="recent_delete_negative">Отмена</string>
+     <string name="recent_delete_positive">OK</string>
+     <string name="recent_delete_title">Скрытие приложений</string>
+     <string name="recent_edit">Изменить</string>
+     <string name="recent_edit_done">Готово</string>
+     <string name="recent_filter_functions">Выключенные функции</string>
+     <string name="recent_function">Функции</string>
+     <string name="search_button">Найти</string>
+     <string name="update_check">Проверить обновление</string>
+     <string name="update_right_now">Обновить</string>
+     <string name="update_title">Доступно обновление</string>
+     <string name="update_version_alpha">Alpha</string>
+     <string name="update_version_dev">Beta</string>
+     <string name="update_version_stable">Stable</string>
+     <string name="updated_title">Обновление MIUI не требуется</string>
+	 <string name="xiaomi_source_url_alpha">ms</string>
+	 <string name="permission_prompt_detail">Поиск фильмов, книг, музыки и многое другое</string>
+     <string name="permission_prompt_start">OK</string>
+     <string name="permission_prompt_started_info">Глобальный поиск включен</string>
+     <string name="permission_prompt_title">Глобальный поиск</string>
+     <string name="switch_application">Приложения</string>
+     <string name="switch_browser">Браузер</string>
+     <string name="switch_contacts">Контакты</string>
+     <string name="switch_file">Файлы</string>
+     <string name="switch_mms">Сообщения</string>
+     <string name="switch_notes">Заметки</string>
+     <string name="switch_online">Онлайн</string>
+     <string name="switch_prompt_ignore">Отмена</string>
+     <string name="switch_prompt_set">Опции</string>
+     <string name="switch_prompt_title">Не можете найти %s?</string>
+     <string name="switch_prompt_title_default">Не удается найти то, что Вам нужно?</string>
+     <string name="switch_setting">Настройки</string>
+     <string name="top_clicked">Частые запросы</string>
+	 <string name="entrance_setting">Запуск поиска</string>
+     <string name="swipe_up_summary">Проведите пальцем вверх, чтобы открыть глобальный поиск</string>
+     <string name="swipe_up_title">Свайп вверх</string>
+	 <string name="application_desc">Поиск установленных приложений</string>
+     <string name="applications_search_label">Приложения</string>
+     <string name="provider_uri">content://com.android.quicksearchbox.xiaomi/suggest_last_access_hint</string>
+     <string name="settings_description">Установленные приложения</string>
+	 <string name="suggest_open_app_failed">Не удалось открыть это приложение</string>
+	 <string name="common_setting">Основные настройки</string>
+     <string name="recent_apps">Недавние приложения</string>
+     <string name="search_group_fold">Скрыть</string>
+     <string name="search_group_unfold">Еще</string>
+     <string name="show_hot_words">Ключевые слова</string>
+	 <string name="xiaomi_homepage_hint">ms</string>
+     <string name="xiaomi_homepage_suggest">ms</string>
+     <string name="xiaomi_source_url">ms</string>
+	 <string name="search_apps">Поиск приложений</string>
+     <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
+     <string name="search_videos">Поиск видео</string>
+     <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
+	 <string name="hot_words">[{\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Xiaomi\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"MIUI\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Видео\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Музыка\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Стиль\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Фантастика\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Игры\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Форум\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Покупки\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Статьи\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Новости\",\"type\":\"unknown\",\"url\":\"\"}, {\"min_version\":-1,\"package\":\"com.android.quicksearchbox\",\"style\":\"text\",\"text\":\"Приколы\",\"type\":\"unknown\",\"url\":\"\"}]</string>
+	 <string name="search_keyword_quicksearchbox">Поиск</string>
+     <string name="search_path_quicksearchbox">Настройки/Системные приложения/Поиск</string>
+	 <string name="baidu_search_url_from_minus_one">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+	 <string name="search_suggestion">Показывать предложения</string>
+	 <string name="baidu_search_url_from_default">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_input">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_launcher">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+     <string name="baidu_search_url_from_systemui">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+	 <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+     <string name="baidu_search_url">https://www.google.ru/search?q=%s&amp;tn=ins</string>
+	 <string name="connect_and_retry">Подключитесь к сети и повторите</string>
+     <string name="network_unavailable">Нет подключения к сети</string>
+     <string name="web_search_results">Результаты поиска</string>
+	 <string name="default_hint">Поиск</string>
+	 <string name="clear_history">Очистить историю</string>
+     <string name="hot_search">Популярные запросы</string>
+     <string name="loading">Загрузка</string>
+     <string name="search_history">История</string>
+     <string name="show_more">Еще</string>
+     <string name="xiaomi_hint">http://api.miuipro.ru/search/hint</string>
+     <string name="xiaomi_hot_query">http://api.miuipro.ru/search/hotquery</string>
+	 <string name="searchable_lable_app">Приложения</string>
+     <string name="searchable_lable_browser">Браузер</string>
+     <string name="searchable_lable_duokan">Duokan</string>
+     <string name="searchable_lable_music">Музыка</string>
+     <string name="searchable_lable_video">Видео</string>
+     <string name="searchable_sources">Категории поиска</string>
+     <string name="clear_shortcuts">Очистить ярлыки</string>
+     <string name="clear_shortcuts_agree">Очистить</string>
+     <string name="clear_shortcuts_disagree">Назад</string>
+     <string name="clear_shortcuts_prompt">Вся история поисковых запросов будет очищена (очистка истории браузера: браузер - настройки)</string>
+     <string name="clear_shortcuts_summary">Очистка истории всех поисковых запросов</string>
+     <string name="corpus_description_apps">Поиск установленных приложений</string>
+     <string name="corpus_description_web">Веб-поиск, закладки и история браузера</string>
+     <string name="corpus_hint_apps">Поиск приложений</string>
+     <string name="corpus_label_apps">Приложения</string>
+     <string name="corpus_label_global">Все</string>
+     <string name="corpus_label_web">Интернет</string>
+     <string name="corpus_selection_heading">Поиск</string>
+     <string name="cta_declaration">Для всех возможностей поиска, требуется подключение к сети, определение местоположения, чтение журнала вызовов и т.д. Продолжить?</string>
+     <string name="cta_declaration_ignore">Больше не показывать</string>
+     <string name="cta_declaration_negative_text">Отмена</string>
+     <string name="cta_declaration_positive_text">OK</string>
+     <string name="cta_declaration_title">Условия использования</string>
+     <string name="default_search_domain">.google.ru</string>
+     <string name="device_settings_category_title">Очистить ярлыки</string>
+     <string name="distance_unit_kilometer">км</string>
+     <string name="distance_unit_meter">м</string>
+     <string name="google_app_label">Поиск Google</string>
+     <string name="google_search_description">Предложения Google поиска</string>
+     <string name="google_search_hint">Поиск Google</string>
+     <string name="google_search_label">Google</string>
+     <string name="google_settings_category_title">Поиск Google</string>
+     <string name="menu_help">Помощь</string>
+     <string name="menu_settings">Параметры поиска</string>
+     <string name="recently_shortcut_label">Недавние ярлыки</string>
+     <string name="remove_from_history">Удалено из истории поиска</string>
+     <string name="remove_from_history_failed">Ошибка удаления записи из истории поиска</string>
+     <string name="search_in_app_store">Поиск в маркете</string>
+     <string name="search_in_web">Поиск в интернете</string>
+     <string name="search_settings">Настройки</string>
+     <string name="search_sources">Элементы поиска</string>
+     <string name="search_sources_summary">Выберите что искать на телефоне</string>
+     <string name="search_widget">Поиск</string>
+     <string name="send_secret_code">Отправить секретный код</string>
+     <string name="system_search_category_title">Телефон</string>
+     <string name="voice_search_hint_quotation_end">\"</string>
+     <string name="voice_search_hint_quotation_start">\"</string>
+     <string name="voice_search_hint_title">Попробуйте сказать:</string>
+     <string name="xiaomi_search_label">Результаты</string>
+</resources>

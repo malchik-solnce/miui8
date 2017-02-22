@@ -1,0 +1,88 @@
+{
+    "message": "success",
+    "random_color": true,
+    "result": [
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MIUI MS",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Xiaomi",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Видео",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Музыка",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Темы",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Фантастика",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Игры",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Форум",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "iOS",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Android",
+            "type": "unknown",
+            "url": ""
+        }
+    ],
+    "status": 0,
+    "track_id": ""
+}

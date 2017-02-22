@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v2_background_data_usage_this_month">
+        <item quantity="other">%1$d выкарыстана %2$s у фоне ў гэтым месяцы.</item>
+        <item quantity="zero">%1$d прыкладанняў у гэтым месяцы выкарыстоўвалі дадзеныя ў фоне.</item>
+        <item quantity="one">%1$d прыкладанне ў гэтым месяцы выкарыстала %2$s у фоне.</item>
+        <item quantity="two">%1$d прыкладання ў гэтым месяцы выкарысталі %2$s у фоне.</item>
+        <item quantity="few">%1$d прыкладання ў гэтым месяцы выкарысталі %2$s у фоне.</item>
+        <item quantity="many">%1$d прыкладанняў у гэтым месяцы выкарысталі %2$s у фоне.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_this_week">
+        <item quantity="other">%1$d прыкладанняў на гэтым тыдні выкарысталі %2$s у фоне.</item>
+        <item quantity="zero">%1$d прыкладанняў на гэтым тыдні выкарыстоўвалі дадзеныя ў фоне.</item>
+        <item quantity="one">%1$d прыкладанне на гэтым тыдні выкарыстала %2$s у фоне.</item>
+        <item quantity="two">%1$d прыкладання на тэтым тыдні выкарысталі %2$s у фоне.</item>
+        <item quantity="few">%1$d прыкладання на гэтым тыдні выкарысталі %2$s у фоне.</item>
+        <item quantity="many">%1$d прыкладанняў на тэтым тыдні выкарысталі %2$s у фоне.</item>
+    </plurals>
+    <plurals name="v2_background_data_usage_today">
+        <item quantity="other">%1$d прыкладанняў сёння выкарысталі %2$s у фоне.</item>
+        <item quantity="zero">%1$d прыкладанняў сёння выкарыстоўвалі дадзеныя ў фоне.</item>
+        <item quantity="one">%1$d прыкладанне сёння выкарыстала %2$s у фоне.</item>
+        <item quantity="two">%1$d прыкладання сёння выкарысталі %2$s у фоне.</item>
+        <item quantity="few">%1$d прыкладання сёння выкарысталі %2$s у фоне.</item>
+        <item quantity="many">%1$d прыкладанняў сёння выкарысталі %2$s у фоне.</item>
+    </plurals>
+    <plurals name="v2_mn_active_passes">
+        <item quantity="other">%d актыўныя карты pass</item>
+        <item quantity="zero">%d актыўныя карты pass</item>
+        <item quantity="one">%d актыўная карта pass</item>
+        <item quantity="two">%d актыўныя карты pass</item>
+        <item quantity="few">%d актыўных карт pass</item>
+        <item quantity="many">%d актыўных карт pass</item>
+    </plurals>
+    <plurals name="v2_plurals_days">
+        <item quantity="other">%d дзён</item>
+        <item quantity="zero">%d дзён</item>
+        <item quantity="one">%d дзень</item>
+        <item quantity="two">%d дні</item>
+        <item quantity="few">%d дзён</item>
+        <item quantity="many">%d дзён</item>
+    </plurals>
+    <plurals name="v2_plurals_hours">
+        <item quantity="other">%d гадзін</item>
+        <item quantity="zero">%d гадзін</item>
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="two">%d гадзіны</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+    </plurals>
+    <plurals name="v2_plurals_minutes">
+        <item quantity="other">%d хвілін</item>
+        <item quantity="zero">%d хвілін</item>
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="two">%d хвіліны</item>
+        <item quantity="few">%d хвілін</item>
+        <item quantity="many">%d хвілін</item>
+    </plurals>
+    <plurals name="v2_plurals_seconds">
+        <item quantity="other">%d секунд</item>
+        <item quantity="zero">%d секунд</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="two">%d секунды</item>
+        <item quantity="few">%d секунд</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+    <plurals name="v2_plurals_weeks">
+        <item quantity="other">%d тыдняў</item>
+        <item quantity="zero">%d тыдняў</item>
+        <item quantity="one">%d тыдзень</item>
+        <item quantity="two">%d тыдня</item>
+        <item quantity="few">%d тыдняў</item>
+        <item quantity="many">%d тыдняў</item>
+    </plurals>
+    <plurals name="v2_timeline_allbackground_data_apps">
+        <item quantity="other">%d іншых прыкладанняў</item>
+        <item quantity="zero">%d іншых прыкладання</item>
+        <item quantity="one">%d іншае прыкладанне</item>
+        <item quantity="two">%d іншых прыкладання</item>
+        <item quantity="few">%d іншых прыкладанняў</item>
+        <item quantity="many">%d іншых прыкладанняў</item>
+    </plurals>
+</resources>

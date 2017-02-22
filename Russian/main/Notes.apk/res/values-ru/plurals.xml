@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="note_count_in_folder">
+        <item quantity="other">заметок %1$s</item>
+        <item quantity="one">заметок 1</item>
+     </plurals>
+     <plurals name="search_results_title">
+        <item quantity="other">%1$s найдено \"%2$s\"</item>
+        <item quantity="one">%1$s найдено \"%2$s\"</item>
+     </plurals>
+     <plurals name="note_terms">
+        <item quantity="other">Заметок: %1$s</item>
+        <item quantity="one">Заметок: %1$s</item>
+     </plurals>
+     <plurals name="folder_terms">
+        <item quantity="other">Папок: %1$s</item>
+        <item quantity="one">Папок: %1$s</item>
+     </plurals>
+	 <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Не синхронизировано: %1$s</item>
+        <item quantity="one">Не синхронизировано: %1$s</item>
+     </plurals>
+</resources>

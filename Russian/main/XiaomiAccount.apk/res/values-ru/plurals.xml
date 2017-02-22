@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="updated_contacts">
+        <item quantity="other">Обновлено контактов: %s</item>
+        <item quantity="one">Обновлено контактов: %s</item>
+     </plurals>
+     <plurals name="dirty_contacts_count">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: %d</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="one">%d сообщений</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="other">Заметок %d</item>
+        <item quantity="one">Заметок %d</item>
+     </plurals>
+	 <plurals name="view_all_apps">
+        <item quantity="other">Показать все %d приложения</item>
+        <item quantity="one">Показать %d приложение</item>
+     </plurals>
+     <plurals name="view_all_browsers">
+        <item quantity="other">Показать все %d браузеров</item>
+        <item quantity="one">Показать %d браузер</item>
+        <item quantity="few">Показать все %d браузера</item>
+        <item quantity="many">Показать все %d браузеров</item>
+     </plurals>
+     <plurals name="view_all_devices">
+        <item quantity="other">Показать все %d устройств</item>
+        <item quantity="one">Показать %d устройство</item>
+        <item quantity="few">Показать все %d устройства</item>
+        <item quantity="many">Показать все %d устройств</item>
+     </plurals>
+</resources>

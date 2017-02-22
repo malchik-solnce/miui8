@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="sim1LineNumber">Номер SIM 1:</string>
+     <string name="sim2LineNumber">Номер SIM 2:</string>
+     <string name="xdivert_setting_primary_user_only">X-Divert недоступен для гостя</string>
+     <string name="xdivert_status_active">X-Divert активен</string>
+     <string name="xdivert_status_not_active">X-Divert неактивен</string>
+	 <string name="close_dialog">OK</string>
+     <string name="error_updating_title">Call settings error</string>
+     <string name="exception_error">Ошибка сети или SIM-карты</string>
+     <string name="fdn_check_failure">"Your Phone app's Fixed Dialing Numbers setting is turned on. As a result, some call-related features aren't working."</string>
+     <string name="phone_numbers">Введите телефонные номера</string>
+     <string name="proceed">Proceed</string>
+     <string name="radio_off_error">Turn on the radio before viewing these settings.</string>
+     <string name="reading_settings">Чтение настроек…</string>
+     <string name="response_error">Неожиданный отклик сети</string>
+     <string name="reverting_settings">Reverting settings…</string>
+     <string name="set_subscription_error_atleast_one">Выберите по крайней мере одну подписку</string>
+     <string name="sub1LineNumber">Sub1 Number:</string>
+     <string name="sub2LineNumber">Sub2 Number:</string>
+     <string name="sub_1">SUB 1</string>
+     <string name="sub_2">SUB 2</string>
+     <string name="sub_3">SUB 3</string>
+     <string name="sum_xdivert_disabled">Smart-Divert выключен</string>
+     <string name="sum_xdivert_enabled">Smart-Divert включен</string>
+     <string name="updating_settings">Обновление настроек…</string>
+     <string name="updating_title">Настройки вызовов</string>
+     <string name="xdivert_active">Active</string>
+     <string name="xdivert_button">Smart-Divert Setting</string>
+     <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
+     <string name="xdivert_imsi_not_read">Sim Initialization happening.Please try after some time.</string>
+     <string name="xdivert_not_active">Not Active</string>
+     <string name="xdivert_not_supported">Smart-Divert Not supported for CDMA</string>
+     <string name="xdivert_partial_set">Smart-Divert has been set only for 1st subscription</string>
+     <string name="xdivert_setting">Smart-Divert Setting</string>
+     <string name="xdivert_status">Статус Smart-Diver</string>
+     <string name="xdivert_sub_absent">Both subscriptions should be activated to process Smart-Divert</string>
+     <string name="xdivert_summary">Call forward when unreachable</string>
+     <string name="xdivert_title">Smart-Divert</string>
+</resources>

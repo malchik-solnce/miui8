@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контакты SIM</string>
+    <string name="account_sim">SIM-карта</string>
+    <string name="account_phone">Телефон</string>
+</resources>

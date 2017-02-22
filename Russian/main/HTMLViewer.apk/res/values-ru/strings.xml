@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Просмотр HTML</string>
+	 <string name="ad_service">Сервис рекламы</string>
+     <string name="settings_ad_loading">Загрузка…</string>
+     <string name="settings_ad_loading_unavailable">Проблема при загрузке</string>
+	 <string name="ime_privacy_policy">Выберите клавиатуру</string>
+	 <string name="app_name_which_call">Приложение: %s</string>
+     <string name="app_version_which_call">Версия приложения: %s</string>
+     <string name="license_host_unreachable">Ошибка подключения к интернету. Подробнее: %s</string>
+     <string name="loading">Загрузка…</string>
+     <string name="mibi_license">Условия пользования Mi Credit</string>
+     <string name="policy_name">Политика конфиденциальности: %s</string>
+	 <string name="open_wifi_connect_summary">Нажмите для подробностей</string>
+     <string name="open_wifi_connect_title">Подключение к %1$s</string>
+     <string name="permdesc_accessDrm">Разрешить приложению доступ к защищенному DRM контенту</string>
+	 <string name="settings_license_activity_loading">Загрузка…</string>
+     <string name="settings_license_activity_title">Показать лицензию</string>
+     <string name="settings_license_activity_unavailable">Не удалось загрузить лицензию</string>
+     <string name="settings_safetylegal_activity_loading">Загрузка…</string>
+     <string name="settings_safetylegal_activity_title">Безопасная информация</string>
+     <string name="settings_safetylegal_activity_unreachable">Сеть недоступна. Для просмотра информации, посетите %s с любого компьютера, подключенного к интернет.</string>
+     <string name="settings_safetylegal_title">Безопасная информация</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="click_to_enter_text">Посмотреть</string>
+	 <string name="keyguard_charging_info_battery_temperature_text">Температура батареи</string>
+     <string name="keyguard_charging_info_battery_used_time_text">Время использования</string>
+     <string name="keyguard_charging_info_charging_full_need_hour_time__text">До полной зарядки около %d ч.</string>
+     <string name="keyguard_charging_info_charging_full_need_min_time__text">До полной зарядки около %d мин.​</string>
+     <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">До полной зарядки около %d ч. %d мин.</string>
+     <string name="keyguard_charging_info_charging_text">Зарядка</string>
+     <string name="keyguard_charging_info_charging_voltage_text">Напряжение</string>
+     <string name="keyguard_charging_info_click_to_detail">Посмотреть подробности</string>
+     <string name="keyguard_charging_info_could_use_hour_time_text">Осталось около %d ч.</string>
+     <string name="keyguard_charging_info_could_use_min_time_text">Осталось около %d мин.</string>
+     <string name="keyguard_charging_info_could_use_time_text" formatted="false">Осталось около %d ч. %d мин.</string>
+     <string name="keyguard_charging_info_current_now_text">Мониторинг</string>
+     <string name="keyguard_charging_info_data_c">%s℃</string>
+     <string name="keyguard_charging_info_data_ma">%s mA</string>
+     <string name="keyguard_charging_info_data_percent">%s%%</string>
+     <string name="keyguard_charging_info_data_v">%s V</string>
+     <string name="keyguard_charging_info_drained_hour_time_format">%d ч.</string>
+     <string name="keyguard_charging_info_drained_min_time_format">%d мин.</string>
+     <string name="keyguard_charging_info_drained_power_percent_text">Разрядится</string>
+     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d ч. %d мин.</string>
+     <string name="keyguard_charging_info_finished_charging_text">Полностью заряжена</string>
+     <string name="keyguard_charging_info_last_charge_time">d/MM HH:mm</string>
+     <string name="keyguard_charging_info_last_charge_today_time">Сегодня %s</string>
+     <string name="keyguard_charging_info_last_charge_yesterday_time">Вчера %s</string>
+     <string name="keyguard_charging_info_last_charged_time_text">Последняя зарядка</string>
+     <string name="keyguard_charging_info_tip_text1">Заряжайте устройство при минимум 10%, чтобы продлить срок службы батареи</string>
+     <string name="keyguard_charging_info_tip_text2">Не перезаряжайте устройство. Лучше несколько зарядок вечером, чем, оставлять на всю ночь.</string>
+     <string name="keyguard_charging_info_tip_text3">Избегайте зарядки устройства, когда температура окружающей среды ниже 0℃</string>
+     <string name="keyguard_charging_info_tip_text4">Не используйте активно устройство во время его зарядки, чтобы избежать перегрева</string>
+     <string name="keyguard_charging_info_tip_text5">Зарядка батареи происходит дольше, если она горячее, чем обычно</string>
+     <string name="keyguard_charging_info_tip_text6">Выключите экран и уберите устройство в сторону, чтобы охладить его</string>
+     <string name="phone_locked_foget_password">Забыли пароль?</string>
+     <string name="phone_locked_foget_password_content">"Вы можете зайти на i.mi.com и войти в Mi аккаунт, который связан с этим устройствоми очистить все данные. Это позволит удалить все персональные данные, хранящиеся на этом устройстве. После этого, Вы можете перезагрузить устройство и восстановить контакты, сообщения, фотографии и другие предметы из Mi Cloud. 
+
+Вы не сможете сделать это, если вошли не в свой Mi аккаунт на этом устройстве. В противном случае, Вам придется прошить устройство еще раз."</string>
+     <string name="phone_locked_foget_password_footer">"Шаги:
+Войдите в аккаунт на i.mi.com, затем перейдите на “Поиск устройства”, выберите устройство и нажмите Очистить устройство."</string>
+     <string name="phone_locked_foget_password_header">Что делать, если я забыл свой пароль?</string>
+     <string name="phone_locked_foget_password_ok">OK</string>
+	 <string name="fingerprint_add_text">Интерфейс отпечатков пальцев был обновлен. Добавьте свой отпечаток снова.</string>
+     <string name="fingerprint_add_title">Добавить отпечаток</string>
+	 <string name="custom_lock_wallpaper_enter">Войти</string>
+	 <string name="symbol_colon">:</string>
+	 <string name="lock_wallpaper_enter">Войти</string>
+	 <string name="fingerprint_enter_second_psw_msg">Введите пароль второго пользователя после перезагрузки устройства, чтобы использовать отпечатки пальцев</string>
+     <string name="fingerprint_enter_second_psw_title">Пароль второго пользователя</string>
+	 <string name="lock_wallpaper_learn_more">Узнать больше ></string>
+     <string name="lock_wallpaper_see_more">Увидеть больше ></string>
+	 <string name="accessibility_enter_lock_wallpaper">Нажмите на обои экрана блокировки</string>
+	 <string name="input_pattern_hint_text">Нарисуйте графический ключ</string>
+	 <string name="left_action_default_hint_text">Телефон</string>
+	 <string name="fingerprint_lockout_msg">Подождите минуту, а затем повторите разблокировку с помощью отпечатка пальца</string>
+	 <string name="input_password_after_boot_msg">Для разблокировки устройства введите пароль</string>
+	 <string name="invalid_sim_pin_hint">Введите PIN-код из 4-8 цифр</string>
+     <string name="invalid_sim_puk_hint">PUK-код состоит из 8 цифр или больше</string>
+	 <string name="set_lock_wallpaper_failed">Нет новых обоев</string>
+	 <string name="lock_screen_date_12">EEE, MMMM dd</string>
+	 <string name="fingerprint_not_identified_msg">Для разблокировки устройства введите пароль</string>
+     <string name="fingerprint_not_identified_title">Не удалось считать отпечаток</string>
+     <string name="fingerprint_try_again_text">Повторите еще раз</string>
+     <string name="confirm_pin_msg">Введите PIN-код еще раз</string>
+     <string name="default_lockscreen_unlock_hint_text">Сдвиньте вверх для разблокировки</string>
+     <string name="delete">Удалить</string>
+     <string name="emergency_call_string">SOS</string>
+     <string name="experimental_try_string">Попытка</string>
+     <string name="experimental_validate">Проверить</string>
+     <string name="experimental_validate_fail">Ошибка входа</string>
+     <string name="experimental_validate_password">Пароль</string>
+     <string name="experimental_validate_progress">Вход…</string>
+     <string name="experimental_validate_thanks">Спасибо!</string>
+     <string name="experimental_validate_username">Пользователь</string>
+     <string name="experimental_validate_warning">Спасибо, что помогаете нам сделать MIUI лучше!</string>
+     <string name="find_device_turn_off_flight_mode">Выключите режим полета</string>
+     <string name="forget_password_string">Забыли?</string>
+     <string name="incorrect_pincode">Неверный PIN-код</string>
+     <string name="incorrect_pincode_remaining_attempts">Неверный PIN-код, осталось попыток: %d</string>
+     <string name="incorrect_pukcode">Неверный PUK-код</string>
+     <string name="incorrect_pukcode_remaining_attempts">Неверный PUK-код, осталось попыток: %d</string>
+     <string name="input_password_hint_text">Введите пароль</string>
+     <string name="input_pin_code">PIN-код</string>
+     <string name="input_puk_code">PUK-код</string>
+     <string name="invalid_confirm_pin_hint">PIN-коды не совпадают</string>
+     <string name="keyguard_torch_cover_text">Чтобы держать фонарик включенным, нажмите кнопку питания</string>
+     <string name="lock_screen_date">"d MMMM yyyy
+EEEE"</string>
+     <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
+     <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
+     <string name="lockscreen_access_pattern_detected">Комбинация завершена</string>
+     <string name="lockscreen_access_pattern_start">Комбинация началась</string>
+     <string name="lockscreen_charging_msg">Зарядка</string>
+     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать устройство (%d попыток). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных.</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d раз был неправильно введен пароль. После %d неудачных попыток, Вам будет предложено разблокировать устройство с помощью аккаунта.
+
+ Попробуйте снова через %d секунд."</string>
+     <string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать устройство (с %d попыток). Будут установлены настройки по умолчанию.</string>
+     <string name="lockscreen_glogin_checking_password">Проверка…</string>
+     <string name="lockscreen_glogin_invalid_input">Ошибка в имени пользователя или пароле</string>
+     <string name="lockscreen_glogin_password_hint">Пароль</string>
+     <string name="lockscreen_glogin_submit_button">Войти</string>
+     <string name="login_website_in_case_forget_password">Для сброса пароля, зайдите на i.mi.com</string>
+     <string name="missed_call_text">Пропущенные вызовы: %d</string>
+     <string name="miui_keyguard_ble_unlock_succeed_msg">"Разблокировано Bluetooth устройством"</string>
+     <string name="open_camera_hint_text">Сдвиньте влево, чтобы открыть %s</string>
+     <string name="open_remote_center_hint_text">Сдвиньте вправо, чтобы открыть %s</string>
+     <string name="open_wifi_settings">Открыть настройки подключения</string>
+     <string name="phone_locked_string">Устройство заблокировано</string>
+     <string name="phone_locked_timeout_minutes_string">Вернитесь сюда через %s мин.</string>
+     <string name="phone_locked_timeout_seconds_string">Вернитесь сюда через %s сек.</string>
+     <string name="unlock_sim_string">Разбл.</string>
+     <string name="unlock_string">OK</string>
+     <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
+     <string name="unlockscreen_low_battery">Зарядите устройство</string>
+     <string name="unlockscreen_recharge_completed">Зарядка завершена</string>
+     <string name="unlockscreen_recharging_message">Зарядка (%d%%)</string>
+     <string name="wrong_password">Неверный пароль</string>
+</resources>

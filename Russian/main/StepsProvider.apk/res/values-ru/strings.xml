@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Провайдер шагов</string>
+    <string name="permstep_label">Чтение шагов</string>
+    <string name="permstep_description">Разрешить приложению читать информацию о шагах с Вашего телефона</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="boot_msg_text">
+        <item>Подготовка к обновлению…</item>
+        <item>Обновление системы…</item>
+        <item>Оптимизация приложений…</item>
+        <item>Оптимизация системы…</item>
+        <item>Завершение обновления…</item>
+     </string-array>
+	 <string-array name="float_notification_whitelist">
+        <item>com.perm.kate.pro</item>
+        <item>com.google.android.talk</item>
+        <item>com.tencent.mm</item>
+        <item>com.google.android.youtube</item>
+        <item>com.vkmd.android</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.android.calendar</item>
+        <item>com.android.phone</item>
+        <item>com.android.mms</item>
+        <item>com.whatsapp</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>android</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.updater</item>
+        <item>com.android.settings</item>
+        <item>com.android.bluetooth</item>
+        <item>com.whatsapp</item>
+        <item>org.telegram.messenger</item>
+     </string-array>
+</resources>

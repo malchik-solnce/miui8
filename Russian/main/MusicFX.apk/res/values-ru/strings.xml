@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">MusicFX</string>
+     <string name="bass_boost_strength">Усиление нижних частот</string>
+     <string name="ci_extreme">Усилитель FX</string>
+     <string name="eq_dialog_title">Эквалайзер</string>
+     <string name="headset_plug">Подключите наушники для этих эффектов</string>
+     <string name="main_toggle_effects_title">Аудиоэффекты</string>
+     <string name="no_effects">Эффекты недоступны</string>
+     <string name="picker_title">Выберите эквалайзер</string>
+     <string name="pr_dialog_title">Шаблон ревербератора</string>
+     <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+     <string name="pr_title">Реверберация:</string>
+     <string name="setup">Настройка</string>
+     <string name="user">Пользователь</string>
+     <string name="virtualizer_strength">Эффект 3D</string>
+	 <string name="combo_device">Эффекты доступны только при воспроизведении через наушники</string>
+     <string name="toggle_button_off">Отключить</string>
+     <string name="toggle_button_on">Включить</string>
+	 <string name="eq_custom">Для настройки, выберите Пользовательский</string>
+	 <string name="power_on_prompt">Нажмите кнопку питания в правом верхнем углу</string>
+	 <string name="classical">Classical</string>
+     <string name="dance">Dance</string>
+     <string name="flat">Flat</string>
+     <string name="folk">Folk</string>
+     <string name="heavy_metal">Heavy Metal</string>
+     <string name="hip_hop">Hip Hop</string>
+     <string name="jazz">Jazz</string>
+     <string name="largehall">LargeHall</string>
+     <string name="largeroom">LargeRoom</string>
+     <string name="mediumhall">MediumHall</string>
+     <string name="mediumroom">MediumRoom</string>
+     <string name="none">None</string>
+     <string name="normal">Normal</string>
+     <string name="plate">Plate</string>
+     <string name="pop">Pop</string>
+     <string name="rock">Rock</string>
+     <string name="smallroom">SmallRoom</string>
+</resources>

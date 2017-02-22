@@ -1,0 +1,16 @@
+{
+    data: [
+        {
+            title: "force_quick_search_title",
+            type: "activity",
+            image: "force_touch_search",
+            intent: "intent://quicksearch#Intent;scheme=mibrowser;component=com.android.browser/.BrowserActivity;B.force_touch=true;end"
+        },
+        {
+            title: "force_touch_bookmark_history_title",
+            type: "activity",
+            image: "force_touch_bookmark_history",
+            intent: "intent:#Intent;component=com.android.browser/.BookmarkAndHistoryActivity;B.force_touch=true;end"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Диспетчер загрузок</string>
+	 <string name="notify_install_guide_forward_text">Открыть</string>
+	 <string name="notify_install_guide_msg">Открыть</string>
+     <string name="notify_install_guide_title">%s установлено</string>
+	 <string name="notify_disabled_net_by_app">Подключение ограничено приложением Безопасность</string>
+     <string name="notify_only_wifi_download">Ожидание Wi-Fi</string>
+	 <string name="xl_speedup_experience_notify_context">Увеличение скорости загрузки благодаря сервису Xunlei</string>
+     <string name="xl_speedup_experience_notify_title">Сервис ускорения</string>
+     <string name="xl_speedup_notify_button_experience">Попробовать</string>
+     <string name="xl_speedup_notify_button_member">Купить</string>
+	 <string name="download_apk_desktop_installing">Установка</string>
+     <string name="download_apk_desktop_pause">Пауза</string>
+     <string name="download_apk_desktop_pending">Ожидание</string>
+     <string name="download_apk_desktop_running">Загрузка</string>
+	 <string name="mobile_recommended_title">Мобильный интернет</string>
+	 <string name="button_download_now">Скачать</string>
+	 <string name="button_wait_for_wifi">Ждать</string>
+	 <string name="recommended_file_more_in_mobile" formatted="false">При скачивании %s файлов (%s ) через мобильный интернет возможны дополнительные затраты трафика</string>
+     <string name="recommended_file_one_in_mobile">При скачивании этого файла (%s ) через мобильный интернет возможны дополнительные затраты трафика</string>
+     <string name="recommended_file_size_download_in_mobile">Использовать %s мобильного трафика для загрузки файла?</string>
+     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки файла?</string>
+	 <string name="enter_garbage_clean">Открыть очистку</string>
+     <string name="insufficient_space">Недостаточно внутренней памяти</string>
+     <string name="notification_download_failed_more">Не загружено файлов: %1$d</string>
+     <string name="notification_download_success_more">Загружено файлов: %1$d</string>	 
+	 <string name="dialog_not_show_again">Больше не показывать</string>
+     <string name="auto_restart_under_wifi">Автоматически загрузить этот файл через Wi-Fi</string>
+     <string name="button_cancel_download">Отмена</string>
+     <string name="button_queue_for_wifi">Добавить в очередь</string>
+     <string name="button_start_now">Запустить</string>
+     <string name="dialog_insufficient_space_on_cache">Не хватает внутренней памяти</string>
+     <string name="dialog_insufficient_space_on_external">Не хватает памяти на SD-карте</string>
+     <string name="download_error">Ошибка загрузки</string>
+     <string name="download_no_application_title">Не удалось открыть файл</string>
+     <string name="download_percent">%d%%</string>
+     <string name="download_queued">В очереди</string>
+     <string name="download_remaining">Осталось около %s</string>
+     <string name="download_running">В процессе</string>
+     <string name="download_running_percent">В процессе, %d%%</string>
+     <string name="download_unknown_title">&lt;Без названия></string>
+     <string name="notif_text_engine_off">Сервис Xunlei выключен</string>
+     <string name="notif_text_engine_on">Запуск службы…</string>
+     <string name="notif_title_file_size">Размер файла %1$d</string>
+     <string name="notif_title_multiple_downloading">Загрузка %1$d файлов</string>
+     <string name="notif_title_single_downloading">Загрузка %1$s</string>
+     <string name="notification_download_complete">Загрузка завершена</string>
+     <string name="notification_download_failed">Не удалось загрузить файл</string>
+     <string name="notification_need_wifi_for_size">Загрузка только по Wi-Fi</string>
+     <string name="notification_paused_in_background">Загрузка приостановлена</string>
+     <string name="paused_waiting_for_network">Ожидание сети</string>
+     <string name="permdesc_accessAllDownloads">Приложение сможет открывать и изменять загрузки независимо от того, через какое ПО они были загружены</string>
+     <string name="permdesc_downloadCacheNonPurgeable">Приложение сможет загружать файлы в кэш загрузки (который не может быть автоматически очищен), если менеджеру загрузки потребуется больше места</string>
+     <string name="permdesc_downloadCompletedIntent">Приложение сможет отправлять оповещения о завершенных загрузках. Вредоносные программы смогут таким образом мешать работе приложений, загружающих файлы</string>
+     <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+     <string name="permdesc_downloadManagerAdvanced">Приложение получит доступ к расширенным функциям диспетчера загрузок. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>
+     <string name="permdesc_downloadWithoutNotification">Приложение сможет загружать файлы через диспетчер загрузок без уведомления пользователя</string>
+     <string name="permdesc_seeAllExternal">Приложение получит доступ ко всем загрузкам на SD-карте независимо от того, через какое ПО они были загружены</string>
+     <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
+     <string name="permlab_downloadCacheNonPurgeable">Резервировать место в кэше загрузки</string>
+     <string name="permlab_downloadCompletedIntent">Отправить оповещение о загрузке</string>
+     <string name="permlab_downloadManager">Доступ к менеджеру загрузки</string>
+     <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузки</string>
+     <string name="permlab_downloadWithoutNotification">загружать файлы без оповещения</string>
+     <string name="permlab_seeAllExternal">Просмотреть все загрузки на SD-карту</string>
+     <string name="privacy_notif_content">Нажмите для просмотра информации</string>
+     <string name="privacy_notif_title">Сервис Xunlei</string>
+     <string name="privacy_tip_cancel">Отмена</string>
+     <string name="privacy_tip_content">Использовать Xunlei для увеличения скорости загрузки? Ссылка загружаемого файла и информаци о Вашем Mi аккаунте будут отправлены на сервер Xunlei.</string>
+     <string name="privacy_tip_ok">OK</string>
+     <string name="privacy_tip_title">Сервис Xunlei</string>
+     <string name="root_downloads">Загрузки</string>
+     <string name="task_already_exist">Загрузка уже существует</string>
+     <string name="warning_tip_cancel">Отмена</string>
+     <string name="warning_tip_content">Wi-Fi сеть недоступна. Использование мобильного интернета может вызвать дополнительные денежные затраты.</string>
+     <string name="warning_tip_ok">OK</string>
+     <string name="warning_tip_title">Предупреждение</string>
+     <string name="wifi_recommended_body" formatted="false">О загрузке через мобильный интернет：
+
+ %s（%s）
+	 
+Загрузка файла может привести к расходу денежных стредств.</string>
+     <string name="wifi_recommended_title">Загрузки</string>
+     <string name="wifi_required_body" formatted="false">Для завершения загрузки файла размером %s необходимо подключение к сети Wi-Fi.
+
+Чтобы продолжить загрузку позже через Wi-Fi, нажмите %s.</string>
+     <string name="wifi_required_title">Слишком большой файл для сети оператора</string>
+</resources>

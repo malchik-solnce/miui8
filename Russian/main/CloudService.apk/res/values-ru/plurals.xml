@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dirty_contacts_count">
+        <item quantity="other">Контактов: %d</item>
+        <item quantity="one">Контактов: %d</item>
+     </plurals>
+	 <plurals name="items_unsynced">
+        <item quantity="other">Ожидает синхронизации: %d</item>
+        <item quantity="one">Ожидает синхронизации: %d</item>
+     </plurals>
+     <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d ожидает синхронизации</item>
+        <item quantity="one">%d ожидает синхронизации</item>
+     </plurals>
+     <plurals name="sync_items_close">
+        <item quantity="other">%d выкл.</item>
+        <item quantity="one">%d выкл.</item>
+     </plurals>
+     <plurals name="dirty_mms_count">
+        <item quantity="other">Сообщений: %d</item>
+        <item quantity="one">Сообщений: %d</item>
+     </plurals>
+     <plurals name="dirty_note_count">
+        <item quantity="other">Заметок: %d</item>
+        <item quantity="one">Заметок: %d</item>
+     </plurals>
+     <plurals name="dirty_image_count">
+        <item quantity="other">Фотографий: %d</item>
+        <item quantity="one">Фотографий: %d</item>
+     </plurals>
+	 <plurals name="dirty_blocklist_count">
+        <item quantity="other">Антиспам: %d</item>
+        <item quantity="one">Антиспам: %d</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+        <item quantity="other">Браузер: %d</item>
+        <item quantity="one">Браузер: %d</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+        <item quantity="other">Календарь: %d</item>
+        <item quantity="one">Календарь: %d</item>
+     </plurals>
+     <plurals name="dirty_callog_count">
+        <item quantity="other">Вызовы: %d</item>
+        <item quantity="one">Вызовы: %d</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: %d</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+        <item quantity="other">%d записей</item>
+        <item quantity="one">%d запись</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+        <item quantity="other">Wi-Fi сети: %d</item>
+        <item quantity="one">Wi-Fi сети: %d</item>
+     </plurals>
+</resources>

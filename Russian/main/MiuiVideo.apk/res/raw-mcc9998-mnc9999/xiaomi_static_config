@@ -1,0 +1,10 @@
+{
+  data: [
+    {
+      title: "play_history",
+      type: "activity",
+      image: "icon_my_video_play_his",
+      intent: "#Intent;component=com.miui.video/com.video.ui.tinyui.AlbumActivity;B.history=true;end"
+    }
+  ]
+}

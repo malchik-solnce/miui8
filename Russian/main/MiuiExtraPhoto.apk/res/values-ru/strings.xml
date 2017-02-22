@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m_fancy_color_effect_normal">Обычный</string>
+    <string name="m_fancy_color_effect_monochrome">Монохромный</string>
+    <string name="m_fancy_color_effect_posterize">Постеризация</string>
+    <string name="m_fancy_color_effect_radial_blur">Размытие</string>
+    <string name="m_fancy_color_effect_stroke">Штрихи</string>
+    <string name="m_fancy_color_effect_silhouette">Силуэт</string>
+    <string name="m_fancy_color_effect_whiteboard">Белая доска</string>
+    <string name="m_fancy_color_effect_blackboard">Черная доска</string>
+    <string name="m_fancy_color_effect_negative">Негатив</string>
+    <string name="multi_view">3D просмотр</string>
+    <string name="refocus">Перефокусировка</string>
+    <string name="background_effect">Фоновые эффекты</string>
+    <string name="free_view_tip">Слегка наклоняйте телефон для просмотра 3D-эффекта</string>
+    <string name="refocus_tip">Нажмите на фото для перефокусировки</string>
+    <string name="fancy_color_tip">Нажмите на фото для настройки наилучшей точки</string>
+    <string name="loading_tip">Подождите…</string>
+    <string name="fancycolor_title">Фоновые эффекты</string>
+    <string name="save_dialog_title">Сохнанение</string>
+    <string name="save_dialog_message">Сохранить текущие изменения?</string>
+    <string name="saving_image">Сохранение фото…</string>
+    <string name="saving_image_to_album">Сохранение фото в %1$s…</string>
+    <string name="load_image_error">Не удалось загрузить фото</string>
+    <string name="wait_error">Подождите…</string>
+    <string name="save_error">Не удалось сохранить фото</string>
+    <string name="illegal_arguments_error">Произошла ошибка</string>
+    <string name="app_error">Произошла ошибка. Закрытие приложения…</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+</resources>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="days_ago">
+        <item quantity="other">%1$d дн. назад</item>
+        <item quantity="zero">%1$d дн. назад</item>
+        <item quantity="one">%1$d дн. назад</item>
+        <item quantity="two">%1$d дн. назад</item>
+        <item quantity="few">%1$d дн. назад</item>
+        <item quantity="many">%1$d дн. назад</item>
+     </plurals>
+	 <plurals name="gems">
+        <item quantity="other">%1$s камней</item>
+        <item quantity="one">%1$s камень</item>
+     </plurals>
+     <plurals name="more_gems">
+        <item quantity="other">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драгоценных камней, чтобы принять участие в розыгрыше</item>
+        <item quantity="one">Соберите еще &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> драгоценный камень, чтобы принять участие в розыгрыше</item>
+     </plurals>
+     <plurals name="video_like_num">
+        <item quantity="other">%1$s лайков</item>
+        <item quantity="one">%1$s лайк</item>
+     </plurals>
+	 <plurals name="video_publish_watchable_hint">
+        <item quantity="other">Еще %1$d подписчиков для обновления статуса</item>
+        <item quantity="one">Еще %1$d подписчик для обновления статуса</item>
+     </plurals>
+	 <plurals name="original_user_days">
+        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> дней</item>
+        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> день</item>
+     </plurals>
+     <plurals name="original_user_fans">
+        <item quantity="other">• У вас &lt;font color=#fc7050>%1$s&lt;/font> подписчиков!</item>
+        <item quantity="one">• У вас &lt;font color=#fc7050>%1$s&lt;/font> подписчик!</item>
+     </plurals>
+     <plurals name="original_user_play_1">
+        <item quantity="other">• Вы загрузили &lt;font color=#fc7050>%1$s&lt;/font> видео,</item>
+        <item quantity="one">• Вы загрузили &lt;font color=#fc7050>%1$s&lt;/font> видео,</item>
+     </plurals>
+     <plurals name="original_user_play_2">
+        <item quantity="other">Вы осчастливили &lt;font color=#fc7050>%1$s&lt;/font> людей!</item>
+        <item quantity="one">Вы осчастливили &lt;font color=#fc7050>%1$s&lt;/font> человека!</item>
+     </plurals>
+	 <plurals name="video_items">
+        <item quantity="other"> %1$d</item>
+        <item quantity="zero"> %1$d</item>
+        <item quantity="one"> %1$d</item>
+        <item quantity="two"> %1$d</item>
+        <item quantity="few"> %1$d</item>
+        <item quantity="many"> %1$d</item>
+     </plurals>
+	 <plurals name="user_sign_limt">
+        <item quantity="other">Вы можете ввести %d символов</item>
+        <item quantity="one">Вы можете ввести %d символ</item>
+     </plurals>
+	 <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s отзывов</item>
+        <item quantity="zero">%1$s отзывов</item>
+        <item quantity="one">%1$s отзыв</item>
+        <item quantity="two">%1$s отзыва</item>
+        <item quantity="few">%1$s отзыва</item>
+        <item quantity="many">%1$s отзывов</item>
+     </plurals>
+	 <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> подписчиков</item>
+        <item quantity="zero">&lt;font color=#fc7050>%d&lt;/font> подписчиков</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> подписчик</item>
+        <item quantity="two">&lt;font color=#fc7050>%d&lt;/font> подписчика</item>
+        <item quantity="few">&lt;font color=#fc7050>%d&lt;/font> подписчиков</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> подписчиков</item>
+     </plurals>
+     <plurals name="user_follow_me_items">
+        <item quantity="other">подписчиков</item>
+        <item quantity="zero">подписчиков</item>
+        <item quantity="one">подписчик</item>
+        <item quantity="two">подписчика</item>
+        <item quantity="few">подписчиков</item>
+        <item quantity="many">подписчиков</item>
+     </plurals>
+	 <plurals name="days">
+        <item quantity="other">%1$d дн.</item>
+        <item quantity="zero">%1$d дн.</item>
+        <item quantity="one">%1$d дн.</item>
+        <item quantity="two">%1$d дн.</item>
+        <item quantity="few">%1$d дн.</item>
+        <item quantity="many">%1$d дн.</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="zero">%1$d ч.</item>
+        <item quantity="one">%1$d ч.</item>
+        <item quantity="two">%1$d ч.</item>
+        <item quantity="few">%1$d ч.</item>
+        <item quantity="many">%1$d ч.</item>
+     </plurals>
+     <plurals name="mins">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="zero">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+        <item quantity="two">%1$d мин.</item>
+        <item quantity="few">%1$d мин.</item>
+        <item quantity="many">%1$d мин.</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$d с.</item>
+        <item quantity="zero">%1$d с.</item>
+        <item quantity="one">%1$d с.</item>
+        <item quantity="two">%1$d с.</item>
+        <item quantity="few">%1$d с.</item>
+        <item quantity="many">%1$d с.</item>
+     </plurals>
+	 <plurals name="follower_num">
+        <item quantity="other">подписчиков</item>
+        <item quantity="zero">подписчиков</item>
+        <item quantity="one">подписчик</item>
+        <item quantity="two">подписчика</item>
+        <item quantity="few">подписчиков</item>
+        <item quantity="many">подписчиков</item>
+     </plurals>
+     <plurals name="number_of_comment">
+        <item quantity="other">Комментариев: %1$s</item>
+        <item quantity="zero">Комментариев: %1$s</item>
+        <item quantity="one">Комментариев: %1$s</item>
+        <item quantity="two">Комментариев: %1$s</item>
+        <item quantity="few">Комментариев: %1$s</item>
+        <item quantity="many">Комментариев: %1$s</item>
+     </plurals>
+     <plurals name="video_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+        <item quantity="zero">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+        <item quantity="two">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+        <item quantity="few">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+        <item quantity="many">&lt;font color=#fc7050>%d&lt;/font> видео</item>
+     </plurals>
+	 <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Осталось передать файлов: %1$d</item>
+        <item quantity="zero">Осталось передать файлов: %1$d</item>
+        <item quantity="one">Осталось передать файлов: %1$d</item>
+        <item quantity="two">Осталось передать файлов: %1$d</item>
+        <item quantity="few">Осталось передать файлов: %1$d</item>
+        <item quantity="many">Осталось передать файлов: %1$d</item>
+     </plurals>
+	 <plurals name="user_upload_items">
+        <item quantity="other">видео</item>
+        <item quantity="zero">видео</item>
+        <item quantity="one">видео</item>
+        <item quantity="two">видео</item>
+        <item quantity="few">видео</item>
+        <item quantity="many">видео</item>
+     </plurals>
+     <plurals name="video_num">
+        <item quantity="other">%1$s видео</item>
+        <item quantity="zero">%1$s видео</item>
+        <item quantity="one">%1$s видео</item>
+        <item quantity="two">%1$s видео</item>
+        <item quantity="few">%1$s видео</item>
+        <item quantity="many">%1$s видео</item>
+     </plurals>
+     <plurals name="video_play_num">
+        <item quantity="other">%1$s просмотров</item>
+        <item quantity="zero">%1$s просмотров</item>
+        <item quantity="one">%1$s просмотров</item>
+        <item quantity="two">%1$s просмотров</item>
+        <item quantity="few">%1$s просмотров</item>
+        <item quantity="many">%1$s просмотров</item>
+     </plurals>
+	 <plurals name="video_ad_download_tip">
+        <item quantity="other"> загрузок</item>
+        <item quantity="zero"> загрузок</item>
+        <item quantity="one"> загрузка</item>
+        <item quantity="two"> загрузоки</item>
+        <item quantity="few"> загрузок</item>
+        <item quantity="many"> загрузок</item>
+     </plurals>
+	 <plurals name="file_count">
+        <item quantity="other"> файлов: %1$d</item>
+        <item quantity="zero"> файлов: %1$d</item>
+        <item quantity="one"> файлов: %1$d</item>
+        <item quantity="two"> файлов: %1$d</item>
+        <item quantity="few"> файлов: %1$d</item>
+        <item quantity="many"> файлов: %1$d</item>
+     </plurals>
+	 <plurals name="file_notify_title_wechat_sticker">
+        <item quantity="other">%1$d новых стикеров WeChat сегодня</item>
+        <item quantity="zero">%1$d новых стикеров WeChat сегодня</item>
+        <item quantity="one">%1$d новый стикер WeChat сегодня</item>
+        <item quantity="two">%1$d новых стикера WeChat сегодня</item>
+        <item quantity="few">%1$d новых стикера WeChat сегодня</item>
+        <item quantity="many">%1$d новых стикеров WeChat сегодня</item>
+     </plurals>
+	 <plurals name="file_notify_title_wechat_video_auto_backup">
+        <item quantity="other">Сохранено %1$d видео WeChat</item>
+        <item quantity="zero">Сохранено %1$d видео WeChat</item>
+        <item quantity="one">Сохранено 1 видео WeChat</item>
+        <item quantity="two">Сохранено %1$d видео WeChat</item>
+        <item quantity="few">Сохранено %1$d видео WeChat</item>
+        <item quantity="many">Сохранено %1$d видео WeChat</item>
+     </plurals>
+	 <plurals name="backup_message_wechat_video">
+        <item quantity="other">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="zero">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="one">Будет удалено %1$d кэшированное видео WeChat. Выполнить бэкап?</item>
+        <item quantity="two">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="few">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+        <item quantity="many">Будет удалено %1$d кэшированных видео WeChat. Выполнить бэкап?</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">Получено файлов из WeChat: %1$d</item>
+        <item quantity="zero">Получены файлы из WeChat: %1$d</item>
+        <item quantity="one">Получены файлы из WeChat: %1$d</item>
+        <item quantity="two">Получены файлы из WeChat: %1$d</item>
+        <item quantity="few">Получены файлы из WeChat: %1$d</item>
+        <item quantity="many">Получены файлы из WeChat: %1$d</item>
+     </plurals>
+     <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="zero">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="one">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="two">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="few">Срок действия %1$d видео WeChat истек</item>
+        <item quantity="many">Срок действия %1$d видео WeChat истек</item>
+     </plurals>
+	 <plurals name="delete_files_confirm">
+        <item quantity="other">Удалить файлы: %1$d</item>
+        <item quantity="zero">Удалить файлы: %1$d</item>
+        <item quantity="one">Удалить файлы: %1$d</item>
+        <item quantity="two">Удалить файлы: %1$d</item>
+        <item quantity="few">Удалить файлы: %1$d</item>
+        <item quantity="many">Удалить файлы: %1$d</item>
+     </plurals>
+     <plurals name="delete_folders_confirm">
+        <item quantity="other">" и папки: %1$d?"</item>
+        <item quantity="zero">" и папки: %1$d?"</item>
+        <item quantity="one">" и папки: %1$d?"</item>
+        <item quantity="two">" и папки: %1$d?"</item>
+        <item quantity="few">" и папки: %1$d?"</item>
+        <item quantity="many">" и папки: %1$d?"</item>
+     </plurals>
+     <plurals name="directory_item_count">
+        <item quantity="other">Файлов: %d</item>
+        <item quantity="zero">Файлов: %d</item>
+        <item quantity="one">Файлов: %d</item>
+        <item quantity="two">Файлов: %d</item>
+        <item quantity="few">Файлов: %d</item>
+        <item quantity="many">Файлов: %d</item>
+     </plurals>
+	 <plurals name="file_notify_title">
+        <item quantity="other">%2$s | Новых файлов: %1$d</item>
+        <item quantity="zero">%2$s | Новых файлов: %1$d</item>
+        <item quantity="one">%2$s | Новых файлов: %1$d</item>
+        <item quantity="two">%2$s | Новых файлов: %1$d</item>
+        <item quantity="few">%2$s | Новых файлов: %1$d</item>
+        <item quantity="many">%2$s | Новых файлов: %1$d</item>
+     </plurals>
+     <plurals name="found_new_files">
+        <item quantity="other">Найдено новых файлов: %1$d</item>
+        <item quantity="zero">Найдено новых файлов: %1$d</item>
+        <item quantity="one">Найдено новых файлов: %1$d</item>
+        <item quantity="two">Найдено новых файлов: %1$d</item>
+        <item quantity="few">Найдено новых файлов: %1$d</item>
+        <item quantity="many">Найдено новых файлов: %1$d</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d ч. назад</item>
+        <item quantity="zero">%1$d ч. назад</item>
+        <item quantity="one">%1$d ч. назад</item>
+        <item quantity="two">%1$d ч. назад</item>
+        <item quantity="few">%1$d ч. назад</item>
+        <item quantity="many">%1$d ч. назад</item>
+     </plurals>
+	 <plurals name="mins_ago">
+        <item quantity="other">%1$d мин. назад</item>
+        <item quantity="zero">%1$d мин. назад</item>
+        <item quantity="one">%1$d мин. назад</item>
+        <item quantity="two">%1$d мин. назад</item>
+        <item quantity="few">%1$d мин. назад</item>
+        <item quantity="many">%1$d мин. назад</item>
+     </plurals>
+	 <plurals name="search_head_hint_app">
+        <item quantity="other">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Поиск по запросу \"%1$s\" (элементов: %2$d)</item>
+     </plurals>
+     <plurals name="search_head_hint_file">
+        <item quantity="other">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Файлы по запросу \"%1$s\" (элементов: %2$d)</item>
+     </plurals>
+     <plurals name="search_head_hint_tag">
+        <item quantity="other">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="zero">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="one">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="two">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="few">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+        <item quantity="many">Теги по запросу \"%1$s\" (элементов: %2$d)</item>
+     </plurals>
+     <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось скачать файлов: %1$d</item>
+        <item quantity="zero">Осталось скачать файлов: %1$d</item>
+        <item quantity="one">Осталось скачать файлов: %1$d</item>
+        <item quantity="two">Осталось скачать файлов: %1$d</item>
+        <item quantity="few">Осталось скачать файлов: %1$d</item>
+        <item quantity="many">Осталось скачать файлов: %1$d</item>
+     </plurals>
+     <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Осталось загрузить файлов: %1$d</item>
+        <item quantity="zero">Осталось загрузить файлов: %1$d</item>
+        <item quantity="one">Осталось загрузить файлов: %1$d</item>
+        <item quantity="two">Осталось загрузить файлов: %1$d</item>
+        <item quantity="few">Осталось загрузить файлов: %1$d</item>
+        <item quantity="many">Осталось загрузить файлов: %1$d</item>
+     </plurals>
+     <plurals name="numSelectedFile">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="zero">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+        <item quantity="two">Выбрано: %1$d</item>
+        <item quantity="few">Выбрано: %1$d</item>
+        <item quantity="many">Выбрано: %1$d</item>
+     </plurals>
+	 <plurals name="items_file">
+        <item quantity="other"> (%1$d)</item>
+        <item quantity="zero"> (%1$d)</item>
+        <item quantity="one"> (%1$d)</item>
+        <item quantity="two"> (%1$d)</item>
+        <item quantity="few"> (%1$d)</item>
+        <item quantity="many"> (%1$d)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d)</item>
+        <item quantity="zero"> (%1$d)</item>
+        <item quantity="one"> (%1$d)</item>
+        <item quantity="two"> (%1$d)</item>
+        <item quantity="few"> (%1$d)</item>
+        <item quantity="many"> (%1$d)</item>
+    </plurals>
+	<plurals name="remote_video_update">
+        <item quantity="other">Найдено новых видео: %1$d</item>
+        <item quantity="zero">Найдено новых видео: %1$d</item>
+        <item quantity="one">Найдено новых видео: %1$d</item>
+        <item quantity="two">Найдено новых видео: %1$d</item>
+        <item quantity="few">Найдено новых видео: %1$d</item>
+        <item quantity="many">Найдено новых видео: %1$d</item>
+     </plurals>
+</resources>

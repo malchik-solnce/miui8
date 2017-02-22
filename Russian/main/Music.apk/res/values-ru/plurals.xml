@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="Ntracks_search_result">
+        <item quantity="other">Найдено треков: %d</item>
+        <item quantity="one">Найдено треков: %d</item>
+     </plurals>
+	 <plurals name="Nalbum_total_songs">
+        <item quantity="other">Всего песен: %d</item>
+        <item quantity="zero">Всего песен: %d</item>
+        <item quantity="one">Всего песен: %d</item>
+     </plurals>
+	 <plurals name="Nbackup_songs">
+        <item quantity="other">Синхронизация музыки. Осталось %1$d песен (%2$.1f МБ)</item>
+        <item quantity="one">Синхронизация музыки. Осталось %1$d песня (%2$.1f МБ)</item>
+     </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Создан %1$s | Всего песен: %2$d</item>
+        <item quantity="zero">Создан %1$s | Всего песен: %2$d</item>
+        <item quantity="one">Создан %1$s | Всего песен: %2$d</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d песен не синхронизированы с Mi Cloud. Остановить сейчас?</item>
+        <item quantity="one">"%d песня не синхронизирована с Mi Cloud. Остановить сейчас?"</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">%1$d песен не сихронизированы (%2$.1f МБ)</item>
+        <item quantity="one">%1$d песня не синхронизирована (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Синхронизация %1$d песен (%2$.1f МБ)</item>
+        <item quantity="one">Синхронизация %1$d песни (%2$.1f МБ)</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Удалить %d песен из Mi Cloud?</item>
+        <item quantity="one">Удалить %d песню из Mi Cloud?</item>
+     </plurals>
+	 <plurals name="comment_count">
+        <item quantity="other">Комментариев: %d</item>
+        <item quantity="one">Комментариев: %d</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">Читателей: %d</item>
+        <item quantity="one">Читателей: %d</item>
+     </plurals>
+	 <plurals name="NPlaylist_delete_confirm">
+        <item quantity="other">Удалить выбранные плейлисты? (%d)</item>
+        <item quantity="one">Удалить выбранные плейлисты? (%d)</item>
+     </plurals>
+     <plurals name="Nartists_count">
+        <item quantity="other">Исполнителей: %d</item>
+        <item quantity="one">Исполнителей: %d</item>
+     </plurals>
+     <plurals name="Ngroups_count">
+        <item quantity="other">Групп: %d</item>
+        <item quantity="one">Групп: %d</item>
+     </plurals>
+     <plurals name="Nquit_warning">
+        <item quantity="other">Плеер выключится через %d мин.</item>
+        <item quantity="one">Плеер выключится через %d мин.</item>
+     </plurals>
+     <plurals name="dialog_delete_descript">
+        <item quantity="other">Удалить выбранные треки? (%d)</item>
+        <item quantity="one">Удалить выбранные треки? (%d)</item>
+     </plurals>
+     <plurals name="dialog_remove_descript">
+        <item quantity="other">Удалить выбранные треки? (%d)</item>
+        <item quantity="one">Удалить выбранные треки? (%d)</item>
+     </plurals>
+     <plurals name="multichoice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+     </plurals>
+     <plurals name="song_already_favorite">
+        <item quantity="other">Добавлено в избранное</item>
+        <item quantity="one">Добавлено в избранное</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Осталось: %d дн.</item>
+        <item quantity="one">Осталось: %d дн.</item>
+     </plurals>
+     <plurals name="NTrackstoDownload">
+        <item quantity="other">%d треков будет скачано</item>
+        <item quantity="one">1 трек будет скачана</item>
+     </plurals>
+     <plurals name="Nnew_tracks_count">
+        <item quantity="other">Новых: %d</item>
+		<item quantity="one">Новых: 1</item>
+     </plurals>
+     <plurals name="Ntracks_count">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="Ntracks_similar_count">
+        <item quantity="other">Похожих треков: %d</item>
+        <item quantity="one">Похожих треков: %d</item>
+     </plurals>
+     <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">Добавлено в плейлист: %d</item>
+        <item quantity="one">Добавлено в плейлист: 1</item>
+     </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Удалено из плейлиста: %d</item>
+        <item quantity="one">Удалено из плейлиста: 1</item>
+     </plurals>
+     <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: 1</item>
+     </plurals>
+     <plurals name="send_songs_toast">
+        <item quantity="other">Песен к отправке: %d</item>
+        <item quantity="one">Песен к отправке: 1</item>
+     </plurals>
+     <plurals name="folder_songs_count">
+        <item quantity="other">Треков: %d</item>
+        <item quantity="one">Треков: 1</item>
+     </plurals>
+     <plurals name="Nnew_local_audios">
+        <item quantity="other">Новых треков: %d</item>
+        <item quantity="one">Новых треков: %d</item>
+     </plurals>
+	 <plurals name="Nalert_msg_vip_songs_for_download_limited">
+        <item quantity="other">" Вы можете скачать только %d премиум треков в этом месяце. Продолжить?"</item>
+     </plurals>
+     <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
+        <item quantity="other">"Вы можете скачать только %d премиум треков в этом месяце. Обновите премиум пакет. "</item>
+     </plurals>
+	 <plurals name="download_finished">
+        <item quantity="other">Загружено треков: &lt;font color=\"red\">%d&lt;/font></item>
+        <item quantity="one">Загружено треков: &lt;font color==\"red\">%d&lt;/font></item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">Загрузка треков: &lt;font color=\"red\">%d&lt;/font></item>
+        <item quantity="one">Загрузка треков: &lt;font color==\"red\">%d&lt;/font></item>
+     </plurals>
+</resources>

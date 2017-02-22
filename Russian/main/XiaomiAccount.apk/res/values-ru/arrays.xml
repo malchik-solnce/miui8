@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
+	 <string-array name="account_user_gender_name">
+        <item>Мужской</item>
+        <item>Женский</item>
+     </string-array>
+	 <string-array name="question_no1">
+        <item>Семья</item>
+        <item>Имя бабушки по материнской линии</item>
+        <item>Имя деда по материнской линии</item>
+        <item>Имя деда по отцовской линии</item>
+        <item>Имя бабушка по отцовской линии</item>
+        <item>День рождения отца</item>
+        <item>День рождения матери</item>
+        <item>Какова разница возраста ваших родителей (год и месяц)?</item>
+     </string-array>
+     <string-array name="question_no2">
+        <item>Альма-матер</item>
+        <item>Какое было имя вашего президента класса в средней школе?</item>
+        <item>Какое было имя вашего президента класса в начальной школе?</item>
+        <item>Ваш ID номер студента в колледже</item>
+        <item>Как зовут вашего соседа по комнате в колледже?</item>
+        <item>Как зовут вашего руководителя в колледже?</item>
+     </string-array>
+     <string-array name="question_no3">
+        <item>Личная информация</item>
+        <item>Как родители называют Вас?</item>
+        <item>Последние 6 цифр номера паспорта</item>
+        <item>В какой больнице родились?</item>
+        <item>Имя вашего лучшего друга?</item>
+     </string-array>
+     <string-array name="question_no4">
+        <item>Юнность</item>
+        <item>Имя вашего первого домашнего животного?</item>
+        <item>Имя вашего первого парня/ первой девушки?</item>
+        <item>Название компании, в которой вы получили свою первую работу</item>
+     </string-array>
+     <string-array name="question_no5">
+        <item>Брак</item>
+        <item>Когда вы поженились?</item>
+        <item>Имя вашего супруга</item>
+        <item>День рождения вашего супруга</item>
+     </string-array>
+	 <string-array name="education">
+        <item>Среднее</item>
+        <item>Начальное</item>
+        <item>Высшее</item>
+        <item>Профессиональное</item>
+        <item>Колледж</item>
+        <item>Степень магистра</item>
+        <item>Степень доктора</item>
+     </string-array>
+     <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+     </string-array>
+</resources>

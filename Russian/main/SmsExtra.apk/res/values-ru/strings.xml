@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_not_found">Нет приложений для запуска этого действия</string>
+	<string name="repayment_network_error">Ошибка сети</string>
+     <string name="repayment_title">Погашение</string>
+     <string name="repayment_way">Метод погашения</string>
+     <string name="smart_messages_network_allow_message">Для нормальной работы сервиса облачных сообщений требуется подключение к сети. Разрешить сейчас?</string>
+     <string name="smart_messages_network_allow_title">Требуется интернет</string>
+    <string name="copy_message_text_success">Текст скопирован</string>
+    <string name="back_to_message_list">Вернуться к сообщениям</string>
+    <string name="menu_forward">Переслать</string>
+    <string name="menu_lock">В избранные</string>
+    <string name="menu_unlock">Из избранных</string>
+    <string name="copy_message_text">Копировать</string>
+    <string name="delete_message">Удалить</string>
+    <string name="view_message_details">Информация</string>
+    <string name="message_details_title">Информация о сообщении</string>
+    <string name="message_type_label">"Тип: "</string>
+    <string name="text_message">Текстовое сообщение</string>
+    <string name="received_label">"Получено: "</string>
+    <string name="from_label">"От: "</string>
+    <string name="sent_label">"Кому: "</string>
+    <string name="sms_card_partner_label">"Партнер SMS карты: "</string>
+    <string name="sms_card_teddy_mobile">Teddy Mobile</string>
+    <string name="confirm_dialog_title">Удалить?</string>
+    <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
+    <string name="confirm_delete_conversation">Удалить весь диалог?</string>
+    <string name="confirm_delete_all_conversations">Удалить все диалоги?</string>
+    <string name="confirm_delete_group_message">Удалить групповые сообщения?</string>
+    <string name="confirm_delete_message">Удалить сообщение?</string>
+    <string name="confirm_delete_locked_message">Удалить заблокированное сообщение?</string>
+    <string name="delete">Удалить</string>
+</resources>

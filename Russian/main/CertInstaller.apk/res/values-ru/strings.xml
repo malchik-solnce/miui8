@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with BARS Extractor -->
+<resources>
+     <string name="app_name">Программа установки сертификата</string>
+	 <string name="done_label">ГОТОВО</string>
+     <string name="install_done">%1$s полномочий, которые были добавлены к сохраненным Wi-Fi сетям</string>
+     <string name="install_done_title">Полномочия установлены</string>
+     <string name="wifi_cancel_label">Отмена</string>
+     <string name="wifi_config_text">"Имя: %1$s
+FQDN: %2$s
+Роуминг консорциумов: %3$s
+Сфера: %4$s
+Метод аутен.: EAP-%5$s
+"</string>
+     <string name="wifi_detail_label">Подробнее</string>
+     <string name="wifi_detail_title">Подробнее о %s</string>
+     <string name="wifi_dismiss_label">Отклонить</string>
+     <string name="wifi_install_label">Установить</string>
+     <string name="wifi_installer_detail">Установите Wi-Fi учетные данные для подключения к сетям, доступных через %1$s</string>
+     <string name="wifi_installer_download_error">Загруженный файл имеет проблемы и не может быть установлен. Убедитесь, что Вы загрузили файл с соответствующего источника.</string>
+     <string name="wifi_installer_fail">Ошибка установки Wi-Fi credentials. Скачайте файл еще раз.</string>
+     <string name="wifi_installer_fail_no_wifi">Включите Wi-Fi и повторите</string>
+     <string name="wifi_installer_fail_no_wifi_title">Установка отменена</string>
+     <string name="wifi_installer_fail_title">Не удалось установить</string>
+     <string name="wifi_installing_label">Установка</string>
+     <string name="wifi_no_config">Пусто</string>
+     <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+     <string name="wifi_title">Профиль Wi-Fi</string>
+     <string name="wifi_tls_config_text">"Сертификат клиента:
+%1$s
+Ключ: %2$s
+"</string>
+     <string name="wifi_trust_config_text">"Доверенный сертификат:
+%s
+"</string>
+     <string name="wifi_ttls_config_text">"Имя пользователя: %s
+"</string>
+     <string name="cert_is_added">%s установлен</string>
+     <string name="cert_missing_error">Установка завершилась со сбоем. Не удается найти файл сертификата.</string>
+     <string name="cert_not_saved">Сертификат не установлен</string>
+     <string name="cert_read_error">Установка завершилась со сбоем. Не удается прочитать файл сертификата.</string>
+     <string name="cert_too_large_error">Установка не удалась. Размер сертификата слишком велик.</string>
+     <string name="credential_info">Пакет содержит:</string>
+     <string name="credential_name">Название сертификата:</string>
+     <string name="credential_password">Введите пароль для извлечения сертификатов</string>
+     <string name="credential_usage_label">Используется:</string>
+     <string name="extracting_pkcs12">Извлечение…</string>
+     <string name="invalid_cert">Сертификат недействителен</string>
+     <string name="n_cacrts">Сертификатов центра сертификации: %d</string>
+     <string name="name_char_error">Имя должно состоять из букв и цифр</string>
+     <string name="name_credential_dialog_title">Укажите название сертификата</string>
+     <string name="name_empty_error">Введите название</string>
+     <string name="no_cert_file_found">На SD-карте отсутствует файл сертификата</string>
+     <string name="no_cert_to_saved">Отсутствует сертификат для установки</string>
+     <string name="one_cacrt">один сертификат центра сертификации</string>
+     <string name="one_usercrt">один пользовательский сертификат</string>
+     <string name="one_userkey">один ключ пользователя</string>
+     <string name="only_primary_user_allowed">Только владелец данного устройства может устанавливать сертификаты</string>
+     <string name="p12_description">Сертификат находится в хранилище ключей PKCS12</string>
+     <string name="password_empty_error">Введите пароль</string>
+     <string name="password_error">Введите правильный пароль</string>
+     <string name="pick_file_title">Выберите сертификат</string>
+     <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
+     <string name="pkcs12_password_dialog_title">Извлечение сертификата</string>
+     <string name="sdcard_not_present">SD-карта отсутствует</string>
+     <string name="storage_error">Не удается сохранить сертификат. Нажмите ОК и повторите попытку.</string>
+     <string name="unable_to_save_cert">Не удается сохранить сертификат. Хранилище регистрационных данных не включено или некорректно инициализировано.</string>
+</resources>

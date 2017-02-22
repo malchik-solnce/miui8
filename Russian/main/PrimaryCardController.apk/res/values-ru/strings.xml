@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_info">Информация о SIM-карте</string>
+    <string name="close">Закрыть</string>
+    <string name="change">Изменить</string>
+    <string name="new_sim_detected">Найдена новая SIM-карта:</string>
+    <string name="default_sim_setting">Настройки SIM-карты по умолчанию:</string>
+    <string name="mobile_data">"Мобильный интернет: "</string>
+    <string name="slot">Слот</string>
+    <string name="carrier_name">(имя оператора)</string>
+    <string name="mobile_data_on">Вкл.</string>
+    <string name="mobile_data_off">Выкл.</string>
+    <string name="sim_unknown">Неизвестно</string>
+    <string name="sim_absent">Отсутствует</string>
+    <string name="multi_sim_settings_title">Настройки двух SIM-карт</string>
+    <string name="lte_switch_unavailable">Переключение между 4G/3G для SIM-карт недоступно</string>
+    <string name="lte_recognize_summary">Обнаружены две 4G/3G SIM-карты. Выберите SIM-карту по умолчанию:</string>
+    <string name="lte_select_summary">Выбранная SIM-карта будет использоваться в качестве 4G/3G, а другая - 2G</string>
+    <string name="lte_checkbox_text">Выберите мобильный интернет для этой SIM-карты по умолчанию, если 4G/3G SIM-карта будет заменена</string>
+    <string name="select_ok">OK</string>
+    <string name="lte_select_title">4G/3G SIM-карта по умолчанию</string>
+    <string name="lte_recognition_title">Распознавание SIM-карт</string>
+    <string name="reg_failed">Ошибка регистрации</string>
+    <string name="reg_suc">Регистрация завершена</string>
+    <string name="reg_failed_msg">Ошибка регистрации 4G/3G SIM-карты по умолчанию. %1$s будет использоваться как 2G SIM-карта.</string>
+    <string name="lte_set">Настроить</string>
+    <string name="lte_setting">SIM-карта 4G/3G по умолчанию установлена</string>
+    <string name="select_cancel">Отмена</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
+	<string name="lte_recognize_summary_generic">Обнаружены две SIM-карты. Выберите предпочтительную SIM-карту:</string>
+    <string name="lte_select_summary_generic">Выбранная SIM-карта будет иметь услуги 3G/4G с подпиской данных</string>
+</resources>

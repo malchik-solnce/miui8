@@ -1,0 +1,20 @@
+{
+  "CN": {
+    "human_readable_name": "mainland_china",
+    "full_featured": true,
+    "phone_number_normalize_policy": "chinese"
+  },
+  "DE": {
+    "human_readable_name": "india",
+    "full_featured": false,
+    "features": ["ivr", "antispam", "yellowpage_provider", "web_resource", "push_marked_number", "detail"],
+    "phone_number_normalize_policy": "indian"
+  },
+  "-INVALID-REGION-DUDE-": {
+    "__comment__": "default template, demonstration only, default-handling is configured in code",
+    "human_readable_name": "invalid region",
+    "full_featured": false,
+    "features": [],
+    "phone_number_normalize_policy": "default"
+  }
+}

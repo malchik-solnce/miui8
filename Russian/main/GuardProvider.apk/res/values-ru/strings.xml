@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Tencent</string>
+     <string name="default_sdcard_volume_path"></string>
+     <string name="hello_world">Hello world!</string>
+     <string name="menu_settings">Настройки</string>
+     <string name="title_activity_main">MainActivity</string>
+	 <string name="AVL">AVL</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+	 <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">"Эта функция зашифрует и отправит ID Вашего устройства на сервер AVL (%s)."</string>
+     <string name="avl_dialog_policy">посмотрите политику конфиденциальности</string>
+     <string name="avl_dialog_title">"Политика конфиденциальности AVL"</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+	 <string name="tencent_dialog_cloudscan">Загружать и сканировать информацию о приложениях используя сервис онлайн антивируса</string>
+     <string name="tencent_dialog_dbupdate">Автообновление базы данных</string>
+     <string name="tencent_dialog_header">Эта функция зашифрует и отправит ID Вашего устройства на сервер Tencent (%s).</string>
+     <string name="tencent_dialog_policy">посмотрите политику конфиденциальности</string>
+     <string name="tencent_dialog_title">Политика конфиденциальности Tencent</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+	 
+	 <string name="Avast">Avast</string>
+     <string name="DesAvast">Avast</string>
+     <string name="avast_dialog_cloudscan" />
+     <string name="avast_dialog_dbupdate" />
+     <string name="avast_dialog_header">Эта функция зашифрует и отправит ID Вашего устройства на сервер Avast (%s).</string>
+     <string name="avast_dialog_policy">посмотреть политику конфиденциальности</string>
+     <string name="avast_dialog_title">Политика конфиденциальности Avast</string>
+     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
+     <string name="avast_virus_type_adware_description">Вирус является рекламой. Он автоматически отображает рекламные объявления.</string>
+     <string name="avast_virus_type_cryportor_description">The virus is a cryptor. It is a malicious software that transmitted by means of replicating itself in storage space.</string>
+     <string name="avast_virus_type_dropper_description">The virus is a dropper. It carries the code that install other malicious virus.</string>
+     <string name="avast_virus_type_exploit_description">Вирус эксплойт. Он использует ошибку или уязвимость в системе для того, чтобы вызвать непреднамеренное или непредвиденное поведение.</string>
+     <string name="avast_virus_type_heuristic_description">The infection is inferred by using a specific heuristic. A specific heuristic analysis says that it is a virus.</string>
+     <string name="avast_virus_type_joke_description">The virus is a joke. It creates some annoying or humorous effect as a joke. It normally has less damage on the system.</string>
+     <string name="avast_virus_type_pup_description">The virus is a potentially unwanted program (PUP). It is a program that may be unwanted (like spyware, adware, etc), despite the possibility that users give consen to download it.</string>
+     <string name="avast_virus_type_rootkit_description">The virus is a rootkit. It is a type of software designed to hide the fact that an operating system has been compromised. It is used to gain control over the device by hiding deep inside the system. Rootkits allow viruses and malware to “hide in plain sight” by disguising as necessary files that normal antivirus software will overlook.</string>
+     <string name="avast_virus_type_spyware_description">"The virus is a spyware. It a software that covertly gathers user information through the user' Internet connection without his or her knowledge."</string>
+     <string name="avast_virus_type_suspicious_description">Общий подозрительный тип. Антивирусная система пытается классифицировать его.</string>
+     <string name="avast_virus_type_tool_description">Вирус является потенциально злым инструментом заражения, похожий на PUP</string>
+     <string name="avast_virus_type_trjan_description">Вирус троян. Это вредоносная программа предназначена для обеспечения несанкционированного, удаленного доступа к устройству пользователя. Трояны обычно не имеют способность копировать себя, как вирусы; тем не менее, они могут привести к установке других вредоносных программ, кражи различных данных или другим вредоносным действиям.</string>
+     <string name="avast_virus_type_unknown_description">Неизвестный тип инфекции</string>
+     <string name="avast_virus_type_worm_description">The virus is a worm. It is a standalone malware that replicates itself in order to spread to other devices. Takes advantage of file or information transport features of system (such like network), it can travel without any human action. Worms almost always cause at least some harm to the network.</string>
+</resources>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Отключено</item>
+		<item>Показывать области наложения</item>
+		<item>Выделять области определенного цвета</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP (протокол передачи мультимедиа)</item>
+        <item>PTP (протокол передачи изображений)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник звука</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Самая быстрая</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Улучшенные цвета</item>
+        <item>Натуральные цвета (привычные глазу)</item>
+        <item>Оптимизированные цвета (цифровой контент)</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Насыщенный (по умолчанию)</item>
+        <item>Естественный</item>
+        <item>Стандартный</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+	<string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Сон</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Не удалось соединиться</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация на %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Сон</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Не удалось отключиться</item>
+        <item>Заблокировано</item>
+        <item>Избежание слабого сигнала</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать</item>
+        <item>Использовать только для проверки DRM содержимого</item>
+        <item>Всегда использовать</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только для DRM содержимого</item>
+        <item>Проверять всегда</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Отключено</item>
+		<item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Отключено</item>
+        <item>64 КБ на буфер журнала</item>
+        <item>256 КБ на буфер журнала</item>
+        <item>1 МБ на буфер журнала</item>
+        <item>4 МБ на буфер журнала</item>
+        <item>16 МБ на буфер журнала</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Отключено</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Отключено</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Отключено</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>480p</item>
+        <item>480p (защита)</item>
+        <item>720p</item>
+        <item>720p (защита)</item>
+        <item>1080p</item>
+        <item>1080p (защита)</item>
+        <item>4K</item>
+        <item>4K (защита)</item>
+        <item>4K (масштабирование)</item>
+        <item>4K (масштабирование, защита)</item>
+        <item>720p, 1080p (два экрана)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графич.)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Отключено</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
+     </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Отключить</item>
+        <item>На экране в виде полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="contacts_selected">
+        <item quantity="other">%d Contacts Selected</item>
+        <item quantity="zero">Select All Contacts</item>
+        <item quantity="one">1 Contact Selected</item>
+        <item quantity="many">%d Contacts Selected</item>
+    </plurals>
+</resources>

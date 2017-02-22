@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="accept">Доверяю приложению</string>
+     <string name="configure">Настроить</string>
+     <string name="data_received">Получено:</string>
+     <string name="data_transmitted">Отправлено:</string>
+     <string name="data_value_format">%1$s Б; пакетов: %2$s</string>
+     <string name="disconnect">Разъединить</string>
+     <string name="duration">Продолжительность:</string>
+     <string name="legacy_title">VPN подключение установлено</string>
+     <string name="prompt">Запрос на подключение</string>
+     <string name="session">Сессия:</string>
+     <string name="warning">%s хочет установить VPN соединение, что позволяет ему контролировать сетевой трафик. Разрешайте только проверенным приложениям. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> отображается в верхней части экрана, когда VPN активен.</string>
+</resources>

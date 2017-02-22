@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуы</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Высокое</item>
+        <item>Умеренное</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Выключить</item>
+        <item>Включить</item>
+        <item>По состоянию</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Никогда</item>
+        <item>В режиме без звука</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Рабочие дни</item>
+        <item>Понедельник-пятница</item>
+        <item>Свои дни</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Понедельник-пятница</item>
+        <item>Свои дни</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_name">Служба Wfd</string>
+     <string name="perm_label">Беспроводной экран</string>
+     <string name="perm_desc">API для доступа к беспроводному экрану</string>
+	 <string name="notification_text">Включена проекция экрана</string>
+     <string name="notification_title">Беспроводной экран</string>
+</resources>

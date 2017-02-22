@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d дн. "</item>
+        <item quantity="one">"%d дн. "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ч. "</item>
+        <item quantity="one">"%d ч. "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d мин. "</item>
+        <item quantity="one">"%d мин. "</item>
+     </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Через %1$d мин.</item>
+        <item quantity="one">Через %1$d мин.</item>
+    </plurals>
+    <plurals name="deep_clean_data_connection_enable">
+        <item quantity="other">Могут использовать интернет в фоне: %1$d</item>
+        <item quantity="one">Могут использовать интернет в фоне: %1$d</item>
+    </plurals>
+    <plurals name="deep_clean_data_connection_disable">
+        <item quantity="other">Не могут использовать интернет в фоне: %1$d</item>
+        <item quantity="one">Не могут использовать интернет в фоне: %1$d</item>
+    </plurals>
+    <plurals name="deep_clean_gps_enable">
+        <item quantity="other">Могут использовать GPS: %1$d</item>
+        <item quantity="one">Могут использовать GPS %1$d</item>
+    </plurals>
+    <plurals name="deep_clean_gps_disable">
+        <item quantity="other">Не могут использовать GPS: %1$d</item>
+        <item quantity="one">Не могут использовать GPS: %1$d</item>
+    </plurals>
+    <plurals name="power_optimize_fix_prompt">
+        <item quantity="other">Исправлено проблем: %d</item>
+        <item quantity="one">Исправлено проблем: %d</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Поиск приложений: %d</item>
+        <item quantity="one">Поиск приложений: 1</item>
+    </plurals>
+</resources>

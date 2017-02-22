@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Определение местоположения</string>
+    <string name="location_warning_title">Определение местоположения</string>
+    <string name="location_warning_message">Разрешить службе AutoNavi определять Ваше местоположение для сбора анонимных данных о местоположении. Некоторые данные могут быть сохранены на вашем устройстве, и сбор может происходить даже тогда, когда ни одно приложение не работает. Возможно использование мобильного трафика.</string>
+    <string name="agree">OK</string>
+    <string name="disagree">Отмена</string>
+	<string name="location_warning_do_not_show_again">Больше не показывать</string>
+     <string name="persmission_close">ЗАКРЫТЬ</string>
+     <string name="persmission_message">Для корректной работы эта служба требует дополнительных разрешений. Предоставьте разрешения при запросе.</string>
+     <string name="persmission_message2">Для корректной работы эта служба требует доступ к памяти устройства. Предоставьте разрешения при запросе.</string>
+     <string name="persmission_message3">Для корректной работы эта служба требует доступ к Вашему местоположению. Предоставьте разрешения при запросе.</string>
+     <string name="persmission_message4">Для корректной работы эта служба требует доступ к телефону. Предоставьте разрешения при запросе.</string>
+     <string name="persmission_message5">Для корректной работы эта служба требует дополнительных разрешений. Вы можете управлять разрешениями местоположения в настройках.</string>
+     <string name="persmission_message6">Для корректной работы эта служба требует доступ к Вашему местоположению. Вы можете управлять разрешениями местоположения в настройках.</string>
+     <string name="persmission_message7">Для корректной работы эта служба требует доступ к телефону. Вы можете управлять разрешениями местоположения в настройках.</string>
+     <string name="persmission_message8">Для корректной работы эта служба требует доступ к памяти устройства. Вы можете управлять разрешениями местоположения в настройках.</string>
+     <string name="persmission_notification_text">Нажмите, чтобы разрешить</string>
+     <string name="persmission_notification_title">Местоположению требуются разрешения</string>
+     <string name="persmission_ok">OK</string>
+     <string name="persmission_settings">НАСТРОЙКИ</string>
+</resources>

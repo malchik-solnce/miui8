@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="weather_type">
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Ливень</item>
+        <item>Дождь</item>
+        <item>Ураган</item>
+        <item>Гроза</item>
+        <item>Слабый дождь</item>
+        <item>Дождь</item>
+        <item>Дождь</item>
+        <item>Дождь</item>
+        <item>Мокрый снег</item>
+        <item>Метель</item>
+        <item>Снег</item>
+        <item>Снегопад</item>
+        <item>Легкий снег</item>
+        <item>Снег с ветром</item>
+        <item>Пыльный шторм</item>
+        <item>Песчаная буря</item>
+        <item>Умеренная пыль</item>
+        <item>Ветрено</item>
+        <item>Град</item>
+        <item>Пыль</item>
+        <item>Дымка</item>
+        <item>Дождь со снегом</item>
+        <item>Нет данных</item>
+     </string-array>
+	 <string-array name="aqi_detail_title">
+        <item>Хороший</item>
+        <item>Нормальный</item>
+        <item>Умеренный</item>
+        <item>Загрязненный</item>
+        <item>Грязный</item>
+        <item>Плохой</item>
+     </string-array>
+     <string-array name="breeze">
+        <item>&lt;сила 2</item>
+        <item>&lt;6.0 км/ч</item>
+        <item>&lt;1.7 м/с</item>
+        <item>&lt;3.7 миль/ч</item>
+        <item>&lt;3.2 уз</item>
+     </string-array>
+     <string-array name="wind_direction_simple">
+        <item>С</item>
+        <item>СВ</item>
+        <item>В</item>
+        <item>ЮВ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+     </string-array>
+     <string-array name="wind_unit_detail">
+        <item>По шкале Бофорта</item>
+        <item>Километров в час</item>
+        <item>Метров в секунду</item>
+        <item>Миль в час</item>
+        <item>Узлов</item>
+     </string-array>
+     <string-array name="wind_unit_replace">
+        <item>Сила %1$s</item>
+        <item>%1$s км/ч</item>
+        <item>%1$s м/с</item>
+        <item>%1$s миль/ч</item>
+        <item>%1$s уз</item>
+     </string-array>
+     <string-array name="wind_unit_simple">
+        <item>шкала Бофорта</item>
+        <item>км/ч</item>
+        <item>м/с</item>
+        <item>миль/ч</item>
+        <item>уз</item>
+     </string-array>
+	 <string-array name="aqi_value">
+        <item>Хороший</item>
+        <item>Нормальный</item>
+        <item>Умеренный</item>
+        <item>Грязный</item>
+        <item>Грязный</item>
+        <item>Плохой</item>
+     </string-array>
+	 <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Shanghai</item>
+        <item>Guangzhou</item>
+        <item>Hong Kong</item>
+        <item>Papenburg</item>
+        <item>Milan</item>
+        <item>Berlin</item>
+        <item>Wien</item>
+        <item>Monchyegorsk</item>
+        <item>Minsk</item>
+        <item>Bremen</item>
+        <item>Omsk</item>
+        <item>Singapore</item>
+        <item>Krasnovishyersk</item>
+        <item>Oryol</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Hamburg</item>
+        <item>San Francisco</item>
+        <item>Philadelphia</item>
+        <item>Perm</item>
+        <item>Moscow</item>
+     </string-array>
+	 <string-array name="indices_sport">
+        <item>Подходящие</item>
+        <item>Не советуется</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Подходящие</item>
+        <item>Не советуется</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
+     <string-array name="weather_indexes_uv_level">
+        <item>Слабый</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Сильный</item>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>С</item>
+        <item>СВ</item>
+        <item>В</item>
+        <item>ЮВ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+     </string-array>
+     <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Молодая луна</item>
+        <item>Первая четверть</item>
+        <item>Растущая луна</item>
+        <item>Полнолуние</item>
+        <item>Убывающая луна</item>
+        <item>Последняя четверть</item>
+        <item>Убывающий месяц</item>
+        <item>Старая луна</item>
+     </string-array>
+	 <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+     </string-array>
+</resources>

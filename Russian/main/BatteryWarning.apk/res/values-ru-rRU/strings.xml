@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Over Charger Voltage</string>
+    <string name="title_battery_over_temperature">Over Battery Temperature</string>
+    <string name="title_over_current_protection">Over Current Protection</string>
+    <string name="title_battery_over_voltage">Over Battery Voltage</string>
+    <string name="title_safety_timer_timeout">Over Charge Time</string>
+    <string name="title_battery_low_temperature">Низкая температура батареи</string>
+    <string name="msg_charger_over_voltage">Your charger is over voltage, please disconnect the charger!</string>
+    <string name="msg_battery_over_temperature">Your battery is over temperature, please remove the battery!</string>
+    <string name="msg_over_current_protection">Your battery is over current-protection, please remove the battery!</string>
+    <string name="msg_battery_over_voltage">Warning! Your battery is over voltage!</string>
+    <string name="msg_safety_timer_timeout">Время зарядки слишком долгое. Отключите зарядное устройство!</string>
+    <string name="msg_battery_low_temperature">Предупреждение! Слишком низкая температура батареи!</string>
+    <string name="btn_ok_msg">Отложить</string>
+    <string name="btn_cancel_msg">Отменить</string>
+    <string name="msg_battery_over_temperature_nochange">Предупреждение! Ваша батарея перегрета!</string>
+    <string name="schpwr_shutdown_message1">Устройство будет выключено через %s с.</string>
+    <string name="schpwr_shutdown_message_over_temperature">Перегрев батареи. Устройство будет выключено через %s с.</string>
+    <string name="schpwr_shutdown_message_lower_temperature">Низкая температура батареи. Устройство будет выключено через %s с.</string>
+</resources>

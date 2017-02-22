@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="check_in_info">
+        <item quantity="one">Проверено: 1 день назад</item>
+        <item quantity="many">Проверено: $d дн. назад</item>
+    </plurals>
+</resources>

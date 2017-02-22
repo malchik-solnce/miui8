@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+     </plurals>
+     <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+     </plurals>
+     <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">1 сек.</item>
+     </plurals>
+     <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">1 мин.</item>
+     </plurals>
+     <plurals name="snooze_message">
+        <item quantity="other">Отложить на %d мин.</item>
+        <item quantity="one">Отложить на %d мин.</item>
+     </plurals>
+	 <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ч. "</item>
+        <item quantity="one">"%1$d ч. "</item>
+     </plurals>
+     <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d мин. "</item>
+        <item quantity="one">"%1$d мин. "</item>
+     </plurals>
+     <plurals name="timer_message_second">
+        <item quantity="other">%1$d сек.</item>
+        <item quantity="one">%1$d сек.</item>
+     </plurals>
+	 <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Отложить на %d мин.</item>
+        <item quantity="one">Отложить на %d мин.</item>
+     </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Будильник выключится через %d мин.</item>
+        <item quantity="one">Будильник выключится через %d мин.</item>
+     </plurals>
+	 <plurals name="delete_alarm_confirm">
+        <item quantity="other">Удалить выбранные будильники?</item>
+        <item quantity="one">Удалить этот будильник?</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="other">Удалить выбранные часовые пояса?</item>
+        <item quantity="one">Удалить этот часовой пояс?</item>
+     </plurals>
+</resources>

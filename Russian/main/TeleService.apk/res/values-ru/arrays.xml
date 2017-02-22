@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение…</item>
+        <item>Авторизация…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Сон</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Не удалось соединиться</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s…</item>
+        <item>Авторизация на %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Сон</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключено</item>
+        <item>Не удалось отключиться</item>
+        <item>Заблокировано</item>
+        <item>Избежание слабого сигнала</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Не использовать</item>
+        <item>Использовать только для проверки DRM содержимого</item>
+        <item>Всегда использовать</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Никогда не проверять</item>
+        <item>Проверять только для DRM содержимого</item>
+        <item>Проверять всегда</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Отключено</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+        <item>4 МБ</item>
+        <item>16 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Отключено</item>
+        <item>64 КБ</item>
+        <item>256 КБ</item>
+        <item>1 МБ</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Отключено</item>
+        <item>64 КБ на буфер журнала</item>
+        <item>256 КБ на буфер журнала</item>
+        <item>1 МБ на буфер журнала</item>
+        <item>4 МБ на буфер журнала</item>
+        <item>16 МБ на буфер журнала</item>
+    </string-array>
+   <string-array name="window_animation_scale_entries">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Отключена</item>
+        <item>Быстрая</item>
+        <item>Обычная</item>
+        <item>Замедленная</item>
+        <item>Медленная</item>
+        <item>Очень медленная</item>
+        <item>Самая медленная</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Нет</item>
+        <item>480p</item>
+        <item>480p (защита)</item>
+        <item>720p</item>
+        <item>720p (защита)</item>
+        <item>1080p</item>
+        <item>1080p (защита)</item>
+        <item>4K</item>
+        <item>4K (защита)</item>
+        <item>4K (масштабирование)</item>
+        <item>4K (масштабирование, защита)</item>
+        <item>720p, 1080p (два экрана)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Нет</item>
+        <item>Logcat</item>
+        <item>Systrace (графич.)</item>
+        <item>Список вызовов в glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Отключено</item>
+        <item>Непрямоугольное усечение синим</item>
+        <item>Тест. команды рисования зеленым</item>
+     </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Отключить</item>
+        <item>На экране в виде полос</item>
+        <item>В adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Отключено</item>
+		<item>Показывать области наложения</item>
+		<item>Выделять области определенного цвета</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Стандартное ограничение</item>
+        <item>Без фоновых процессов</item>
+        <item>Не более одного процесса</item>
+        <item>Не более 2 процессов</item>
+        <item>Не более 3 процессов</item>
+        <item>Не более 4 процессов</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Зарядка</item>
+        <item>MTP (протокол передачи мультимедиа)</item>
+        <item>PTP (протокол передачи изображений)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Источник звука</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Очень медленная</item>
+        <item>Медленная</item>
+        <item>Обычная</item>
+        <item>Быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Быстрая</item>
+        <item>Очень быстрая</item>
+        <item>Самая быстрая</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Улучшенные цвета</item>
+        <item>Натуральные цвета (привычные глазу)</item>
+        <item>Оптимизированные цвета (цифровой контент)</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Насыщенный (по умолчанию)</item>
+        <item>Естественный</item>
+        <item>Стандартный</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+	 <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+	 <string-array name="ims_call_cap_types">
+        <item>Voice</item>
+        <item>Video</item>
+     </string-array>
+	 <string-array name="ims_call_types">
+        <item>Voice</item>
+        <item>Video</item>
+        <item>CSVoice</item>
+     </string-array>
+	 <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="ims_voice_cs_call_types">
+        <item>Voice</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Тройной режим</item>
+     </string-array>
+     <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Тройной режим</item>
+     </string-array>
+	 <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>Только GSM</item>
+        <item>Только WCDMA</item>
+        <item>Предпочтительно GSM/WCDMA</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>TD-SCDMA only</item>
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM/WCDMA preferred</item>
+     </string-array>
+	 <string-array name="call_barring_incoming_display_values">
+        <item>Выключено</item>
+        <item>Роуминг</item>
+        <item>Все</item>
+     </string-array>
+     <string-array name="call_barring_outgoing_display_values">
+        <item>Выключено</item>
+        <item>Международные вызовы в роуминге</item>
+        <item>Международные вызовы</item>
+        <item>исходящие вызовы</item>
+     </string-array>
+     <string-array name="clir_display_values">
+        <item>По умолчанию</item>
+        <item>Скрывать номер</item>
+        <item>Показывать номер</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Глобальный</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+     </string-array>
+     <string-array name="cdma_system_select_choices">
+        <item>Домашняя сеть</item>
+        <item>Автоматически</item>
+     </string-array>
+     <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+     </string-array>
+     <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+     </string-array>
+     <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+     </string-array>
+	 <string-array name="livetalk_about_info_array">
+        <item>• Использование: звоните на любые номера по всему миру;</item>
+        <item>• Требование: каждый вызов использует 1 КБ мобильного интернета;</item>
+        <item>• Другое: просто пополните баланс и начните звонить, без каких либо сложных настроек;</item>
+        <item>• Если Вам нужна помощь, позвоните нам 400-100-5678.</item>
+     </string-array>
+	 <string-array name="gsm_umts_network_preferences_choices">
+        <item>Предпрочтительно 3G</item>
+        <item>Только 3G</item>
+        <item>Только 2G</item>
+     </string-array>
+	 <string-array name="dtmf_tone_entries">
+        <item>Нормальный</item>
+        <item>Длинный</item>
+     </string-array>
+     <string-array name="origin_carrier_names">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+     </string-array>
+</resources>

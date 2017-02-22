@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="agree">OK</string>
+	 <string name="language_picker_other_languages_title">Другие языки</string>
+     <string name="language_picker_popular_languages_title">Популярные языки</string>
+	 <string name="other_settings_mifg_online_content">Ежедневные обои</string>
+     <string name="other_settings_mifg_online_content_summary">Требуется интернет для получения обоев на экран блокировки</string>
+	 <string name="other_settings_auto_update">Автоматическое обновление</string>
+     <string name="other_settings_auto_update_summary">Автоматически загружать и устанавливать обновления системы</string>
+     <string name="other_settings_upload_debug_log_summary">Эти данные будут использоваться для обнаружения, анализироания и решения проблем</string>
+     <string name="other_settings_upload_debug_log_title">Отправка данных</string>
+	 <string name="app_name">Провайдер настроек</string>
+     <string name="content_description_language_picker">Выбор языка</string>
+     <string name="content_description_miui_version">MIUI 8</string>
+	 <string name="content_description_complete">Готово</string>
+     <string name="content_description_start">Начать</string>
+	 <string name="agree_terms">Я прочитал и согласен с Условиями использования</string>
+     <string name="back">Назад</string>
+     <string name="congratulation_title">Привет</string>
+	 <string name="alert_dialog_btn_close">Выключить</string>
+     <string name="alert_dialog_btn_open">Разрешить</string>
+     <string name="alert_dialog_msg">Некоторые из основных функций MIUI могут работь не корректно без этих разрешений (например, устройство не сможет отобразить контактную информацию во время разговора). Если отключить эти разрешения, приложения MIUI будут запрашивать их при необходимости.</string>
+     <string name="alert_dialog_title">Информация</string>
+     <string name="other_settings_permission">Разрешения сервисов MIUI</string>
+     <string name="other_settings_permission_summary">Предоставить системным сервисам необходимые для их корректной работы разрешения</string>
+	 <string name="desc_extra_international_fingerprint" />
+     <string name="desc_international_fingerprint">Используйте свой отпечаток пальца, чтобы разблокировать устройство, или входить в приложения и сервисы</string>
+	 <string name="desc_fingerprint">Используйте свой отпечаток пальца, чтобы разблокировать устройство, входить в приложения и сервисы</string>
+     <string name="next_fingerprint">Далее</string>
+     <string name="title_fingerprint">Отпечаток пальца</string>
+     <string name="congratulation_label">"Первоначальная настройка устройства завершена. 
+ Приятного пользования данной прошивкой!
+
+С уважением, команда MIUI MS."</string>
+     <string name="disagree">Отмена</string>
+	 <string name="sim_card_detecting_title">Поиск SIM-карты</string>
+	 <string name="skip_underline"><u>Пропустить этот шаг</u></string>
+	 <string name="summary_sim_card_with_operator">SIM-карта %1$d, %2$s</string>
+     <string name="ime_privacy_policy">Конфиденциальность клавиатуры</string>
+     <string name="ime_privacy_policy_no_network">Не удается подключиться к интернету. Посмотрите политику конфиденциальности для этой клавиатуры на %s.</string>
+     <string name="input_method_category">Выберите клавиатуру по умолчанию, которая будет использоваться при написании сообщений, заметок и т.д. Сторонние клавиатуры можно установить позже.</string>
+     <string name="input_method_setting">Метод ввода</string>
+     <string name="install_preinstall_app">Загрузка приложений…</string>
+     <string name="locale_picker_confirm_dialog_desc">Установить %s как Вашу страну?</string>
+     <string name="locale_picker_confirm_dialog_title">Местоположение</string>
+     <string name="locale_picker_desc">" Если Вы хотите изменить свое местоположение позже, необходимо будет выполнить полный сброс."</string>
+     <string name="locale_picker_title">Местоположение</string>
+     <string name="miui_privacy_policy_no_network">Нет подключения к сети. Посмотрите политику конфиденциальности на %s</string>
+     <string name="miui_terms_no_network">Нет подключения к сети. Посмотрите условия использования на %s</string>
+     <string name="multisim_settings_category">Настройка SIM-карт</string>
+     <string name="multisim_settings_title">Найдено 2 SIM-карты</string>
+     <string name="network_access_warning">Требуется подключение к интернету для активации услуг Xiaomi</string>
+     <string name="next">Далее</string>
+     <string name="other_settings">Другие настройки</string>
+     <string name="other_settings_location">Доступ к местоположению</string>
+     <string name="other_settings_location_summary">Разрешать приложениям определять Ваше местоположение</string>
+     <string name="other_settings_user_experience">Программа повышения качества</string>
+     <string name="other_settings_user_experience_summary">Помогите улучшить наши продукты и услуги посредством отправки анонимных данных об использовании</string>
+     <string name="other_settings_user_experience_summary1">Политика конфиденциальности</string>
+     <string name="page_layout_label">Настройте размер шрифта и расположение на главном экране, в панели уведомлений и т.д.</string>
+     <string name="page_layout_title">Плотность экрана</string>
+     <string name="pref_title_data_slot">Интернет</string>
+     <string name="pref_title_voice_slot">Звонки</string>
+     <string name="privacy_policy">Политика конфиденциальности</string>
+     <string name="provision_finish">OK</string>
+     <string name="provision_finish_restart">Перезагрузить</string>
+     <string name="provision_inputmethod_policy_description">"
+Политика конфиденциальности "</string>
+     <string name="provision_inputmethod_policy_description1">клавитауры</string>
+     <string name="setting_locale">Поиск местоположения…</string>
+     <string name="shut_down">Выключить</string>
+     <string name="sim_card_detecting">Проверка SIM-карты…</string>
+     <string name="sim_card_detection">SIM-карта не найдена</string>
+     <string name="sim_card_detection_info">Вы не сможете настроить Mi аккаунт без SIM-карты, для синхронизации контактов, поиска телефона и т.д.</string>
+     <string name="sim_dectection_next">Продолжить</string>
+     <string name="sim_redetection">Повторить</string>
+     <string name="summary_not_set">Не выбрано</string>
+     <string name="summary_sim_card">SIM-карта %1$d</string>
+     <string name="terms_of_use">Условия использования</string>
+     <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Прочитайте наши условия предоставления услуг и политику конфиденциальности, чтобы знать, какую информацию мы собираем, как мы ее используем и какие настройки доступны для Вас.
+	 
+Вы должны согласиться с пользовательским соглашением и политикой конфиденциальности, прежде чем использовать MIUI."</string>
+     <string name="title_congratulation">Поздравляем!</string>
+     <string name="user_agreement">Пользовательское соглашение</string>
+     <string name="welcome">Добро пожаловать</string>
+</resources>

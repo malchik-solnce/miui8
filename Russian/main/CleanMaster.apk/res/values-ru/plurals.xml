@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="view_num">
+        <item quantity="other">Просмотров: %1$d</item>
+        <item quantity="zero">Просмотров: %1$d</item>
+        <item quantity="one">Просмотров: %1$d</item>
+        <item quantity="two">Просмотров: %1$d</item>
+        <item quantity="few">Просмотров: %1$d</item>
+        <item quantity="many">Просмотров: %1$d</item>
+     </plurals>
+	 <plurals name="wechat_copy_video_failed_dialog_msg">
+        <item quantity="other">Ошибка экспорта %d видео. Освободите место и повторите.</item>
+        <item quantity="one">Ошибка экспорта %d видео. Освободите место и повторите.</item>
+     </plurals>
+     <plurals name="wechat_empty_files">
+        <item quantity="other">(%1$d пустые файлы) %2$s</item>
+        <item quantity="one">(%1$d пустой файл) %2$s</item>
+     </plurals>
+	 <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">Установленных приложений: %d</item>
+        <item quantity="one">Установленных приложений: %d</item>
+     </plurals>
+     <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Удалить %d фото?</item>
+        <item quantity="one">Удалить %d фото?</item>
+     </plurals>
+     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Удалить %1$s фото из всех устройств?</item>
+        <item quantity="one">Удалить %1$s фото из всех устройств?</item>
+     </plurals>
+	 <plurals name="deepclean_apk_summary">
+        <item quantity="other">Найдено APK: %d. Вы можете удалить ненужные.</item>
+        <item quantity="one">Найдено APK: %d. Вы можете удалить его.</item>
+     </plurals>
+     <plurals name="deepclean_video_summary">
+        <item quantity="other">Найдено %d видео. Вы можете удалить ненужные.​</item>
+        <item quantity="one">Найдено %d видео. Вы можете удалить его.</item>
+     </plurals>
+	 <plurals name="deepclean_app_summary">
+        <item quantity="other">Установлено приложений: %d. Вы можете удалить редко используемые.</item>
+        <item quantity="one">Установлено приложений: %d. Вы можете удалить одно из них.</item>
+     </plurals>
+     <plurals name="deepclean_cache_summary">
+        <item quantity="other">Вы можете очистить ненужные данные для %d прил.</item>
+        <item quantity="one">Вы можете очистить ненужные данные для %d прил.</item>
+     </plurals>
+     <plurals name="deepclean_large_summary">
+        <item quantity="other">Найдено больших файлов: %d. Вы можете удалить ненужные.</item>
+        <item quantity="one">Найдено больших файлов: %d. Вы можете удалить ненужные.</item>
+     </plurals>
+     <plurals name="deepclean_similar_summary">
+        <item quantity="other">Найдено фото: %d. Вы можете удалить дубликаты или ненужные.</item>
+        <item quantity="one">Найдено фото: %d. Вы можете удалить дубликаты или ненужные.</item>
+     </plurals>
+	<plurals name="hint_similar_image_header_left">
+        <item quantity="other">Групп: %d</item>
+        <item quantity="one">Групп: %d</item>
+    </plurals>
+	<plurals name="days_ago">
+        <item quantity="other">%1$d дн. назад</item>
+        <item quantity="zero">%1$d дн. назад</item>
+        <item quantity="one">%1$d дн. назад</item>
+        <item quantity="two">%1$d дн. назад</item>
+        <item quantity="few">%1$d дн. назад</item>
+        <item quantity="many">%1$d дн. назад</item>
+     </plurals>
+     <plurals name="hours_ago">
+        <item quantity="other">%1$d ч. назад</item>
+        <item quantity="zero">%1$d ч. назад</item>
+        <item quantity="one">%1$d ч. назад</item>
+        <item quantity="two">%1$d ч. назад</item>
+        <item quantity="few">%1$d ч. назад</item>
+        <item quantity="many">%1$d ч. назад</item>
+     </plurals>
+     <plurals name="million">
+        <item quantity="other">Загрузок: %1$d</item>
+     </plurals>
+     <plurals name="mins_ago">
+        <item quantity="other">%1$d мин. назад</item>
+        <item quantity="zero">%1$d мин. назад</item>
+        <item quantity="one">%1$d мин. назад</item>
+        <item quantity="two">%1$d мин. назад</item>
+        <item quantity="few">%1$d мин. назад</item>
+        <item quantity="many">%1$d мин. назад</item>
+     </plurals>
+     <plurals name="people">
+        <item quantity="other">Загрузок: %1$d</item>
+     </plurals>
+     <plurals name="people_million">
+        <item quantity="other">Загрузок: %1$d</item>
+     </plurals>
+</resources>

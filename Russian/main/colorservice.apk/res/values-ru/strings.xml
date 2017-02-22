@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description">Разрешает управление параметрами отображения устройства прямо в приложении</string>
+    <string name="permission_label">Управление параметрами отображения</string>
+</resources>

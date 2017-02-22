@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+	<string-array name="wechat_menu_delete">
+        <item>Очистить</item>
+     </string-array>
+     <string-array name="wechat_menu_delete_whitelist">
+        <item>Очистить</item>
+     </string-array>
+     <string-array name="wechat_menu_delete_whitelist_view">
+        <item>Очистить</item>
+        <item>Посмотреть</item>
+     </string-array>
+	<string-array name="low_memory_clean_menu">
+        <item>Очистить</item>
+     </string-array>
+	<string-array name="video_clean_menu">
+        <item>Удалить</item>
+        <item>Открыть</item>
+     </string-array>
+	<string-array name="trash_clean_menu">
+        <item>Очистить</item>
+        <item>Посмотреть файлы</item>
+     </string-array>
+	<string-array name="auto_alert_apps_time">
+        <item>Каждые 7 дней</item>
+        <item>Каждые 15 дней</item>
+        <item>Каждые 30 дней</item>
+     </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Размер</item>
+        <item>Имя</item>
+    </string-array>
+	<string-array name="empty_floder_clean_menu">
+        <item>Очистка</item>
+     </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Частые</item>
+        <item>Размер</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Каждый день</item>
+        <item>Каждые 3 дня</item>
+        <item>Каждые 7 дней</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100 МБ</item>
+        <item>300 МБ</item>
+        <item>500 МБ</item>
+        <item>1 ГБ</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Перед очисткой</item>
+        <item>Не показывать</item>
+        <item>После очистки</item>
+     </string-array>
+	 <string-array name="apk_clean_menu">
+        <item>Очистить</item>
+        <item>Установить</item>
+        <item>Открыть папку</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Удалить</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
+        <item>Очистить</item>
+        <item>Посмотреть файлы</item>
+     </string-array>
+	 <string-array name="long_add_app_menu">
+        <item>Добавить приложение в исключение</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Добавить в исключение</item>
+     </string-array>
+	 <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>
+</resources>

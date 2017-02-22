@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="device_is_volte_capable">Устройство поддерживает VoLTE</string>
+     <string name="handover_from_wifi_to_lte">Переключение на 4G для лучшего качества связи</string>
+     <string name="hd_icon_header_app_name">" "</string>
+	 <string name="call_hold_label">Удержание вызова :</string>
+     <string name="call_resume_label">Возобнов. вызова :</string>
+     <string name="device_is_hd_capable">Устройство поддерживает HD</string>
+     <string name="error_msg_cancelled">Отменено</string>
+     <string name="error_msg_failed">Ошибка</string>
+     <string name="error_msg_reinvite_collision">Reinvite Collision</string>
+     <string name="incoming_call_failed_low_battery">Входящий вызов не удался из-за низкого заряда батареи</string>
+	 <string name="wifi_calling_on">Wifi вызов включен</string>
+     <string name="wifi_calling_off">Wifi вызов выключен</string>
+</resources>
