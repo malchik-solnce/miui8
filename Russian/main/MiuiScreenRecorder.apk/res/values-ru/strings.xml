@@ -35,8 +35,10 @@
     <string name="start">Начать</string>
     <string name="low_battery_title">Низкий заряд батареи</string>
     <string name="low_battery">Зарядите телефон перед началом записи</string>
+	<string name="battery_not_allowed">Невозможно начать запись, когда заряд батареи мнее ３％. Зарядите бетарею более ２０％.</string>
     <string name="low_memory_title">Нет памяти</string>
     <string name="low_memory">Доступно менее 200 МБ свободного места. Вы можете записать видео не более 10 минут.</string>
+	<string name="memory_not_allowed">Недостаточно памяти для записи экрана. Освободите память и повторите попытку.</string>
     <string name="auto_stop_title">Видео сохранено</string>
     <string name="low_battery_warning">Низкий заряд батареи. Запись остановлена и видео сохранено.</string>
     <string name="low_momery_warning">Не достаточно памяти. Запись остановлена и видео сохранено.</string>
@@ -59,4 +61,8 @@
     <string name="hint_volume_up">Громкость +</string>
     <string name="hint_volume_down">Громкость -</string>
     <string name="stop_by_second_space">Смена пользователя остановит запись экрана</string>
+	<string name="cannot_change_parames">Невозможно изменить параметры во время записи</string>
+	<string name="no_sound">Без звука</string>
+    <string name="mic_sound">Микрофон</string>
+    <string name="loopback_sound">Loopback sound</string>
 </resources>
