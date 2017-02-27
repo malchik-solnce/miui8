@@ -12,4 +12,8 @@
         <item quantity="other">%1$d с. назад</item>
         <item quantity="one">%1$d с. назад</item>
     </plurals>
+	<plurals name="time_in_day">
+        <item quantity="other">%1$d дн. назад</item>
+        <item quantity="one">%1$d дн. назад</item>
+     </plurals>
 </resources>

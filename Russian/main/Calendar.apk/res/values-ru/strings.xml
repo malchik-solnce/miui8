@@ -281,7 +281,7 @@
      <string name="notice_declaration_ignore">Больше не показывать</string>
      <string name="departure">Отправление</string>
      <string name="free_day_default_banner_title">Выходные!</string>
-     <string name="guide_card_hint_text">Подпишитесь для получения новых возможностей</string>
+     <string name="guide_card_hint_text">Импорт дней рождений из контактов</string>
      <string name="today_flight_event">Полет</string>
      <string name="today_train_event">Поезд</string>
      <string name="work_day_default_banner_title">За работу!</string>

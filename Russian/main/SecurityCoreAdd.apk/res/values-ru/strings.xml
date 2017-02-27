@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Компонент безопасности</string>
+	<string name="air_space_created">Рабочее пространство создано</string>
+     <string name="air_space_deleted">Рабочее пространство удалено</string>
+     <string name="confirm_airspace_password">Подтвердите пароль рабочего пространства</string>
+     <string name="create_work_space">Создать рабочее пространство</string>
+     <string name="downloading_space">Загрузка…</string>
+     <string name="enter_air_space">Войти в рабочее пространство</string>
+     <string name="invalid_qr_code">Неверный QR код</string>
+     <string name="need_network_when_create">Подключитесь к сети переде созданием рабочего пространства</string>
+     <string name="need_reset_passwd">Сбросьте пароль рабочего пространства перед входом в него</string>
+     <string name="reset_passwd_success">Пароль был сброшен</string>
+     <string name="space_des_default">Изолированное пространство с зашифрованными данными</string>
+     <string name="space_name_default">Рабочее пространство</string>
+     <string name="switch_download_space">Сменить рабочее пространство</string>
 	<string name="keywords_sspace">Второй пользователь;Два пользователя;Пространство;Скрытое место</string>
      <string name="keywords_xspace">Клон;Клонированные приложения;2 аккаунта</string>
      <string name="path_sspace">Настройки/Второй пользователь</string>

@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="device_available_memory">Доступная память</string>
+     <string name="device_battery">Батарея</string>
+     <string name="device_build_id">Сборка</string>
+     <string name="device_rear_camera">Камера</string>
+     <string name="device_screen_resolution">Разрешение экрана</string>
+     <string name="device_screen_size">Экран</string>
+     <string name="device_total_memory">Всего памяти</string>
+     <string name="lockpassword_confirm_workspace_password">Проверка пароля пользователя</string>
+     <string name="lockpattern_pattern_same_with_others">Должны отличаться от пароля другого пользователя</string>
+     <string name="main_netcheck_summary">Проверка соединения для в решении проблем сети</string>
+     <string name="memory_rightvalue">Доступно: %s</string>
+     <string name="mi_shopping_mall">Mi Shop</string>
+     <string name="netcheck_title">Диагностика сети</string>
+     <string name="screen_monochrome_mode_apps_loading">Подождите…</string>
+     <string name="screen_monochrome_mode_apps_title">Использовать монохромный режим</string>
+     <string name="screen_monochrome_mode_global_summary">Использовать монохромный режим для всех приложений</string>
+     <string name="screen_monochrome_mode_global_title">Все приложения</string>
+     <string name="screen_monochrome_mode_local_summary">Использовать монохромный режим для выбранных приложений</string>
+     <string name="screen_monochrome_mode_local_title">Выбранные приложения</string>
+     <string name="screen_monochrome_mode_off_apps_title">Не использовать режим</string>
+     <string name="screen_monochrome_mode_set_apps_title">Использовать режим</string>
+     <string name="screen_monochrome_mode_summary">Используйте, чтобы продлить работу от батареи</string>
+     <string name="screen_monochrome_mode_title">Монохромный режим</string>
 	 <string name="breathing_light_mode_multicolor">Несколько</string>
      <string name="breathing_light_mode_title">Выберите цвет индикатор</string>
      <string name="breathing_light_mode_white">Белый</string>

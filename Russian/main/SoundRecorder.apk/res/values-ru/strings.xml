@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="alert_message_delete_record">Удалить выбранные записи?</string>
+	 <string name="head_set_tip_dialog_msg">Отключите наушники, чтобы иметь возможность записывать звук с определенными настройками (музыка, голос)</string>
+     <string name="head_set_tip_dialog_ok">OK</string>
+     <string name="head_set_tip_dialog_title">Использовать встроенный микрофон</string>
 	 <string name="record_format_preference_title">Формат записи</string>
      <string name="record_resotre">Восстановить записи</string>
      <string name="webview_check_network">Настройки сети</string>
