@@ -2,7 +2,7 @@
 <resources>
      <plurals name="Nminutes">
         <item quantity="other">%d мин.</item>
-        <item quantity="one">1 минута</item>
+        <item quantity="one">1 мин.</item>
      </plurals>
 	 <plurals name="Ndays_after_at">
         <item quantity="other">Через %1$d дн. в %2$s</item>
@@ -29,8 +29,8 @@
         <item quantity="one">год</item>
      </plurals>
      <plurals name="countdown_day">
-        <item quantity="other">дней спустя</item>
-        <item quantity="one">день спустя</item>
+        <item quantity="other">дней</item>
+        <item quantity="one">день</item>
      </plurals>
 	 <plurals name="Ndays_after">
         <item quantity="other">Через %1$d дн. в %2$s</item>

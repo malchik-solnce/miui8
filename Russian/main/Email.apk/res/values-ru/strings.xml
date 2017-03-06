@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="ApplicationIconMore99">99+</string>
+	 <string name="auto_remind_bind">Добавить</string>
+     <string name="auto_remind_discribe_text">Включите, чтобы получать автоматические напоминания</string>
+     <string name="auto_remind_text">Автоматические напоминания</string>
+     <string name="auto_remind_unbind">Остановить</string>
+     <string name="bank_card_detail">Данные кредитной карты</string>
+     <string name="bank_card_list_card_num_fmt">****%s</string>
+     <string name="bill_center_setting">Настройки выписок</string>
+     <string name="bill_center_setting_head">Импорт информация с аккаунтов</string>
+     <string name="bill_cycle_text">Платежный цикл</string>
+     <string name="bill_list_card_name_fmt" formatted="false">%s | %s</string>
+     <string name="bill_list_card_num_fmt">**** **** **** %s</string>
+     <string name="bill_remind">Напоминание платежа</string>
+     <string name="bill_remind_due">Необходимо погашение %s. Нажмите ля просмотра.</string>
+     <string name="credit_limit_text">Кредитный лимит</string>
+     <string name="cur_debt">Баланс</string>
+     <string name="drawer_bank_bill">Банковские выписки</string>
+     <string name="drawer_bill_title">Выписки</string>
+     <string name="due">В связи</string>
+     <string name="due_date_text">Итоговое погашение</string>
+     <string name="fetch_bank_sender_list_failure">Не удалось получить информацию</string>
+     <string name="free_period_text">Беспроцентный период</string>
+     <string name="import_button_text">Импортировать</string>
+     <string name="import_from_other_account">Импорт из других аккаунтов</string>
+     <string name="interact_with_server_error">Не удается подключиться к серверу</string>
+     <string name="mailbox_name_display_circular">Уведомления</string>
+     <string name="min_payment_text">Минимальный платеж</string>
+     <string name="network_invaild">Нет подключения к сети</string>
+     <string name="no_bill_discribe">"Не удалось найти какие-либо счета.
+Попробуйте переключиться на другой аккаунт электронной почты."</string>
+     <string name="no_filtrable_email_account">Нет аккаунтов для фильтрации</string>
+     <string name="over_due">Просрочено</string>
+     <string name="parse_bill_discribe">Обработка счетов кредитной карты…</string>
+     <string name="pls_parse_bill_discribe">"Анализировать информацию о счетах и поездках почте,
+чтобы получать напоминания о платежах и поездах"</string>
+     <string name="protocol_setting_toast">Нажмите в правом верхнем углу, чтобы перейти к настройкам после соглашения</string>
+     <string name="service_protocol_discribe"><u>"Я прочитал и согласен с соглашением WPS Mail"</u></string>
+     <string name="service_protocol_title">Соглашение об обслуживании</string>
+     <string name="today_text">Сегодня</string>
+     <string name="unbind_dialog_text">"Вы не будете получать напоминания после остановки анализа.
+Остановить сейчас?"</string>
+     <string name="unknow">Неизвестно</string>
 	 <string name="accessibility_guide_first">In the next screen, select the \"Services\" tab to activate the 139 Mailbox Automatical Configuring</string>
      <string name="accessibility_guide_second">Then click the switch on the top right corner, click the \"Confirm\" to continue.</string>
      <string name="auto_mail_describe">Служба автоматической настройки 139 Email может помочь вам заполнить информацию для входа в почтовый ящик. Вы хотите включить эту функцию?</string>

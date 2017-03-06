@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_denied">Доступ запрещен</string>
+	 <string name="micloud_notif_content_dirty_data">Подробнее</string>
+     <string name="micloud_notif_title_dirty_data">Есть несинхронизированные данные</string>
 	 <string name="micloud_detail_battery_low">Низкий заряд батареи</string>
      <string name="micloud_detail_need_charge">Зарядите для синхронизации</string>
      <string name="micloud_detail_pause">Синхронизация приостановлена</string>

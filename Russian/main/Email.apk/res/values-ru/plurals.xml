@@ -4,6 +4,22 @@
         <item quantity="other">Новых сообщений: %1$d</item>
 		<item quantity="one">Новых сообщений: %1$d</item>
      </plurals>
+	 <plurals name="day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+     </plurals>
+     <plurals name="day_after">
+        <item quantity="other">Через %d дн.</item>
+        <item quantity="one">Через %d день</item>
+     </plurals>
+     <plurals name="day_before">
+        <item quantity="other">%d дн. назад</item>
+        <item quantity="one">%d день назад</item>
+     </plurals>
+     <plurals name="month">
+        <item quantity="other">%d мес.</item>
+        <item quantity="one">%d мес.</item>
+     </plurals>
      <plurals name="confirm_archive_conversation">
         <item quantity="other">Архивировать эти цепочки (%1$d)?</item>
         <item quantity="zero">Архивировать эти цепочки (%1$d)?</item>

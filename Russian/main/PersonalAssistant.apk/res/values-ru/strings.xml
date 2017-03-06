@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Smart assistant</string>
+	<string name="launch_no_dapp_dialog_content">Приложение этой карточки было удалено. Вы можете заменить эту карточку на другую.</string>
+     <string name="launch_no_dapp_dialog_reset">Настройки клонированных приложений</string>
+     <string name="launch_no_dapp_dialog_title">Клонированное приложение удалено</string>
+     <string name="unusual_weather">Предупреждения погоды</string>
+     <string name="unusual_weather_open">Включить предупреждения погоды</string>
+     <string name="unusual_weather_setting_brief">Получать предупреждения о чрезвычайной погоде</string>
+     <string name="unusual_weather_setting_tip">Город можно изменить в настройках приложения Погода</string>
+     <string name="xspace_resolver_activity_title">Выберите приложение</string>
 	<string name="agenda">Событие</string>
     <string name="agenda_open">Включить события</string>
     <string name="agenda_setting_brief">Когда расписание будет работать в тот же день, перед тем произойдет график, чтобы напомнить вам, что следующий независимо от того</string>

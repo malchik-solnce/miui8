@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	 <string name="information_manager_information">Информация о погоде</string>
+	 <string name="information_manager_default_weather_bg">Фон погоды по умолчанию</string>
 	 <string name="connect_fail">Отсутствует подключение к сети. Повторите.</string>
      <string name="daily_forecast_no_data">"Не удалось получить данные.
 Потяните вниз, чтобы получить данные вручную или проверьте настройки сети."</string>
