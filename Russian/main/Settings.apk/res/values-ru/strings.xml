@@ -26,7 +26,7 @@
      <string name="search_do_not_disturb_mode">Не беспокоить</string>
      <string name="search_key_settings_title">Кнопки;Клавиши</string>
      <string name="search_language_settings">Язык и ввод;Язык устройства;Ввод;Клавиатура и способы ввода</string>
-     <string name="search_led_settings">LED;Индикатор;LED индикатор</string>
+     <string name="search_led_settings">LED;Светодиод;LED индикатор</string>
      <string name="search_lock_settings">Блокировка экрана и пароль;Разблокировка Bluetooth;Разблокировка Bluetooth устройством</string>
      <string name="search_music_equalizer">Эквалайзер</string>
      <string name="search_nfc_quick_toggle_title">NFC</string>
@@ -900,7 +900,7 @@
      <string name="search_gesture_wakeup_title">Пробуждение двойным нажатием</string>
 	 <string name="status_bar_settings_notification_sound">Звук</string>
      <string name="status_bar_settings_notification_vibrate">Вибрация</string>
-	 <string name="path_edge_handgrip">Настройки/Edge controls</string>
+	 <string name="path_edge_handgrip">Настройки/Управление по краю</string>
      <string name="path_oldman_mode">Настройки/Простой режим</string>
      <string name="path_pref_volume_wake_title">Настройки/Блокировка экрана и пароль/Пробуждение устройства</string>
      <string name="path_screen_on_proximity_sensor_title">Настройки/Блокировка экрана и пароль/Защита датчиком</string>
@@ -910,7 +910,7 @@
      <string name="path_wakeup_for_keyguard_notification_title">Настройки/Блокировка экрана и пароль/Включать экран при уведомлениях</string>
      <string name="path_wifi_tether_checkbox">Настройки/Точка доступа Wi-Fi/Точка доступа Wi-Fi</string>
      <string name="path_wifi_tether_settings">Настройки/Точка доступа Wi-Fi</string>
-     <string name="search_edge_handgrip">Edge controls</string>
+     <string name="search_edge_handgrip">Управление по краю</string>
      <string name="search_oldman_mode">Простой режим;Режим для пожилых</string>
      <string name="search_screen_paper_mode">Режим чтения</string>
      <string name="vpn_no_selected">Выбрать VPN</string>
@@ -1012,7 +1012,7 @@
      <string name="path_status_bar_settings_show_carrier">Настройки/Уведомления и статус бар/Показывать оператора</string>
      <string name="path_status_bar_settings_show_network_speed">Настройки/Уведомления и статус бар/Показывать скорость сети</string>
      <string name="path_status_bar_settings_show_notification_icon">Настройки/Уведомления и статус бар/Показывать иконки приложений</string>
-     <string name="path_status_bar_settings_show_screenshot_notification">Настройки/Уведомления и статус бар/Показывать скриншоты</string>
+     <string name="path_status_bar_settings_show_screenshot_notification">Настройки/Уведомления и статус бар/Уведомлять о скриншоте</string>
      <string name="path_status_bar_settings_style">Настройки/Уведомления и статус бар/Вид уведомлений и переключателей</string>
      <string name="path_status_bar_settings_toggle_collapse_after_clicked">Настройки/Уведомления и статус бар/Сворачивать после нажатия</string>
      <string name="path_status_sim">Настройки/Об устройстве/Статус SIM</string>
@@ -1042,12 +1042,12 @@
      <string name="path_wifi_wapi_cert_install">Настройки/Wi-Fi/Дополнительные настройки/Установить WAPI сертификат</string>
      <string name="path_wifi_wapi_cert_uninstall">Настройки/Wi-Fi/Дополнительные настройки/Удалить WAPI сертификат</string>
      <string name="path_wps_connect_title">Настройки/Wi-Fi/Дополнительные настройки/PIN-код WPS</string>
-     <string name="path_xspace">Настройки/XSpace</string>
+     <string name="path_xspace">Настройки/Клонированные приложения</string>
      <string name="path_zen_mode_option_miui_silent">Настройки/Звук и вибрация/Режим без звука</string>
      <string name="personal_section_title">Персонализация</string>
      <string name="search_accessibility_captioning_title">Титры</string>
      <string name="search_accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
-     <string name="search_accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+     <string name="search_accessibility_global_gesture_preference_title">Специальные возможности</string>
      <string name="search_accessibility_long_press_timeout_preference_title">Задержка нажатия и удержания</string>
      <string name="search_accessibility_screen_magnification_title">Жесты для увеличения</string>
      <string name="search_accessibility_settings">Специальные возможности</string>
@@ -1066,7 +1066,7 @@
      <string name="search_cloud_restore_section_title">Восстановление из Mi Cloud</string>
      <string name="search_copyright">Авторские права</string>
      <string name="search_credentials_install">Установить с устройства</string>
-     <string name="search_dndm_alarm_content">Исключенния</string>
+     <string name="search_dndm_alarm_content">Исключения</string>
      <string name="search_dndm_auto_button_title">Настройка времени</string>
      <string name="search_dndm_open">Не беспокоить</string>
      <string name="search_dndm_repeated_call_setting_title">Повторные вызовы</string>
@@ -1086,15 +1086,15 @@
      <string name="search_music_headset_mode_settings">Кнопки наушников</string>
      <string name="search_music_mi_effect_title">Mi Sound</string>
      <string name="search_nfc_se_route_title">Secure element position</string>
-     <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
+     <string name="search_ntts_settings_title">Синтезатор речи;TTS</string>
      <string name="search_pointer_speed">Скорость указателя</string>
      <string name="search_power_hide_mode_title">Управление приложениями</string>
-     <string name="search_pref_volume_wake_title">Пробуждение устройства</string>
+     <string name="search_pref_volume_wake_title">Пробуждение кнопками громкости</string>
      <string name="search_privacy_policy">Политика конфиденциальности</string>
      <string name="search_restriction_nfc_enable_title">NFC</string>
-     <string name="search_safe_result_header_title_system">Privacy</string>
+     <string name="search_safe_result_header_title_system">Конфиденциальность</string>
      <string name="search_screen_key_long_press_timeout">Время нажатия</string>
-     <string name="search_screen_on_proximity_sensor_title">Защита датчиком</string>
+     <string name="search_screen_on_proximity_sensor_title">Защита датчиком приближения</string>
      <string name="search_second_space">Второй профиль</string>
      <string name="search_security_encryption_title">Зашифровать устройство</string>
      <string name="search_slot_status_title">Информация IMEI</string>
@@ -1104,14 +1104,14 @@
      <string name="search_status_bar_settings_show_carrier">показывать оператора</string>
      <string name="search_status_bar_settings_show_network_speed">Показывать скорость сети</string>
      <string name="search_status_bar_settings_show_notification_icon">Показывать иконки приложений</string>
-     <string name="search_status_bar_settings_show_screenshot_notification">Показывать скриншоты</string>
+     <string name="search_status_bar_settings_show_screenshot_notification">Показывать уведомление о скриншоте</string>
      <string name="search_status_bar_settings_style">Вид уведомлений и переключателей</string>
      <string name="search_status_bar_settings_toggle_collapse_after_clicked">Сворачивать после нажатия</string>
      <string name="search_status_sim">Статус SIM</string>
      <string name="search_storage_settings">Очистка</string>
      <string name="search_tether_settings_title_bluetooth">Bluetooth модем</string>
      <string name="search_tether_settings_title_usb">USB модем</string>
-     <string name="search_touch_sensitive_title">Glove mode</string>
+     <string name="search_touch_sensitive_title">Режим в перчатках</string>
      <string name="search_trusted_credentials">Надежные сетитификаты</string>
      <string name="search_tts_settings_title">Синтезатор речи</string>
      <string name="search_turn_on_security_lock">Сменить пароль</string>
@@ -1136,7 +1136,7 @@
      <string name="search_wifi_wapi_cert_install">Установить WAPI сертификат</string>
      <string name="search_wifi_wapi_cert_uninstall">Удалить WAPI сертификат</string>
      <string name="search_wps_connect_title">PIN-код WPS</string>
-     <string name="search_xspace">XSpace</string>
+     <string name="search_xspace">Клонирование приложений</string>
      <string name="search_zen_mode_option_miui_silent">Режим без звука</string>
      <string name="second_space">Второй пользователь</string>
      <string name="settings_toggle_position_divider_list">Переключатели, расположенные выше активны</string>
@@ -1160,7 +1160,7 @@
      <string name="keyguard_right_function_chooser_title">Приложение</string>
      <string name="keyguard_right_function_title">Правый ярлык</string>
      <string name="keyguard_shortcut_summary">Ярлыки приложений на экране блокировки</string>
-     <string name="keyguard_shortcut_title">Ярлыки</string>
+     <string name="keyguard_shortcut_title">Ярлыки экрана блокировки</string>
 	 <string name="path_application_lock">Настройки/Блокировка приложений</string>
      <string name="search_application_lock">Блокировка приложений</string>
 	 
@@ -1243,8 +1243,8 @@
      <string name="auto_disable_screenbuttons_no">Никогда не отключать</string>
      <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки при использовании выбранных приложений. Дважды нажмите любую кнопку, чтобы снова включить их.</string>
      <string name="auto_disable_screenbuttons_title">Отключение кнопок</string>
-     <string name="battery_light_summary">Включать при зарядке</string>
-     <string name="battery_light_title">Индикатор заряда батареи</string>
+     <string name="battery_light_summary">Оповещать светодиодом во время зарядки</string>
+     <string name="battery_light_title">Оповещать светодиодом при зарядке</string>
      <string name="cmcc_dm_settings_disable_summary">Выключить автозапуск</string>
      <string name="cmcc_dm_settings_enable_summary">Включить автозапуск</string>
      <string name="cmcc_dm_settings_title">Разрешения управления устройством</string>
@@ -1284,7 +1284,7 @@
      <string name="path_key_settings">Настройки/Дополнительно/Кнопки</string>
      <string name="path_lab_functions_title">Настройки/Дополнительно/Бета функции</string>
      <string name="path_language_settings">Настройки/Дополнительно/Язык и ввод</string>
-     <string name="path_led_settings">Настройки/Дополнительно/Индикатор событий</string>
+     <string name="path_led_settings">Настройки/Дополнительно/Уведомление светодиодом</string>
      <string name="path_legal_information">Настройки/Об устройстве/Правовая информация</string>
      <string name="path_music_audio_effect_optimize">Настройки/Звук/Настройки аудио</string>
      <string name="path_music_headset_settings">Настройки/Дополнительно/Наушники и эффекты</string>
@@ -1348,13 +1348,13 @@
      <string name="search_do_not_disturb">Не беспокоить;Vip;Set time;Exceptions;Repeated calls</string>
      <string name="search_lab_functions_title">Бета функции,Lab function</string>
      <string name="search_legal_information">Правовая информация</string>
-     <string name="search_micloud">Sync;Miclound</string>
+     <string name="search_micloud">Синхронизация;Miclound</string>
      <string name="search_music_audio_effect_optimize">Настройки звука</string>
      <string name="search_music_headset_settings">Наушники и аудио эффекты</string>
      <string name="search_networks_title">Мобильные сети</string>
      <string name="search_notification_app_list_settings">Настройки уведомлений</string>
      <string name="search_notification_sound_title">мелодия уведомления</string>
-     <string name="search_onekey_migrate">Mi Mover;One key migrate</string>
+     <string name="search_onekey_migrate">Mi Mover;Перенос данных;</string>
      <string name="search_other_advanced_settings">Дополнительно;Конфиденциальность;Дата и время;Язык и ввод;Режим управления одной рукой;Батарея и производительность;Storage;Notification light;Led;Headphones &amp; audio effects;Buttons;Keys;Accessibility;Beta features;Lab functions;Developer options;Backup &amp; reset;Transfer;One key migrate</string>
      <string name="search_owner_info_settings">Информация о владельце</string>
      <string name="search_page_layout_settings">Размер шрифта</string>
@@ -1364,8 +1364,8 @@
      <string name="search_security_passwords_title">Пароль</string>
      <string name="search_security_settings">Настройки кинфиденциальности</string>
      <string name="search_sms_delivered_sound_title">Отчет о доставке</string>
-     <string name="search_sound_settings">Sound;Volumes;Silent mode;Alarm;Music;Vibrate;Phone ringtone;Default notification sound;Message received;Message delivered;Touch;Screen lock sound;Audio settings;Suppress noise</string>
-     <string name="search_sync_settings">Sync;Auto;WLAN only</string>
+     <string name="search_sound_settings">Звук;Громкость;Режим без звука;Будильник;Музыка;Вибрация;Сигнал вызова;Сигнал уведомления;Сообщение получено;Сообщение доставлено;Звук при касании экрана;Звук блокировки экрана;Настройки звука;Подавление шумов</string>
+     <string name="search_sync_settings">Синхронизация;Авто;Только Wi-Fi</string>
      <string name="search_system_app_settings">Системные приложения</string>
      <string name="search_theme_settings">Темы</string>
      <string name="search_toggle_position">Настроить переключатели</string>
@@ -1483,7 +1483,7 @@
      <string name="edge_mode_clean">Очистка кэша</string>
      <string name="edge_mode_clean_summary">Проведите одновременно по двум боковым граням устройства, чтобы очистить кэш</string>
      <string name="edge_mode_guide_title">"Нажмите на выделенную область 
-для использования Edge controls"</string>
+для использования Управление по краю"</string>
      <string name="edge_mode_notification_summary">Нажмите, чтобы узнать больше</string>
      <string name="edge_mode_notification_title">Edge controls</string>
      <string name="edge_mode_photo">Снятие фото</string>
@@ -1584,7 +1584,7 @@
      <string name="max_cpu6_info">"6 ядер до "</string>
      <string name="miui_data_usage_menu_metered">Ограничение сети</string>
      <string name="never">Никогда</string>
-     <string name="page_layout_32">Play Store</string>
+     <string name="page_layout_32">Play Маркет</string>
      <string name="page_layout_33">Google</string>
      <string name="repeat">Повтор</string>
      <string name="set_password_action">Установить пароль</string>
@@ -1891,7 +1891,7 @@
      <string name="mem_use_total">Итого</string>
      <string name="mem_use_zram_type">ZRam swap</string>
      <string name="miui_allow_alarm">Сигналы будильника</string>
-     <string name="miui_allow_light">Индикатор событий</string>
+     <string name="miui_allow_light">Уведомление светодиодом</string>
      <string name="miui_allow_music">Медиа</string>
      <string name="miui_allow_vibrate">Использовать вибрацию</string>
      <string name="miui_disturb_title">Выберите режим</string>
@@ -2036,7 +2036,7 @@
      <string name="sim_settings_summary">%1$s - %2$s</string>
      <string name="sim_settings_title">SIM-карты</string>
      <string name="sim_setup_wizard_title">SIM-карты</string>
-     <string name="sim_slot_empty">Пустая SIM-карта</string>
+     <string name="sim_slot_empty">Нет SIM-карты</string>
      <string name="sim_status_summary">Информация о SIM-картах</string>
      <string name="simulate_color_space">Имитировать аномалию</string>
      <string name="slot_name">SIM %d</string>
@@ -2078,7 +2078,7 @@
      <string name="usage_access_title">Приложения, получившие доступ</string>
      <string name="usage_type_actual_power">Фактический расход</string>
      <string name="usage_type_computed_power">Расчетный расход</string>
-     <string name="usage_type_radio_active">Время работы приемопередатчика</string>
+     <string name="usage_type_radio_active">Время работы радиомодуля</string>
      <string name="usage_type_total_battery_capacity">Емкость батареи</string>
      <string name="usb_audio_disable_routing">Откл. передачу аудио (USB)</string>
      <string name="usb_audio_disable_routing_summary">Отключить автоматическую маршрутизацию с периферийными устройствами (USB)</string>
@@ -2132,7 +2132,7 @@
      <string name="wallpaper_attributions">Обои</string>
      <string name="wallpaper_attributions_values">"Фотографии со спутника:
 © CNES 2014/Astrium, DigitalGlobe, Bluesky"</string>
-     <string name="wifi_aggressive_handover">Мобильная сеть</string>
+     <string name="wifi_aggressive_handover">Переключаться на мобильную сеть</string>
      <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если слабый Wi-Fi сигнал</string>
      <string name="wifi_allow_scan_with_traffic">Всегда разрешать поиск Wi-Fi сетей</string>
      <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
@@ -2233,7 +2233,7 @@
      <string name="fluency_mode_enabled_name">Оптимизация системы</string>
      <string name="fluency_mode_summary">Отключить системную анимацию и уменьшить использование памяти</string>
 	 <string name="gesture_wakeup_title">Пробуждение двойным нажатием</string>
-	 <string name="search_fluency_mode">Системная системы</string>
+	 <string name="search_fluency_mode">Анимация системы</string>
 	 <string name="status_bar_settings_carrier_sim">SIM-карта %1$s:</string>
 	 <string name="status_bar_app_disable_notification">Ничего</string>
      <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Экран блокировки, панель уведомлений</string>
@@ -2260,7 +2260,7 @@
      <string name="screen_paper_mode_update_white_pkg_list_title">Мобильный интернет</string>
 	 <string name="skip_lock_screen_confirm_msg">Следующие функции будут отключены для экрана блокировки: уведомления, управление музыкальным проигрывателем, сдвиг влево, для доступа к камере и сдвиг право, для доступа к телефону.</string>
 	 <string name="status_bar_settings_enable_notification">Включить уведомления</string>
-	 <string name="status_bar_settings_notification_led">Индикатор</string>
+	 <string name="status_bar_settings_notification_led">Светодиод</string>
      <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
 	 <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
 	 <string name="status_bar_settings_show_keyguard_notification">На экране блокировки</string>
@@ -3440,7 +3440,7 @@
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
      <string name="led_pulse_summary">Уведомлять светодиодом о новых событиях</string>
-     <string name="led_settings">Индикатор событий</string>
+     <string name="led_settings">Уведомление светодиодом</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
@@ -3488,25 +3488,25 @@
      <string name="location_agps_supl_server_addr">Server address</string>
      <string name="location_agps_supl_server_port">Server port</string>
      <string name="location_agps_supl_settings">SUPL settings</string>
-     <string name="location_category_location_services">Мое местоположение</string>
-     <string name="location_category_recent_location_requests">Последние геозапросы</string>
+     <string name="location_category_location_services">Службы местоположения</string>
+     <string name="location_category_recent_location_requests">Недавние запросы о местоположении</string>
      <string name="location_gps">По спутникам GPS</string>
      <string name="location_high_battery_use">Высокий расход заряда батареи</string>
      <string name="location_loading_injected_setting">Получение…</string>
      <string name="location_low_battery_use">Низкий расход заряда батареи</string>
      <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
-     <string name="location_mode_battery_saving_title">Экономия батареи</string>
+     <string name="location_mode_battery_saving_title">Определять по сети</string>
      <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильные сети для определения местоположения</string>
      <string name="location_mode_high_accuracy_title">Высокая точность</string>
-     <string name="location_mode_location_off_title">Отправка геоданных отключена</string>
+     <string name="location_mode_location_off_title">Местоположение выключено</string>
      <string name="location_mode_screen_title">Режим местоположения</string>
      <string name="location_mode_sensors_only_description">Использовать GPS для определения местоположения</string>
-     <string name="location_mode_sensors_only_title">По устройству</string>
+     <string name="location_mode_sensors_only_title">Определять по GPS</string>
      <string name="location_mode_title">Режим</string>
      <string name="location_neighborhood_level">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
      <string name="location_neighborhood_level_wifi">Местоположение определяется с помощью Wi-Fi</string>
      <string name="location_network_based">По координатам сети</string>
-     <string name="location_no_recent_apps">В последнее время приложения не запрашивали геоданные</string>
+     <string name="location_no_recent_apps">Запросов местоположения не было</string>
      <string name="location_settings_title">Местоположение</string>
      <string name="location_sources_heading">Определение местоположения</string>
      <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения твоего местоположения</string>
@@ -3851,7 +3851,7 @@
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
      <string name="notification_listener_security_warning_summary">%1$s будет читать все уведомления, системых или любых установленных приложений, которые могут содержать личные данные, имена контактов и текст сообщений. Оно также сможет отклонить эти уведомления или нажимать кнопки действий в них.</string>
      <string name="notification_listener_security_warning_title">Включить %1$s?</string>
-     <string name="notification_pulse_title">Включить индикацию</string>
+     <string name="notification_pulse_title">Оповещать светодиодом</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Уведомления</string>
      <string name="notification_volume_title">Уведомление</string>
@@ -4222,8 +4222,8 @@
      <string name="screen_key_press">Короткое нажатие</string>
      <string name="screen_key_press_action">Функция кнопки</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
-     <string name="screen_on_proximity_sensor_summary">Автоматически блокировать при помещении в карман</string>
-     <string name="screen_on_proximity_sensor_title">Защита датчиком</string>
+     <string name="screen_on_proximity_sensor_summary">Защитить экран от случайных нажатий в кармане</string>
+     <string name="screen_on_proximity_sensor_title">Защитить от случайных нажатий</string>
      <string name="screen_optimize">Контраст</string>
      <string name="screen_paper_mode_apps_title">Приложения в режиме чтения</string>
      <string name="screen_paper_mode_off_apps_title">Приложения без режима чтения</string>
@@ -4276,7 +4276,7 @@
      <string name="search_about">о телефоне</string>
      <string name="search_accelerometer">акселерометр</string>
      <string name="search_access_control">управление доступом</string>
-     <string name="search_accessibility">доступность</string>
+     <string name="search_accessibility">Специальные возможности</string>
      <string name="search_airplane">режим полета</string>
      <string name="search_android_beam">beam</string>
      <string name="search_battery">батарея</string>
@@ -4293,9 +4293,9 @@
      <string name="search_key">кнопки</string>
      <string name="search_label">Настройки</string>
      <string name="search_language">язык</string>
-     <string name="search_led">индикаторы</string>
+     <string name="search_led">Светодиод</string>
      <string name="search_network">сеть</string>
-     <string name="search_power_mode">режим</string>
+     <string name="search_power_mode">Настройки питания</string>
      <string name="search_privacy">конфиденциальность</string>
      <string name="search_ring_volume">громкость звонка</string>
      <string name="search_ringtone">мелодия</string>
@@ -4516,7 +4516,7 @@ SIM-карта не поддерживается."</string>
      <string name="status_roaming">Роуминг</string>
      <string name="status_serial_number">Серийный номер</string>
      <string name="status_serialno">Серийный номер</string>
-     <string name="status_service_state">Мобильная сети</string>
+     <string name="status_service_state">Состояние сети</string>
      <string name="status_signal_strength">Уровень сигнала</string>
      <string name="status_sim">Статус SIM-карты</string>
      <string name="status_sim_1">SIM-карта 1</string>
@@ -4720,8 +4720,8 @@ SIM-карта не поддерживается."</string>
      <string name="usage_type_audio">Аудио</string>
      <string name="usage_type_cpu">ЦП всего</string>
      <string name="usage_type_cpu_foreground">ЦП активный режим</string>
-     <string name="usage_type_data_recv">Получено данных (интернет)</string>
-     <string name="usage_type_data_send">Отправлено данных (интернет)</string>
+     <string name="usage_type_data_recv">Получено (моб. интернет)</string>
+     <string name="usage_type_data_send">Отправлено (моб. интернет)</string>
      <string name="usage_type_data_wifi_recv">Получено данных (Wi-Fi)</string>
      <string name="usage_type_data_wifi_send">Отправлено данных (Wi-Fi)</string>
      <string name="usage_type_gps">GPS</string>
@@ -5247,7 +5247,7 @@ SIM-карта не поддерживается."</string>
      <string name="wifi_wapi_cert_cancel_button">Отмена</string>
      <string name="wifi_wapi_cert_create_subdir">Создать каталог</string>
      <string name="wifi_wapi_cert_delet_subdir">Выберите сертификат</string>
-     <string name="wifi_wapi_cert_install">Уставновить WAPI сертификат</string>
+     <string name="wifi_wapi_cert_install">Установить WAPI сертификат</string>
      <string name="wifi_wapi_cert_install_button">Установить</string>
      <string name="wifi_wapi_cert_mgmt_as_dont_exist">На SD-карте нет AS сертификатов. Проверьте и повторите позже.</string>
      <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат AS сертификата. Установите правильный AS сертификат.</string>
@@ -5256,13 +5256,13 @@ SIM-карта не поддерживается."</string>
      <string name="wifi_wapi_cert_mgmt_subdir_exist">Имя каталога уже существует</string>
      <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">введите имя каталога</string>
      <string name="wifi_wapi_cert_mgmt_titlebar">Управление WAPI сертификатами</string>
-     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сетификата</string>
+     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сертификата</string>
      <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неверный формат. Установите правильный сертификат.</string>
-     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите мия сертификата</string>
+     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите имя сертификата</string>
      <string name="wifi_wapi_cert_uninstall">Удалить WAPI сертификат</string>
      <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
      <string name="wifi_wapi_certification_dont_exist">Сетевой пароль не правильный. Попробуйте еще раз.</string>
-     <string name="wifi_wapi_user_cert">Пользователький сетификат</string>
+     <string name="wifi_wapi_user_cert">Пользовательский сертификат</string>
      <string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
      <string name="wifi_wps_available_second_item"> (доступна защищенная сеть)</string>
      <string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
