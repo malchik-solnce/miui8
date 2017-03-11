@@ -1308,8 +1308,8 @@
      <string name="auto_disable_screenbuttons_no">Никогда не отключать</string>
      <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки при использовании выбранных приложений. Дважды нажмите любую кнопку, чтобы снова включить их.</string>
      <string name="auto_disable_screenbuttons_title">Отключение кнопок</string>
-     <string name="battery_light_summary">Оповещать светодиодом во время зарядки</string>
-     <string name="battery_light_title">Оповещать светодиодом при зарядке</string>
+     <string name="battery_light_summary">Включать при зарядке</string>
+     <string name="battery_light_title">Индикатор заряда батареи</string>
      <string name="cmcc_dm_settings_disable_summary">Выключить автозапуск</string>
      <string name="cmcc_dm_settings_enable_summary">Включить автозапуск</string>
      <string name="cmcc_dm_settings_title">Разрешения управления устройством</string>
@@ -3505,7 +3505,7 @@
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
      <string name="led_pulse_summary">Уведомлять светодиодом о новых событиях</string>
-     <string name="led_settings">Уведомление светодиодом</string>
+     <string name="led_settings">Уведомления светодиодом</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
@@ -4287,8 +4287,8 @@
      <string name="screen_key_press">Короткое нажатие</string>
      <string name="screen_key_press_action">Функция кнопки</string>
      <string name="screen_never_timeout_title">Никогда не отключать</string>
-     <string name="screen_on_proximity_sensor_summary">Защитить экран от случайных нажатий в кармане</string>
-     <string name="screen_on_proximity_sensor_title">Защитить от случайных нажатий</string>
+     <string name="screen_on_proximity_sensor_summary">Защитить от случайных нажатий в кармане</string>
+     <string name="screen_on_proximity_sensor_title">Защита от случайных нажатий</string>
      <string name="screen_optimize">Контраст</string>
      <string name="screen_paper_mode_apps_title">Приложения в режиме чтения</string>
      <string name="screen_paper_mode_off_apps_title">Приложения без режима чтения</string>
