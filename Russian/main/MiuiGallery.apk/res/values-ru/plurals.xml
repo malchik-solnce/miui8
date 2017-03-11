@@ -4,6 +4,18 @@
 		<item quantity="other">Удалить %s фото в облаке?</item>
         <item quantity="one">Удалить %s фото в облаке?</item>
      </plurals>
+	 <plurals name="backup_after_hours">
+        <item quantity="other">Возобновление синхронизации через %d ч.</item>
+        <item quantity="one">Возобновление синхронизации через %d ч.</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+        <item quantity="other">%d фото и видео | Приостановлено</item>
+        <item quantity="one">%d фото или видео | Приостановлено</item>
+     </plurals>
+     <plurals name="download_retry_message">
+        <item quantity="other">Не удалось загрузить %1$d файлов. Проверьте настройки сети и повторите.</item>
+        <item quantity="one">Не удалось загрузить %1$d файл. Проверьте настройки сети и повторите.</item>
+     </plurals>
 	 <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d фото и видео | %2$s</item>
         <item quantity="one">%1$d фото или видео | %2$s</item>

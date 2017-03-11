@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activity_not_found">Нет приложений для запуска этого действия</string>
+	<string name="messaging">Сообщения</string>
 	<string name="repayment_network_error">Ошибка сети</string>
-     <string name="repayment_title">Погашение</string>
-     <string name="repayment_way">Метод погашения</string>
-     <string name="smart_messages_network_allow_message">Для нормальной работы сервиса облачных сообщений требуется подключение к сети. Разрешить сейчас?</string>
-     <string name="smart_messages_network_allow_title">Требуется интернет</string>
+    <string name="repayment_title">Погашение</string>
+    <string name="repayment_way">Метод погашения</string>
+    <string name="smart_messages_network_allow_message">Для нормальной работы сервиса облачных сообщений требуется подключение к сети. Разрешить сейчас?</string>
+    <string name="smart_messages_network_allow_title">Требуется интернет</string>
     <string name="copy_message_text_success">Текст скопирован</string>
     <string name="back_to_message_list">Вернуться к сообщениям</string>
     <string name="menu_forward">Переслать</string>

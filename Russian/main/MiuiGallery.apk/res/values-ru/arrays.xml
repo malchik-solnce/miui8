@@ -28,4 +28,8 @@
         <item>Друзья</item>
         <item>Неизвестно</item>
      </string-array>
+	 <integer-array name="backup_pause_hours">
+        <item>2</item>
+        <item>12</item>
+     </integer-array>
 </resources>

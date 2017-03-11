@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Добавить</string>
+	 <string name="crescendo_ringer_summary">Постепенное нарастание громкости звонка</string>
+     <string name="crescendo_ringer_title">Нарастающая громкость</string>
+     <string name="disabled_by_admin">Выключено администратором</string>
+     <string name="enabled_by_admin">Включено администратором</string>
+     <string name="path_crescendo_ringer_title">Системные приложения/Телефон/Входящие вызовы/Нарастающая громкость</string>
 	 <string name="preferred_network_mode_dialogtitle_show_radio_tech">Режим сети</string>
 	 <string name="sip_profile_create_error">Не удалось создать новый SIP профиль</string>
      <string name="sip_save_register_error">Не удалось сохранить и зарегистировать новый SIP профиль</string>

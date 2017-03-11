@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Предупреждение</string>
+	<string name="notification_quick_charging_title">Быстрая зарядка</string>
 	<string name="dialog_remobe_luckymoney_cancle">Старый</string>
     <string name="dialog_remobe_luckymoney_ok">Новый</string>
     <string name="dialog_remove_luckymoney">Вы можете использовать новый встроенный помощник красных пакетов, или продолжать использовать установленный. Какой предпочитаете?</string>

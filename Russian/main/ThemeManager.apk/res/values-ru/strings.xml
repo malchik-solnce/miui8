@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account_id_not_login">Нажмите, чтобы войти</string>
+	 <string name="ad_app_download_start">Начало загрузки…</string>
+     <string name="ad_app_is_downloading">Загрузка…</string>
+     <string name="wallpaper_auto_change_title">Экран блокировки</string>
+     <string name="wallpaper_settings_change_wallpaper">Сменить</string>
+     <string name="wallpaper_settings_desktop_text">Рабочий стол</string>
+     <string name="wallpaper_settings_lockscreen_text">Экран блокировки</string>
+     <string name="wallpaper_settings_page_title">обои</string>
 	 <string name="is_setting_wallpaper_message">Установка обоев…</string>
 	 <string name="both_all_apply_failured">Не удалось применить обои</string>
      <string name="both_all_apply_success">Обои применены</string>

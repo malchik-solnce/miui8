@@ -6,6 +6,11 @@
         <item>Текстовое сообщение</item>
         <item>Будильник</item>
      </string-array>
+	 <string-array name="repeat_countdown">
+        <item>Никогда</item>
+        <item>Ежемесячно</item>
+        <item>Ежегодно</item>
+     </string-array>
 	 <string-array name="default_reminder_labels">
         <item>Во время события</item>
         <item>За 5 минут</item>

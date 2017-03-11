@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Импорт</string>
+	 <string name="backup_detail_page_empty">Нет фото или видео для синхронизации</string>
+	 <string name="backup_close">Выкл. синхронизацию</string>
+     <string name="backup_pause_title">Синхронизация через %s</string>
+     <string name="default_relation_name">Новая группа</string>
+     <string name="define_by_user">Пользовательская</string>
+     <string name="empty_relation">Имя группы не может быть пустым</string>
+     <string name="input_relation_name">Введите имя группы</string>
+     <string name="load_relations">Подождите…</string>
+     <string name="new_relation_invalid_char">"Имя не может содержать “%s”. Используйте буквы, цифры или символы."</string>
+     <string name="new_relation_invalid_name">Группа “%s” уже существует. Переименуйте эту группу.</string>
+     <string name="new_relation_invalid_prefix">"Невозможно начать именя группы с “.” или “_”"</string>
+     <string name="operation_edit_video">Редактировать</string>
+     <string name="rename_album">Переименовать альбом</string>
+     <string name="rename_album_failed">Не удалось переименовать</string>
+     <string name="rename_album_succeeded">Готово</string>
+     <string name="sync_metatata_wait_title">Ожидание синхронизации данных Mi Cloud</string>
+     <string name="sync_state_unknow">Получение информации</string>
 	 <string name="text_append">Текст</string>
      <string name="text_append_color">Цвет</string>
      <string name="text_append_font">Шрифт</string>
