@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="device_name_input_overlength">Слишком длинное имя</string>
+     <string name="disable_wifi_master_key_service_first">Отключить</string>
+     <string name="enable_wifi_master_key_service_first">Включить</string>
+	 <string name="current_use_uicc_wallet">Вы используете кошелек SIM-карты %1$s</string>
+     <string name="se_wallet_uicc">Использовать кошелек SIM-карты %1$s</string>
 	 <string name="keywords_airplane">Режим полета</string>
      <string name="keywords_auto_rotate">Автоповорот</string>
      <string name="keywords_bluetooth">Bluetooth</string>
@@ -38,7 +43,7 @@
      <string name="wifi_master_key_dialog_content_password">Пароль</string>
      <string name="wifi_master_key_dialog_title">Подключить с помощью</string>
      <string name="wifi_master_key_name">Wi-Fi Master Key</string>
-     <string name="wifi_master_key_service_dialog_content">"Wi-Fi Master Key бесплатный сервис по предоставлению паролей к общим Wi-Fi сетям. Он не будет передавать Ваш Wi-Fi пароль."</string>
+     <string name="wifi_master_key_service_dialog_content">"Wi-Fi Master Key бесплатный сервис по предоставлению паролей к общим Wi-Fi сетям. Он не будет передавать Ваш Wi-Fi пароль. Вы также можете %1$s."</string>
      <string name="wifi_master_key_service_dialog_title">Общие Wi-Fi сети</string>
      <string name="work_space_delete">Удалить рабочее пространство</string>
      <string name="work_space_delete_confirm">Подтвердите удаление</string>

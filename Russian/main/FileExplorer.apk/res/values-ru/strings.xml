@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_parse_video_title">Вставить ссылку</string>
+	 <string name="comment_fail">Не удается опубликовать отзыв. Попробуйте позже.</string>
+     <string name="comment_fail_banned_forever">Вы были заблокированы. Свяжитесь с нашей группой QQ (374463568) для получения дополнительной информации.</string>
+     <string name="comment_fail_banned_forever_positive">OK</string>
+     <string name="comment_fail_banned_temporary">Вас временно заблокировали</string>
 	 <string name="add_follow">Подписаться</string>
      <string name="click_login_str">Войти</string>
      <string name="comment_added">Успешно добавлено</string>

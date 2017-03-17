@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="fc_dialog_body">Отправить отчет об ошибке разработчикам? Отчет может содержать конфиденциальную информацию.</string>
+	<string name="miui_upgrading_notification_title">"Обновление системы…
+Некоторые функции могут быть недоступны."</string>
 	<string name="status_bar_toggle_battery_saver">Экономия батареи</string>
 	<string name="status_bar_toggle_nfc">NFC</string>
 	<string name="configure_input_methods">Выберите клавиатуру</string>

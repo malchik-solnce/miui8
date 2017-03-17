@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Предупреждение</string>
+	<string name="domestic_roaming_setting">Национальный роуминг</string>
+     <string name="notification_mask_summary">Не показывать содержание уведомлений на экране блокировки и панели уведомлений</string>
+     <string name="notification_mask_title">Скрывать содержание</string>
+     <string name="percent_formatted_text">%s%%</string>
+     <string name="power_center_main_percent_formatted">%s%%</string>
+     <string name="temperature_formatted_text">%s℃</string>
+	<string name="virus_ad_icon_text">Реклама</string>
 	<string name="notification_quick_charging_title">Быстрая зарядка</string>
 	<string name="dialog_remobe_luckymoney_cancle">Старый</string>
     <string name="dialog_remobe_luckymoney_ok">Новый</string>
@@ -1397,8 +1404,8 @@ For more info check the message you received from your carrier"</string>
     <string name="power_consume_rank_title">Использование батареи</string>
     <string name="power_consume_rank_software">Приложения</string>
     <string name="power_consume_rank_hardware">Система</string>
-    <string name="power_consume_total_software">Приложения: %1$d%%</string>
-    <string name="power_consume_total_hardware">Оборудование: %1$d%%</string>
+    <string name="power_consume_total_software">Приложения: %s</string>
+    <string name="power_consume_total_hardware">Устройство: %s</string>
     <string name="power_consume_other">Другие</string>
     <string name="battery_desc_other_apps">Использование батареи другими приложениями</string>
     <string name="power_settings_title">Настройки</string>

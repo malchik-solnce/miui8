@@ -393,7 +393,7 @@
      <string name="message_class_label">"Класс сообщения: "</string>
      <string name="message_details_title">Информация о сообщении</string>
      <string name="message_download_failed_title">Не удалось загрузить сообщение</string>
-     <string name="message_failed">Ошибка отправки</string>
+     <string name="message_failed">Не отправлено</string>
      <string name="message_failed_body">Нажмите, чтобы просмотреть сообщение и повторить попытку</string>
      <string name="message_pending">Отправка</string>
      <string name="message_queued">Сервис недоступен. Мы попробуем отправить сообщение позже.</string>

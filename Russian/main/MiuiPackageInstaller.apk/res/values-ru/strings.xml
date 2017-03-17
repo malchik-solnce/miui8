@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+	 <string name="ads">Реклама</string>
+     <string name="ads_install_button">Установить</string>
+     <string name="ads_install_button_installed">Открыть</string>
+     <string name="ads_install_button_isInstalling">Установка…</string>
+     <string name="ads_install_button_waiting">Ожидание…</string>
+     <string name="ads_summary">Рекомендации по приложению \"%1$s\"</string>
+     <string name="pref_ads">Показывать рекомендации</string>
+     <string name="pref_key_antivirus">Использовать антивирус</string>
+     <string name="pref_key_antivirus_summary" />
+     <string name="toast_network_eror">Не удается подключиться к сети</string>
      <string name="bluetooth_dun_profile_summary_use_for">Использовать для доступа сети Dial-up</string>
      <string name="bluetooth_profile_dun">Доступ к сети Dial-up</string>
      <string name="wifi_auth_password_wrong">Пароль может быть неправильным</string>
