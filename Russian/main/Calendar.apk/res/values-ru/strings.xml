@@ -2,11 +2,11 @@
 <resources>
      <string name="accessibility_add_attendee">Добавить участника</string>
 	 <string name="anniversary_card_title">Годовщина</string>
-     <string name="anniversary_event_title">[Годовщина] %1$s</string>
+     <string name="anniversary_event_title">Годовщина: %1$s</string>
      <string name="countdown_card_title">Обратный отсчет</string>
-     <string name="countdown_event_title">[Отсчет] %1$s</string>
-     <string name="countdown_notify_before_3_day_title">[Отсчет] Через 3 дня %1$s</string>
-     <string name="countdown_notify_title">[Отсчет] %1$s</string>
+     <string name="countdown_event_title">Обратный отсчет %1$s</string>
+     <string name="countdown_notify_before_3_day_title">Обратный отсчет: %1$s через 3 дня</string>
+     <string name="countdown_notify_title">Обратный отсчет %1$s</string>
      <string name="countdown_today">Сегодня</string>
      <string name="description_calendar">Системные приложения/Календарь</string>
      <string name="description_calendar_edit_event">Системные приложения/Календарь/Событие</string>
@@ -17,8 +17,8 @@
      <string name="edit_event_countdown_name_empty_hint">Введите описание отсчета</string>
      <string name="edit_event_countdown_name_hint">Название</string>
      <string name="edit_event_reminder_3_days_before">Напомнить за 3 дня</string>
-     <string name="edit_event_reminder_summary">День %1$s</string>
-     <string name="edit_event_reminder_summary_3_days_before">За %1$s дня</string>
+     <string name="edit_event_reminder_summary">В этот день в %1$s</string>
+     <string name="edit_event_reminder_summary_3_days_before">За 3 дня и в этот день в %1$s</string>
      <string name="edit_event_reminder_time">Время напоминания</string>
      <string name="path_calendar_settings">Системные приложения/Календарь/Настройки</string>
      <string name="search_calendar_edit_event">Встреча;Напоминание;Событие</string>
@@ -28,12 +28,12 @@
 	 <string name="edit_event_birthday_reminder_summary">День %1$s</string>
      <string name="edit_event_birthday_reminder_summary_3_days_before">За три дня %1$s</string>
 	 <string name="preferences_default_allday_reminder_title">Время напоминания по умолчанию</string>
-     <string name="edit_event_reminder_text">%1$s %2$s</string>
-     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s %3$s</string>
+     <string name="edit_event_reminder_text">%1$s в %2$s</string>
+     <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s в %3$s</string>
 	 <string name="birthday_card_title">"Сегодня день рождения"</string>
      <string name="birthday_event_title_suffix">"день рождения"</string>
      <string name="birthday_saved">День рождения сохранен</string>
-    <string name="edit_event_birthday_3_days_before">"За три дня,"</string>
+     <string name="edit_event_birthday_3_days_before">"За три дня,"</string>
      <string name="edit_event_birthday_import_from_contact">Импорт из контактов</string>
      <string name="edit_event_birthday_name_empty_hint">Введите имя</string>
      <string name="edit_event_birthday_name_hint">Имя</string>
@@ -47,7 +47,7 @@
      <string name="edit_event_tab_birthday">День рождения</string>
      <string name="edit_event_tab_countdown">Отсчет</string>
      <string name="edit_event_tab_event">Событие</string>
-     <string name="event_reminder_allday_day_zero">Этот день %2$s</string>
+     <string name="event_reminder_allday_day_zero">В этот день в %2$s</string>
      <string name="event_reminder_value_zero">Во время события</string>
      <string name="event_reminders_to_max">Это событие поддерживает только %d напоминаний</string>
      <string name="import_action">Импортировать</string>
