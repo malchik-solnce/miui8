@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="my_device_disclaimer">Примечание: информация о оборудовании, включая процессор, емкость батареи, размер экрана и разрешение, а также камеру, предоставляется лабораториями, дизайнерами и поставщиками Xiaomi.</string>
+     <string name="vpn_set_screen_lock_content">Установите пароль экрана блокировки, чтобы сохранить свои VPN настройки</string>
+     <string name="vpn_set_screen_lock_title">Установить пароль экрана блокировки</string>
 	 <string name="device_name_input_overlength">Слишком длинное имя</string>
      <string name="disable_wifi_master_key_service_first">Отключить</string>
      <string name="enable_wifi_master_key_service_first">Включить</string>

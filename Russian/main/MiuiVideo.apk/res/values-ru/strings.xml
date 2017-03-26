@@ -648,7 +648,7 @@
      <string name="priority_storage">Использовать SD-карту</string>
      <string name="priority_storage_summary">Сохранять данные на внешнюю SD-карту (если доступно)</string>
      <string name="qiyi">iQiyi</string>
-     <string name="receive_mipush">Push уведомления</string>
+     <string name="receive_mipush">Push-уведомления</string>
      <string name="receive_mipush_summary">Получать уведомления о новом контенте</string>
      <string name="recent_play">Недавнее</string>
      <string name="recentplay">Недавнее</string>

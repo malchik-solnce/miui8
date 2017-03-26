@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Предупреждение</string>
+	<string name="pref_more_settings">Дополнительно</string>
+    <string name="pref_month_traffic_limit">Месячный лимит трафика</string>
+    <string name="pref_normal_traffic_limit">Ежедневный трафик</string>
+    <string name="pref_leisure_traffic_limit">Дополнительный трафик</string>
+    <string name="app_name_select">Способы блокировки</string>
+    <string name="modify_password_mode"><u>Другие способы</u></string>
+    <string name="jump_remmend">Пропустить рекомендации</string>
+	<string name="button_look_up">Нажмите для просмотра</string>
+     <string name="card_sms_report">Сообщить по SMS</string>
+     <string name="card_tc_failed">Калибровка не удалась</string>
+     <string name="card_tc_failed_content">"Возможные причины:
+1. Операторы реагируют медленнее в начале и в конце месяца. Повторите попытку через несколько дней.
+2. При первой калибровке требуется шаблон сетевого запроса. Подключитесь к сети и повторите попытку.
+3. Ваш оператор связи может не поддерживать отправку текстовых сообщений с оставшимися данными и балансом телефона. Свяжитесь со своим оператором, чтобы узнать больше.
+4. Может быть ошибка в данных оператора. Попробуйте диагностику для решения этой проблемы.
+5. Ничто не помогает? Нажмите «Сообщить по SMS», чтобы отправить свой отзыв в текстовом сообщении в Xiaomi."</string>
+     <string name="customize_limit_pkg">%s (пользов.)</string>
+     <string name="data_usage_warning_body_notify">Нажмите для просмотра подробностей</string>
+     <string name="data_usage_warning_title_notify">Превышен лимит трафика</string>
+     <string name="firewall_allow_network">Разрешено</string>
+     <string name="firewall_network_allow">Разрешено %1$s использовать %2$s подключение</string>
+     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Неверный оператор?&lt;/U>&lt;/font>"</string>
+     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
+     <string name="guide_primary_text">"Включите ассистент сети
+для управления использованным мобильным трафиком"</string>
+     <string name="guide_quck_open">Включить</string>
+     <string name="guide_second_text">"После установки своего оператора, MIUI будет ежедневно отслеживать использование мобильного трафика, отправляя бесплатное SMS. При обнаружении превышения лимита трафика, мобильный интернет будет отключен и Вы получите уведомление.</string>
+     <string name="guide_wait_setting">Не сейчас</string>
+     <string name="leisure_usage_dialog_message">"Достигнут лимит дополнительного трафика.
+
+Оператор может взимать дополнительную плату при продолжении использования мобильного трафика."</string>
+     <string name="leisure_usage_dialog_title">Превышен дополнительный лимит рафика. Мобильный интернет отключен.</string>
+     <string name="main_bill_remained">Баланс телефона</string>
+     <string name="main_leisure_remained">Осталось доп. трафика</string>
+     <string name="main_month_total_used">Использовано в этом месяце</string>
+     <string name="main_month_used">Использовано в этом месяце</string>
+     <string name="main_no_info">Нет данных</string>
+     <string name="main_normal_data_usage">Использованно моб. трафика</string>
+     <string name="main_primary_message_leisure_alert">Предупреждение доп. трафика</string>
+     <string name="main_primary_message_leisure_overlimit">Превышен дополнительный трафик</string>
+     <string name="main_primary_message_leisure_remain">Дополнительный трафик</string>
+     <string name="main_primary_message_traffic_remain">Мобильный трафик</string>
+     <string name="main_purchase_tips">Подсказка</string>
+     <string name="main_tc_over">Калибровка выполнена</string>
+     <string name="main_tc_send_sms">"Отправить SMS
+для калибровки"</string>
+     <string name="main_tc_wait_result">"Ожиданеие ответа
+оператора"</string>
+     <string name="main_today_used">Использовано сегодня</string>
+     <string name="main_used_bill">%s CNY</string>
+     <string name="optimize_result_ads_close_text">Реклама</string>
+     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики использования трафика от вашего оператора</string>
+     <string name="pref_adjust_data_usage_value">Изменено</string>
+     <string name="pref_category_daily_package_tile">Ежедневный пакет трафика</string>
+     <string name="pref_category_extra_package_tile">Пополнить пакет</string>
+     <string name="pref_category_half_year_package_tile">Пакет трафика на полгода</string>
+     <string name="pref_confirm_operator_setting">Убедитесь, что введенная информация верна</string>
+     <string name="pref_correction_setting">Настройки шаблона калибровки</string>
+     <string name="pref_correction_setting_switch">Использовать пользовательский шаблон калибровки</string>
+     <string name="pref_correction_sms_content">Шаблон калибровки</string>
+     <string name="pref_correction_sms_number">Отправить SMS калибровки на</string>
+     <string name="pref_key_daily_package_switch">Ежедневный трафик</string>
+     <string name="pref_key_daily_package_value">Ежедневный трафик</string>
+     <string name="pref_key_direction_traffic">Назначенный трафик</string>
+     <string name="pref_key_extra_package_switch">Месячный пакет трафика</string>
+     <string name="pref_key_extra_package_value">Размер пакета</string>
+     <string name="pref_key_half_year_package_start">Дата начала</string>
+     <string name="pref_key_half_year_package_switch">Пакет трафика на полгода</string>
+     <string name="pref_key_half_year_package_value">Размер пакета</string>
+     <string name="pref_operator_not_set">Оператор не настроен</string>
+     <string name="pref_operator_setting">%1$s %2$s</string>
+     <string name="pref_special_package_setting">Пользовательский трафик</string>
+	<string name="auto_task_notify_task_canceled_summary3">Отменено вторым пользователем</string>
+     <string name="auto_task_notify_task_canceled_summary4">Отменено первым пользователем</string>
+     <string name="menu_text_power_percent_title_default">Батарея</string>
 	<string name="domestic_roaming_setting">Национальный роуминг</string>
      <string name="notification_mask_summary">Не показывать содержание уведомлений на экране блокировки и панели уведомлений</string>
      <string name="notification_mask_title">Скрывать содержание</string>
@@ -649,7 +724,7 @@
     <string name="main_toolbar_purchase">Пополнение</string>
     <string name="main_button_usage_adjust">Синхронизировать трафик</string>
     <string name="main_button_usage_adjusting">Настройка…</string>
-    <string name="main_button_usage_adjust_manual">Установить лимит трафика</string>
+    <string name="main_button_usage_adjust_manual">Лимит трафика</string>
     <string name="main_button_usage_package_setting">Установить трафик</string>
     <string name="main_traffic_used">%s использовано</string>
     <string name="main_traffic_used_text">использовано</string>
@@ -689,11 +764,11 @@
     <string name="firewall_fragment_sys_listempty">Пусто</string>
     <string name="firewall_fragment_nonesys_listempty">Пусто</string>
     <string name="firewall_service_network_blocked">%1$s запрещено использовать %2$s</string>
-    <string name="firewall_network_restrict_notify_title">%1$s запрещено использовать %2$s</string>
+    <string name="firewall_network_restrict_notify_title">%1$s не может использовать сеть</string>
     <string name="firewall_network_restrict_notify_mobile">Мобильный интернет</string>
     <string name="firewall_network_restrict_notify_message">Нажмите, чтобы настроить</string>
     <string name="firewall_restrict_android_dialog_title">Внимание</string>
-    <string name="firewall_restrict_android_dialog_content">Если запретить Android подключение к интернету, некоторые ключевые функции, такие как точки доступа WLAN, могут не работать.</string>
+    <string name="firewall_restrict_android_dialog_content">Если запретить Android подключение к интернету, некоторые ключевые функции, такие как точки доступа Wi-Fi, могут не работать</string>
     <string name="usage_sorted_activity_lable">Использование данных</string>
     <string name="usage_sorted_loading_text">Загрузка…</string>
     <string name="usage_sorted_empty_text">Пусто</string>
@@ -738,7 +813,7 @@
     <string name="pref_check_network_diagnostics">Проверьте состояние подключения к интернету</string>
     <string name="pref_category_title_other">Дополнительные настройки</string>
     <string name="pref_title_update_notification">Показывать трафик в панели</string>
-    <string name="pref_title_diagnostics_show_float_notification">Всплыващие уведомления</string>
+    <string name="pref_title_diagnostics_show_float_notification">Всплывающие уведомления</string>
     <string name="pref_title_traffic_speed_state">Показывать скорость сети</string>
     <string name="pref_show_mobile_traffic">Показывать статистику использования данных при разблокировке устройсва, за период его блокировки (более 3 минут)</string>
     <string name="pref_title_mobile_traffic">Показывать использование трафика при заблокированном экране</string>
@@ -751,7 +826,7 @@
     <string name="pref_manual_adjust">Ввести использованный трафик</string>
     <string name="pref_daily_adjust">Установка пакета трафика</string>
     <string name="pref_free_adjust">Установить предел трафика</string>
-    <string name="pref_specified_adjust">Установить лимит трафика</string>
+    <string name="pref_specified_adjust">Задать лимит трафика</string>
     <string name="pref_automatic_adjust">Автосинхр. статистики исполь. данных</string>
     <string name="pref_open_adjust_traffic">Синхронизируйте статистику использования данных с оператором</string>
     <string name="pref_auto_adjust_traffic">Автосинхр. статистики исполь. данных</string>
@@ -792,11 +867,11 @@
 	<string name="power_save_on_time_default_time_na">00:00</string>
     <string name="power_save_on_time_start_time_summary_na">С</string>
     <string name="power_save_on_time_end_time_summary_na">До</string>
-    <string name="manual_input_traffic">Установите лимит трафика</string>
+    <string name="manual_input_traffic">Настройка лимита трафика</string>
     <string name="manual_input_free_traffic">Введите предел трафика</string>
     <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
-    <string name="input_used_hint">Введите использованный трафик</string>
-    <string name="input_used_max_hint">Введите использованный трафик (меньше чем %s)</string>
+    <string name="input_used_hint">Введите трафик</string>
+    <string name="input_used_max_hint">Введите трафик (меньше чем %s)</string>
     <string name="text_day" />
     <string name="settings">Настройки</string>
     <string name="adjust_traffic_data">Настроить трафик</string>

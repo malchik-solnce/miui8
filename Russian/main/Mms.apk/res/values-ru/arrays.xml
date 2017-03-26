@@ -4,6 +4,10 @@
         <item>Все сообщения</item>
         <item>Выбранные SIM-карты</item>
      </string-array>
+	 <string-array name="switch_sdk">
+        <item>Xiaomi Smart SMS</item>
+        <item>CMCC Smart SMS</item>
+     </string-array>
 	 <string-array name="default_smiley_names">
         <item>Счастливый</item>
         <item>Грустный</item>

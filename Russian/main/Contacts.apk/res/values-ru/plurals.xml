@@ -150,9 +150,11 @@
      </plurals>
 	 <plurals name="group_copy_success_toast">
         <item quantity="other">Скопировано контактов: %1$d</item>
+		<item quantity="one">Скопировано контактов: %1$d</item>
      </plurals>
      <plurals name="group_move_success_toast">
         <item quantity="other">Перемещено контактов: %1$d</item>
+		<item quantity="one">Перемещено контактов: %1$d</item>
      </plurals>
 	 <plurals name="abbrev_a_hour_ago">
         <item quantity="other">час назад</item>

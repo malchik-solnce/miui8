@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="agree">OK</string>
+	 <string name="cm_terms_content">"Чтобы улучшить предоставляемые услуги, выбранный Вами оператор мобильной сети может загружать ваши персональные данные и информацию об этом устройстве на свои серверы по Wi-Fi или мобильноному интернету. Эта информация будет использоваться только в статистических целях, чтобы улучшить качество услуг и обеспечить более персонализированный контент. Эта информация не будет использоваться для идентификации вас лично и не будет раскрыта третьим лицам."</string>
+     <string name="cm_terms_title">Соглашение с оператором мобильной сети</string>
+     <string name="enable_accessibility_dialog_message">Вы включили TalkBack, нажав на экран двумя пальцами в течение более 10 секунд. TalkBack обеспечивает голосовую обратную связь для людей с нарушениями зрения. Если вы случайно включили его, нажмите кнопку «Отмена», а затем дважды коснитесь экрана.</string>
+     <string name="enable_accessibility_dialog_negative_btn">Отмена</string>
+     <string name="enable_accessibility_dialog_positive_btn">OK</string>
 	 <string name="language_picker_other_languages_title">Другие языки</string>
      <string name="language_picker_popular_languages_title">Популярные языки</string>
 	 <string name="other_settings_mifg_online_content">Ежедневные обои</string>

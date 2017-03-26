@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Калькулятор</string>
+	 <string name="unit_data_display_weight_taijin">Jin (Тайвань)</string>
+     <string name="unit_data_short_weight_taijin">jin (Тв)</string>
 	 <string name="chinese_character_cross_check">Проверить родственников</string>
      <string name="chinese_character_daughter">Дочь</string>
      <string name="chinese_character_elder_brother">Ст. брат</string>

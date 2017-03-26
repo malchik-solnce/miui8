@@ -47,8 +47,8 @@
      <string name="continue_backup">Продолжить</string>
      <string name="dialog_song_sort_type">Сортировка</string>
      <string name="dialog_song_sort_type_name">По имени</string>
-     <string name="dialog_song_sort_type_playing_times">По частоте</string>
-     <string name="dialog_song_sort_type_time">По времени</string>
+     <string name="dialog_song_sort_type_playing_times">По частоте воспроизведения</string>
+     <string name="dialog_song_sort_type_time">По времени добавления</string>
      <string name="dialog_song_view_type">Просмотр</string>
      <string name="dialog_song_view_type_album">Альбомы</string>
      <string name="dialog_song_view_type_artist">Исполнители</string>
@@ -69,7 +69,7 @@
      <string name="search_empty">Пусто. Попробуйте другие слова.</string>
      <string name="search_history_clear_all">Очистить</string>
      <string name="search_instant_online_music">Онлайн</string>
-     <string name="shuffle_music">Воспроизведение в случайном порядке</string>
+     <string name="shuffle_music">В случайном порядке</string>
      <string name="stop">Остановить</string>
      <string name="stop_backup">Остановить</string>
 	 <string name="ad_data_exception">Данные рекламы истекли</string>
@@ -832,13 +832,13 @@
      <string name="lyric_is_empty">Нет текста</string>
      <string name="lyric_open_other_connect">Загрузка текста песен, с помощью мобильного подключения к интернету</string>
      <string name="lyric_setting">Настройки текста</string>
-     <string name="max_sleep_time">90</string>
+     <string name="max_sleep_time">%d</string>
+     <string name="min_sleep_time">%d</string>
      <string name="metered_alert">Предупреждение</string>
      <string name="metered_alert_msg">Разрешить загрузку через мобильный интернет?</string>
      <string name="metered_allow">OK</string>
      <string name="metered_disallow">Отмена</string>
      <string name="metered_play_toast">Прослушивание через мобильный интернет</string>
-     <string name="min_sleep_time">1</string>
      <string name="modify_lyric">Изменить текст</string>
      <string name="modify_progress">Изменить скорость текста</string>
      <string name="modify_progress_helper">Двигайте вверх и вниз для настройки скорости отображения текста</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="altitude">%.1f</string>
+	 <string name="angle">%.0f</string>
 	 <string name="keywords_search_compass">Компас;Калибровка компаса;Давление;Высота;Широта;Долгота</string>
 	 <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
 	 <string name="altitude_uncalibrate_cancel">Отмена</string>

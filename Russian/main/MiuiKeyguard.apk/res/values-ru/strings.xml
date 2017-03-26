@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="click_to_enter_text">Посмотреть</string>
+	 <string name="unlockscreen_quick_charging_message">Быстрая зарядка %d%%</string>
 	 <string name="input_password_after_boot_msg_must_enter_owner_space">Необходимо перейти в режим первого пользователя после перезагрузки</string>
 	 <string name="keyguard_charging_info_battery_temperature_text">Температура батареи</string>
      <string name="keyguard_charging_info_battery_used_time_text">Время использования</string>

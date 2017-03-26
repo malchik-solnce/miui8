@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Dashboard_App">Приложения</string>
+	 <string name="HIPS_Perm_get_installed_apps">Информация о приложениях</string>
+     <string name="HIPS_Perm_get_installed_apps_Desc">получать информацию о приложениях, установленных на этом устройстве</string>
 	 <string name="HIPS_Perm_background_start_activity">Запуск в фоне</string>
      <string name="HIPS_Perm_background_start_activity_Desc">доступ к запуску в фоне</string>
      <string name="HIPS_Perm_show_when_locked">Экран блокировки</string>

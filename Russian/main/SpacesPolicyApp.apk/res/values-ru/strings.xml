@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Безопасные пространства</string>
+	<string name="btn_title_cancel">Отмена</string>
+    <string name="btn_title_force">Принудительно</string>
+    <string name="dialog_download_space_cancel">Отмена</string>
+    <string name="dialog_download_space_create">OK</string>
+    <string name="dialog_download_space_title">Скачать пространство?</string>
+    <string name="dialog_space_creating_text">Подождите</string>
+    <string name="dialog_space_creating_title">Создать новое пространство</string>
+    <string name="pref_desc_sscm_force_connection">Переключите SSCM websocket для переподключения</string>
+    <string name="pref_title_sscm_force_connection">Принудительное подключение SSCM</string>
+    <string name="toast_space_creation_failed">Ошибка создания пространства</string>
+    <string name="uri_invalid">URI или QR код не составляют безопасное пространство</string>
+    <string name="uri_invalid_server_url">Неверная ссылка сервера в зарегистрированном URI</string>
+    <string name="uri_missing_registration_token">Пустой или отсутствующий токен регистрации в зарегистрированном URI</string>
     <string name="label_activity_debug">Policy Debug</string>
     <string name="pref_cat_policy_data">Policy Information</string>
     <string name="pref_cat_sscm_data">Информация SSCM</string>

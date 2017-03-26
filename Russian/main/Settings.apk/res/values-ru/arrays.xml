@@ -239,6 +239,7 @@
         <item>1 минуту</item>
         <item>2 минуты</item>
         <item>5 минут</item>
+		<item>Никогда</item>
      </string-array>
      <string-array name="entries_font_size">
         <item>Меленький</item>

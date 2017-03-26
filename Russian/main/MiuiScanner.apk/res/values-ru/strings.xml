@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Сканер</string>
+	<string name="low_version_tip">Не удается запустить сканер на текущей прошивке. Обновите MIUI.</string>
 	<string name="keywords_search_code">Сканер;Сканировать;QR код;Штрих-код;Товары</string>
      <string name="keywords_search_document">Сканер;Сканирование документов;Документы;Текст</string>
      <string name="keywords_search_namecard">Сканер;Визитка;Визитная карточка;Карточка</string>
