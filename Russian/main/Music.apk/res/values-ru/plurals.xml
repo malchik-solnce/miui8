@@ -4,6 +4,14 @@
         <item quantity="other">Найдено треков: %d</item>
         <item quantity="one">Найдено треков: %d</item>
      </plurals>
+	 <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Удалить %d загрузок?</item>
+        <item quantity="one">Удалить %d загрузку?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">%d загрузок удалено</item>
+        <item quantity="one">%d загрузка удалена</item>
+     </plurals>
 	 <plurals name="Nalbum_total_songs">
         <item quantity="other">Всего песен: %d</item>
         <item quantity="zero">Всего песен: %d</item>

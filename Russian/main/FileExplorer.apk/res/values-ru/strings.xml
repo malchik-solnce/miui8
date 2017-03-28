@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_parse_video_title">Вставить ссылку</string>
+	 <string name="clockin_failed">Не удалось. Повторите.</string>
+     <string name="clockin_success">Проверено</string>
+     <string name="clockin_use">Получить приз</string>
+     <string name="contain_sensitive_words">Удалите неуместные слова и повторите</string>
+     <string name="daily_clockin">Проверить</string>
+     <string name="no_search_content">Ничего не найдено</string>
+     <string name="save">Сохранить</string>
+     <string name="save_desc_success">Успешно изменено​</string>
+     <string name="save_failed">Ошибка сохранения</string>
+     <string name="save_failed_for_length">Слишком длинная подпись. Попробуйте другую.</string>
+     <string name="save_name_success">Изменено</string>
+     <string name="search_popup_tip">Вы можете искать людей и темы</string>
+     <string name="search_topic">Поиск тем</string>
+     <string name="search_user">Поиск людей</string>
+     <string name="see_more_topic">Больше тем</string>
+     <string name="see_more_user">Больше людей</string>
+     <string name="topic_title">Темы</string>
+     <string name="user">Пользователи</string>
 	 <string name="comment_fail">Не удается опубликовать отзыв. Попробуйте позже.</string>
      <string name="comment_fail_banned_forever">Вы были заблокированы. Свяжитесь с нашей группой QQ (374463568) для получения дополнительной информации.</string>
      <string name="comment_fail_banned_forever_positive">OK</string>

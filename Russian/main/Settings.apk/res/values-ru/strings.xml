@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="privacy_password_settings_next">Далее</string>
+     <string name="standard_configuration_version_rear_camera_mi3">13 Мп.</string>
+     <string name="standard_configuration_version_screen_resolution_mi3">1920×1080</string>
+     <string name="standard_configuration_version_screen_size_mi3">5"</string>
+	 <string name="current_zone">(текущая)</string>
+     <string name="privacy_password_settings_titles_elder_mode">Пароль защиты конфиденциальности защитит Ваши фото, файлы и заметки.</string>
+     <string name="privacy_password_settings_titles_second_space">Пароль защиты конфиденциальности защитит Ваши сообщения, фото, и заметки.</string>
 	 <string name="my_device_disclaimer">Примечание: информация о оборудовании, включая процессор, емкость батареи, размер экрана и разрешение, а также камеру, предоставляется лабораториями, дизайнерами и поставщиками Xiaomi.</string>
      <string name="vpn_set_screen_lock_content">Установите пароль экрана блокировки, чтобы сохранить свои VPN настройки</string>
      <string name="vpn_set_screen_lock_title">Установить пароль экрана блокировки</string>

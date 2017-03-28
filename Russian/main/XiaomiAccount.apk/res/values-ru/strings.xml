@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_account_hint_text">Электронная почта или номер телефона</string>
+	<string name="account_error_invalid_user_name">"Имя не может содержать &lt;, >, /"</string>
 	<string name="find_device_locked_account_email" formatted="false">%s,привязанная почта: %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s,привязанный телефон: %s</string>
 	<string name="account_protection_off">выкл.</string>

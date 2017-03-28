@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	 <string name="information_manager_information">Информация о погоде</string>
+	 <string name="index_item_experience_now">Установить</string>
+     <string name="index_item_install_dialog" />
+     <string name="index_item_install_dialog_cancel" />
+     <string name="index_item_install_dialog_open" />
+     <string name="index_item_installing">Установка</string>
+     <string name="install_progress">%1$s%%</string>
+     <string name="open_now">Открыть</string>
 	 <string name="information_manager_default_weather_bg">Фон погоды по умолчанию</string>
 	 <string name="connect_fail">Отсутствует подключение к сети. Повторите.</string>
      <string name="daily_forecast_no_data">"Не удалось получить данные.

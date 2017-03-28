@@ -8,6 +8,26 @@
         <item quantity="few">%1$d дн. назад</item>
         <item quantity="many">%1$d дн. назад</item>
      </plurals>
+	 <plurals name="clockin_day_count">
+        <item quantity="other">Проверено %1$s дн. подряд. Продолжайте!</item>
+        <item quantity="one">Проверено %1$s дн. подряд. Продолжайте!</item>
+     </plurals>
+     <plurals name="clockin_days">
+        <item quantity="other">День %1$s</item>
+        <item quantity="one">День %1$s</item>
+     </plurals>
+     <plurals name="clockin_new_chip">
+        <item quantity="other">Вы получили &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> очков</item>
+        <item quantity="one">Вы получили &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> очков</item>
+     </plurals>
+     <plurals name="total_topic_num">
+        <item quantity="other">Тем: %1$s</item>
+        <item quantity="one">Тем: %1$s</item>
+     </plurals>
+     <plurals name="total_user_num">
+        <item quantity="other">Людей: %1$s</item>
+        <item quantity="one">Людей: %1$s</item>
+     </plurals>
 	 <plurals name="gems">
         <item quantity="other">%1$s камней</item>
         <item quantity="one">%1$s камень</item>

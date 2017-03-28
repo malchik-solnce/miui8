@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Добавить</string>
+	 <string name="volte_provision_notification_activate">Активировать</string>
+     <string name="volte_provision_text">Обнаружено, что VoLTE не предусмотрен SIM-картой. Активировать сейчас?</string>
+     <string name="volte_provision_title">VoLTE</string>
 	 <string name="bad_pin2_old">Введенный старый PIN 2 неверный</string>
 	 <string name="crescendo_ringer_summary">Постепенное нарастание громкости звонка</string>
      <string name="crescendo_ringer_title">Нарастающая громкость</string>

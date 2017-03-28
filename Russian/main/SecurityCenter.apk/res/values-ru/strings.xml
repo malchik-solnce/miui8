@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Предупреждение</string>
+	<string name="start_tc_button">Калибровка</string>
 	<string name="pref_more_settings">Дополнительно</string>
     <string name="pref_month_traffic_limit">Месячный лимит трафика</string>
     <string name="pref_normal_traffic_limit">Ежедневный трафик</string>
