@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Не отключать для приложений: %d</item>
-        <item quantity="one">Не отключать для приложений: 1</item>
+        <item quantity="other">Не отключать для %d приложений</item>
+        <item quantity="one">Не отключать для %d приложения</item>
      </plurals>
 	 <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="one">Сверхкраткая задержка (%1$d мс)</item>
@@ -109,14 +109,12 @@
         <item quantity="one">%d</item>
      </plurals>
      <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">Отключать для приложений: %d</item>
-        <item quantity="one">Отключать для приложений: 1</item>
+        <item quantity="other">Отключать для %d приложений</item>
+        <item quantity="one">Отключать для %d приложения</item>
      </plurals>
 	 <plurals name="show_dev_countdown">
-        <item quantity="other">Вы почти у цели. Осталось %1$d шагов.</item>
-        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
-        <item quantity="few">Вы почти у цели. Осталось %1$d шага.</item>
-        <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
+        <item quantity="other">Вы в %1$d шагах от становления разработчиком</item>
+        <item quantity="one">Вы в %1$d шаге от становления разработчиком</item>
      </plurals>
 	 <plurals name="domain_urls_apps_summary">
         <item quantity="other">%d приложения могут открывать поддерживаемые ссылки</item>
@@ -225,33 +223,31 @@
         <item quantity="one">Найдено принтеров: %1$s</item>
      </plurals>
      <plurals name="show_pho_countdown">
-        <item quantity="other">Вы почти у цели. Осталось %1$d шагов.</item>
-        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
-        <item quantity="few">Вы почти у цели. Осталось %1$d шага.</item>
-        <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
+        <item quantity="other">Вы в %1$d шагах от информации об устройстве</item>
+        <item quantity="one">Вы в %1$d шаге от информации об устройстве</item>
      </plurals>
      <plurals name="show_cit_countdown">
-        <item quantity="other">Вы почти у цели. Осталось %1$d шагов.</item>
-        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
-        <item quantity="few">Вы почти у цели. Осталось %1$d шага.</item>
-        <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
+        <item quantity="other">Вы в %1$d шагах от входа в инженерное меню</item>
+        <item quantity="one">Вы в %1$d шаге от входа в инженерное меню</item>
      </plurals>
      <plurals name="show_rep_countdown">
-        <item quantity="other">Вы почти у цели. Осталось %1$d шагов.</item>
-        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
-        <item quantity="few">Вы почти у цели. Осталось %1$d шага.</item>
-        <item quantity="many">Вы почти у цели. Осталось %1$d шагов.</item>
+        <item quantity="other">Вы в %1$d шагах от создания отчёта</item>
+        <item quantity="one">Вы в %1$d шаге от создания отчёта</item>
 	 </plurals>
 	 <plurals name="manage_condition_providers_summary_nonzero">
         <item quantity="other">%d apps provide conditions</item>
         <item quantity="one">%d app provides conditions</item>
      </plurals>
 	 <plurals name="status_bar_settings_disabled_header_title">
-        <item quantity="other">Приложения без уведомлений: %s</item>
-        <item quantity="one">Приложения без уведомлений: %s</item>
+        <item quantity="zero">Нет приложений с отключенными уведомлениями</item>
+        <item quantity="one">%s приложение с отключенными уведомлениями</item>
+        <item quantity="few">%s приложения с отключенными уведомлениями</item>
+        <item quantity="many">%s приложений с отключенными уведомлениями</item>
      </plurals>
      <plurals name="status_bar_settings_enabled_header_title">
-        <item quantity="other">Приложения с уведомлениями: %s</item>
-        <item quantity="one">Приложения с уведомлениями: %s</item>
+        <item quantity="zero">Нет приложений с включенными уведомлениями</item>
+        <item quantity="one">%s приложение с включенными уведомлениями</item>
+        <item quantity="few">%s приложения с включенными уведомлениями</item>
+        <item quantity="many">%s приложений с включенными уведомлениями</item>
      </plurals>
 </resources>

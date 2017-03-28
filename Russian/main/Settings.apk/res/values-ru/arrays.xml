@@ -864,11 +864,11 @@
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>По умолчанию</item>
-		<item>Нет</item>
+	<item>Нет</item>
         <item>Контур</item>
         <item>С тенью</item>
-		<item>Raised</item>
-        <item>Depressed</item>
+	<item>Приподнятый</item>
+        <item>Утопленный</item>
      </string-array>
      <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
