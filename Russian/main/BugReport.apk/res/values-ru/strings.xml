@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Отзывы</string>
+	 <string name="feedback_third_packagename_hint">Проблемы со сторонними приложениями?</string>
+     <string name="toast_third_packagename_required">Введите имя приложения</string>
 	 <string name="feedback_status_forum_reply">Ответ</string>
      <string name="feedback_status_supplement_more">Добавить комментарий</string>
 	 <string name="permission_granted">Разрешения предоставлены %1$s</string>

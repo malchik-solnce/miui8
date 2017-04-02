@@ -1,6 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Плагин службы безопасности</string>
+	<string name="button_look_up">Нажмите для просмотра</string>
+     <string name="card_sms_report">Сообщить по SMS</string>
+     <string name="card_tc_failed">Калибровка не удалась</string>
+     <string name="card_tc_failed_content">"Возможные причины:
+1. Операторы реагируют медленнее в начале и в конце месяца. Повторите попытку через несколько дней.
+2. При первой калибровке требуется шаблон сетевого запроса. Подключитесь к сети и повторите попытку.
+3. Ваш оператор связи может не поддерживать отправку текстовых сообщений с оставшимися данными и балансом телефона. Свяжитесь со своим оператором, чтобы узнать больше.
+4. Может быть ошибка в данных оператора. Попробуйте диагностику для решения этой проблемы.
+5. Ничто не помогает? Нажмите «Сообщить по SMS», чтобы отправить свой отзыв в текстовом сообщении в Xiaomi."</string>
+     <string name="customize_limit_pkg">%s (пользов.)</string>
+     <string name="data_usage_warning_body_notify">Нажмите для просмотра подробностей</string>
+     <string name="data_usage_warning_title_notify">Превышен лимит трафика</string>
+     <string name="firewall_allow_network">Разрешено</string>
+     <string name="firewall_network_allow">Разрешено %1$s использовать %2$s подключение</string>
+     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Неверный оператор?&lt;/U>&lt;/font>"</string>
+     <string name="guide_operator_text">"Ваш текущий оператор: "</string>
+     <string name="guide_primary_text">"Включите ассистент сети
+для управления использованным мобильным трафиком"</string>
+     <string name="guide_quck_open">Включить</string>
+     <string name="guide_second_text">"После установки своего оператора, MIUI будет ежедневно отслеживать использование мобильного трафика, отправляя бесплатное SMS. При обнаружении превышения лимита трафика, мобильный интернет будет отключен и Вы получите уведомление.</string>
+     <string name="guide_wait_setting">Не сейчас</string>
+     <string name="leisure_usage_dialog_message">"Достигнут лимит дополнительного трафика.
+
+Оператор может взимать дополнительную плату при продолжении использования мобильного трафика."</string>
+     <string name="leisure_usage_dialog_title">Превышен дополнительный лимит рафика. Мобильный интернет отключен.</string>
+     <string name="main_bill_remained">Баланс телефона</string>
+     <string name="main_leisure_remained">Осталось доп. трафика</string>
+     <string name="main_month_total_used">Использовано в этом месяце</string>
+     <string name="main_month_used">Использовано в этом месяце</string>
+     <string name="main_no_info">Нет данных</string>
+     <string name="main_normal_data_usage">Использованно моб. трафика</string>
+     <string name="main_primary_message_leisure_alert">Предупреждение доп. трафика</string>
+     <string name="main_primary_message_leisure_overlimit">Превышен дополнительный трафик</string>
+     <string name="main_primary_message_leisure_remain">Дополнительный трафик</string>
+     <string name="main_primary_message_traffic_remain">Мобильный трафик</string>
+     <string name="main_purchase_tips">Подсказка</string>
+     <string name="main_tc_over">Калибровка выполнена</string>
+     <string name="main_tc_send_sms">"Отправить SMS
+для калибровки"</string>
+     <string name="main_tc_wait_result">"Ожиданеие ответа
+оператора"</string>
+     <string name="main_today_used">Использовано сегодня</string>
+     <string name="main_used_bill">%s CNY</string>
+     <string name="optimize_result_ads_close_text">Реклама</string>
+     <string name="pref_adjust_data_usage_summary">После изменения шаблона калибровки MIUI будет использовать его для получения статистики использования трафика от вашего оператора</string>
+     <string name="pref_adjust_data_usage_value">Изменено</string>
+     <string name="pref_category_daily_package_tile">Ежедневный пакет трафика</string>
+     <string name="pref_category_extra_package_tile">Пополнить пакет</string>
+     <string name="pref_category_half_year_package_tile">Пакет трафика на полгода</string>
+     <string name="pref_confirm_operator_setting">Убедитесь, что введенная информация верна</string>
+     <string name="pref_correction_setting">Настройки шаблона калибровки</string>
+     <string name="pref_correction_setting_switch">Использовать пользовательский шаблон калибровки</string>
+     <string name="pref_correction_sms_content">Шаблон калибровки</string>
+     <string name="pref_correction_sms_number">Отправить SMS калибровки на</string>
+     <string name="pref_key_daily_package_switch">Ежедневный трафик</string>
+     <string name="pref_key_daily_package_value">Ежедневный трафик</string>
+     <string name="pref_key_direction_traffic">Назначенный трафик</string>
+     <string name="pref_key_extra_package_switch">Месячный пакет трафика</string>
+     <string name="pref_key_extra_package_value">Размер пакета</string>
+     <string name="pref_key_half_year_package_start">Дата начала</string>
+     <string name="pref_key_half_year_package_switch">Пакет трафика на полгода</string>
+     <string name="pref_key_half_year_package_value">Размер пакета</string>
+     <string name="pref_operator_not_set">Оператор не настроен</string>
+     <string name="pref_operator_setting">%1$s %2$s</string>
+     <string name="pref_special_package_setting">Пользовательский трафик</string>
+	<string name="add_done">Готово</string>
+     <string name="add_whitelist">Добавить в исключения</string>
+     <string name="anim_gamebooster_text">Подождите…</string>
+     <string name="boost_done">Ускорить завершение</string>
+     <string name="boosting">Ускорение скорости…</string>
+     <string name="create_shortcut">будет создана иконка на рабочем столе для быстрого запуска</string>
+     <string name="dialog_text">будет создана иконка на рабочем столе для быстрого запуска</string>
+     <string name="dont_bore_text">Отключить уведомения и кнопки, для лучшего игрового опыта</string>
+     <string name="dont_bore_title">Не беспокоить</string>
+     <string name="function_close">Выкл.</string>
+     <string name="game_booster_title">Ускорение</string>
+     <string name="game_improve_text1">Автоматическая очистка в фоне, увеличение времени игры</string>
+     <string name="game_improve_text2">Автоматическая очистка в фоне, увеличение времени игры</string>
+     <string name="game_improve_title">Оптимизация производительности</string>
+     <string name="game_net_text1">Ограничение фоновой скорости загрузки, уменьшение задержки сети</string>
+     <string name="game_net_text2">Ускорение сети и ограничение фоновой скорости загрузки, уменьшение задержки сети</string>
+     <string name="game_net_title">Защита сети</string>
+     <string name="gamebooster_network_dialog_message">Разрешить приложению подключение к сети для использования всех функций режима Ускорения игр?</string>
+     <string name="gamebooster_network_dialog_title">Некоторые функции недоступны</string>
+     <string name="get_sys_info">Получение информации…</string>
+     <string name="gs_anto_clean_memory_whitelist">Исключения</string>
+     <string name="i_know">OK</string>
+     <string name="intro_improve">Основываясь на системном уровне для улучшения всего игрового опыта</string>
+     <string name="net_delay_title">Задержка</string>
+     <string name="no_game">Игр не найдено</string>
+     <string name="save_energy_text">Запрет запуска приложений в фоне и синхронизации данных, управления оперативной памятью и снижения потребления батареи приложениями</string>
+     <string name="save_energy_title">Оптимизация питания</string>
+     <string name="sys_cpu_title">ЦП</string>
+     <string name="sys_freememory_title">Свободно</string>
+     <string name="top_load_fail_detail">Не удалось загрузить. Нажмите для повтора.</string>
+     <string name="top_no_network_detial">Проверьте сеть и повторите</string>
 	<string name="gs_auto_clean_memory">Очищать кэш</string>
      <string name="gs_auto_clean_memory_detail">Автоматически очищать кэш для оптимизации игрового процесса</string>
      <string name="gs_game_disturb_msg">Не беспокоить</string>

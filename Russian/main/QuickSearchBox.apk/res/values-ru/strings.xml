@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Поиск</string>
+	 <string name="barcode_install_back">Назад</string>
+     <string name="barcode_install_cancel">Отмена</string>
+     <string name="barcode_install_confirm">Установить</string>
+     <string name="barcode_system_unmatch">Обновите MIUI перед установкой Сканера</string>
+     <string name="barcode_to_install">Чтобы продолжить, установите Сканер</string>
+     <string name="barcode_uninstalled">Сканер удален</string>
+     <string name="mina_name">Директ приложения</string>
+     <string name="setting_other">Разное</string>
+     <string name="setting_version">Версия приложения</string>
+     <string name="setting_version_title">Версия приложения</string>
 	 <string name="choose_search_engine">Выберите источник поиска по умолчанию</string>
 	 <string name="appindex_description">функции установленных приложений</string>
      <string name="appindex_search_label">Функции приложений</string>

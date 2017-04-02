@@ -4,6 +4,50 @@
         <item quantity="other">Приложения без отслеживания трафика: %d</item>
         <item quantity="one">Приложения без отслеживания трафика: %d</item>
     </plurals>
+	<plurals name="add_game_notification_title">
+        <item quantity="other">Добавлено игр: %d</item>
+        <item quantity="one">Добавлено игр: %d</item>
+     </plurals>
+     <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Обновления приложений: %d</item>
+        <item quantity="one">Обновления приложений: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Совершенные звонки: %d</item>
+        <item quantity="one">Совершенные звонки: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Получено разрешений: %d</item>
+        <item quantity="one">Получено разрешений: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read">
+        <item quantity="other">Доступ: %d</item>
+        <item quantity="one">Доступ: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Доступ к контактам: %d</item>
+        <item quantity="one">Доступ к контактам: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Чтение SMS: %d</item>
+        <item quantity="one">Чтение SMS: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Чтение звонков: %d</item>
+        <item quantity="one">Чтение звонков: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Отправлено SMS: %d</item>
+        <item quantity="one">Отправлено SMS: %d</item>
+     </plurals>
+     <plurals name="app_manager_reject_count">
+        <item quantity="other">Заблокировано %d раза</item>
+        <item quantity="one">Заблокировано %d раз</item>
+     </plurals>
+     <plurals name="app_manager_start_count">
+        <item quantity="other">%d раза</item>
+        <item quantity="one">%d раз</item>
+     </plurals>
 	<plurals name="virus_clean_num">
         <item quantity="other">Все выглядит хорошо</item>
         <item quantity="one">Все выглядит хорошо</item>

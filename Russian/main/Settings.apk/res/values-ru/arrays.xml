@@ -7,7 +7,7 @@
         <item>Заметки</item>
         <item>Детский режим</item>
      </string-array>
-	 <string-array name="city_name">
+	<string-array name="city_name">
         <item>Абиджан</item>
         <item>Аккра</item>
         <item>Аддис-Абеба</item>
@@ -137,7 +137,6 @@
         <item>Катар</item>
         <item>Рангун</item>
         <item>Эр-Рияд</item>
-        <item>Сайгон</item>
         <item>Сеул</item>
         <item>Шанхай</item>
         <item>Сингапур</item>
@@ -258,7 +257,6 @@
         <item>Цинциннати</item>
         <item>Маунтин-Вью</item>
         <item>Рено</item>
-        <item>Город Черного Рока</item>
         <item>Доха</item>
         <item>Пекин</item>
         <item>Мумбаи</item>
