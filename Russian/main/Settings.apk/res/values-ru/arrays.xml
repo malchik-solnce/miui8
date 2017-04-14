@@ -7,7 +7,38 @@
         <item>Заметки</item>
         <item>Детский режим</item>
      </string-array>
-	<string-array name="city_name">
+	<string-array name="enjoy_version_mi3">
+        <item>3 ГБ</item>
+        <item>32 ГБ</item>
+        <item>До 2.15 Ггц</item>
+     </string-array>
+     <string-array name="high_configuration_version_mi3">
+        <item>3 ГБ</item>
+        <item>64 ГБ</item>
+        <item>До 2.15 Ггц</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_primary_mi3">
+        <item>Процессор</item>
+        <item>Батарея</item>
+        <item>Камера</item>
+        <item>Экран</item>
+        <item>Разрешение</item>
+        <item>Android</item>
+     </string-array>
+     <string-array name="standard_configuration_version_description_secondary_mi3">
+        <item>Snapdragon 800</item>
+        <item>3050 Мач</item>
+        <item>13 Мп.</item>
+        <item>5"</item>
+        <item>1920×1080</item>
+        <item>6.0.1</item>
+     </string-array>
+     <string-array name="standard_configuration_version_mi3">
+        <item>3 ГБ</item>
+        <item>16 ГБ</item>
+        <item>2.5 Ггц</item>
+     </string-array>
+	 <string-array name="city_name">
         <item>Абиджан</item>
         <item>Аккра</item>
         <item>Аддис-Абеба</item>
@@ -65,7 +96,6 @@
         <item>Гавана</item>
         <item>Индианаполис</item>
         <item>Нокс</item>
-        <item>Маренго</item>
         <item>Петербург</item>
         <item>Скажите города</item>
         <item>Вивэй</item>
@@ -86,7 +116,6 @@
         <item>Нассау</item>
         <item>Нью-Йорк</item>
         <item>Бойла</item>
-        <item>Центр</item>
         <item>Новый Салем</item>
         <item>Панама</item>
         <item>Феникс</item>
@@ -149,7 +178,6 @@
         <item>Канарские</item>
         <item>Кабо-Верде</item>
         <item>Рейкьявик</item>
-        <item>Стэнли</item>
         <item>Аделаида</item>
         <item>Брисбен</item>
         <item>Канберра</item>
@@ -234,7 +262,6 @@
         <item>Сан-Франциско</item>
         <item>Солт-Лейк-Сити</item>
         <item>Сан-Хосе</item>
-        <item>Сан-Сальвадор</item>
         <item>Сиэтл</item>
         <item>Луи</item>
         <item>Вашингтон</item>

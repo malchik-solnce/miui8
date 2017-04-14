@@ -4,6 +4,18 @@
         <item quantity="other">Ясно</item>
         <item quantity="one">Ясно</item>
      </plurals>
+	 <plurals name="no_vote_num">
+        <item quantity="other">%1$s людей | </item>
+        <item quantity="one">%1$s чел. | </item>
+     </plurals>
+     <plurals name="total_voted_num_text">
+        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> людей проголосовало"</item>
+        <item quantity="one">"&lt;font color='#20a7ff'>%1$s&lt;/font> человек проголосовал"</item>
+     </plurals>
+     <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s людей</item>
+        <item quantity="one"> | %1$s чел.</item>
+     </plurals>
      <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d часов назад</item>
         <item quantity="one">%d час назад</item>

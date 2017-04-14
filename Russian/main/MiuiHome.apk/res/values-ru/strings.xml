@@ -83,10 +83,10 @@
      <string name="app_category_travel">Путешествия</string>
      <string name="application_name">Рабочий стол</string>
      <string name="apply_action">Применить</string>
-     <string name="apply_as_lock_screen">На экран блокировки</string>
+     <string name="apply_as_lock_screen">Экран блокировки</string>
      <string name="apply_as_lock_wallpaper_message">Применить на экран блокировки?</string>
-     <string name="apply_as_wallpaper">На рабочий стол</string>
-     <string name="apply_both">На все</string>
+     <string name="apply_as_wallpaper">Рабочий стол</string>
+     <string name="apply_both">Экран блокировки и рабочий стол</string>
      <string name="aqi_quality_index_dangerous">Опасное</string>
      <string name="aqi_quality_index_good">Хорошее</string>
      <string name="aqi_quality_index_hazardous">Опасное</string>

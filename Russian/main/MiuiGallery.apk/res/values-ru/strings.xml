@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Импорт</string>
+	 <string name="loading_fail_sync_without_network">Подключитесь к сети для загрузки метаданных</string>
+     <string name="loading_fail_syncing">Дождитесь полной загрузки метаданных и повторите попытку</string>
+     <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки метаданных</string>
+     <string name="loading_video_fail_syncing">Дождитесь полной загрузки метаданных и повторите попытку</string>
 	 <string name="backup_detail_page_empty">Нет фото или видео для синхронизации</string>
 	 <string name="backup_close">Выкл. синхронизацию</string>
      <string name="backup_pause_title">Синхронизация через %s</string>

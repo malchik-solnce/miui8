@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Плагин службы безопасности</string>
+	<string name="intro_skip">Пропустить</string>
 	<string name="button_look_up">Нажмите для просмотра</string>
      <string name="card_sms_report">Сообщить по SMS</string>
      <string name="card_tc_failed">Калибровка не удалась</string>

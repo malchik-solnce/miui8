@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+	 <string name="ads_install_button_isDownloading">Загрузка</string>
 	 <string name="ads">Реклама</string>
      <string name="ads_install_button">Установить</string>
      <string name="ads_install_button_installed">Открыть</string>

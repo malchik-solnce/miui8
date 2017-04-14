@@ -34,7 +34,7 @@
      </plurals>
      <plurals name="file_count_format">
         <item quantity="other">Всего файлов: %1$d</item>
-        <item quantity="one">всего файлов: %1$d</item>
+        <item quantity="one">Всего файлов: %1$d</item>
      </plurals>
      <plurals name="quickly_discovery_message_format">
         <item quantity="other">Найдено новых фото: %1$d</item>

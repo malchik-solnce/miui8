@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="MIUI_startpage">Стартовая страница</string>
+	 <string name="bookmark_url_can_not_null">Введите ссылку</string>
 	 <string name="empty_app_name">Другое приложение</string>
      <string name="open_app_confirm_message">Разрешить этой странице открыть %s?</string>
 	 <string name="fling_on_border_gesture_hint">Вы можете выбрать функцию этого жеста в настройках</string>

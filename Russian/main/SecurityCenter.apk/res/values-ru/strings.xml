@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="cta_dialog_title">Предупреждение</string>
+	<string name="tc_sms_report_type">Тип отчета</string>
+	<string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'>&lt;U>Не уверены в операторе?&lt;/U>&lt;/font>"</string>
+	<string name="card_main_deepclean_wechat_action">Очистить</string>
+     <string name="card_main_deepclean_wechat_summary">Очистите кэш для освобожденния памяти</string>
+     <string name="card_main_deepclean_wechat_title">Кэш WeChat</string>
 	<string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Удаление этого приложения ограничит последовательный запуск. Связанные клонированные приложения будут также удалены. Удалить %s?</string>
 	<string name="add_game_notification_summary">Нажмите для запуска и ускорения скорости</string>
      <string name="app_maanger_app_uninstalled_toast">Это приложение удалено</string>

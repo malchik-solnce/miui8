@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_add_attendee">Добавить участника</string>
+	 <string name="global_action_text_card_manager">Больше интересных календарей</string>
 	 <string name="anniversary_card_title">Годовщина</string>
      <string name="anniversary_event_title">Годовщина: %1$s</string>
      <string name="countdown_card_title">Обратный отсчет</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="alert_message_delete_record">Удалить выбранные записи?</string>
+	 <string name="rename_fail_tip">Не удалось переименовать. Файл с таким именем уже существует.</string>
 	 <string name="head_set_tip_dialog_msg">Отключите наушники, чтобы иметь возможность записывать звук с определенными настройками (музыка, голос)</string>
      <string name="head_set_tip_dialog_ok">OK</string>
      <string name="head_set_tip_dialog_title">Использовать встроенный микрофон</string>

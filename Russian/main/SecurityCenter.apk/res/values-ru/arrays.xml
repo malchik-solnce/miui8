@@ -5,6 +5,14 @@
         <item>"Сегодня "</item>
         <item>"За месяц "</item>
     </string-array>
+	<string-array name="sort_type">
+        <item>Сортировка по имени</item>
+        <item>Сортировка по размеру</item>
+     </string-array>
+	<string-array name="sms_report_type">
+        <item>Использование трафика</item>
+        <item>Баланс телефона</item>
+     </string-array>
 	<string-array name="long_add_menu">
         <item>Добавить в исключения</item>
      </string-array>

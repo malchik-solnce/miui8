@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Служба голосовой печати</string>
-    <string name="action_settings">Настройки</string>
-	<string name="hello_world">Ну привет!</string>
-</resources>

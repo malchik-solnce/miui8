@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Инженерный режим</string>
+	<string name="auto_success">успех</string>
+     <string name="kepad_test_down_ch">Вниз</string>
+     <string name="kepad_test_power_ch">Питание</string>
+     <string name="kepad_test_up_ch">Вверх</string>
+     <string name="lcd_light_data">LCD:</string>
+     <string name="lsensor_light_data">L-сенсор:</string>
+     <string name="no_infrared">нет ик</string>
 	<string name="infrared_is_closed">ИК-порт выключен</string>
      <string name="infrared_is_opened">ИК-порт включен</string>
      <string name="infrared_off">Выкл</string>

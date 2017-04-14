@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Компонент безопасности</string>
+	<string name="space_deleted">Этот пользователь был удален</string>
 	 <string name="air_space_exit">Покинуть пространство</string>
      <string name="air_space_setting">Настройки пространства</string>
      <string name="airspace_users_full">Не удается создать больше пространств</string>

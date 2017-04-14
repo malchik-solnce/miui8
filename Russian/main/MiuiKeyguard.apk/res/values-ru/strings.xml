@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="click_to_enter_text">Посмотреть</string>
+	 <string name="fingerprint_try_again_msg">Не удалось проверить отпечаток пальца. Повторите попытку.</string>
+	 <string name="fingerprint_enter_second_psw_msg_oldman">Не удается войти в режим второго пользователя в простом режиме</string>
 	 <string name="unlockscreen_quick_charging_message">Быстрая зарядка %d%%</string>
 	 <string name="input_password_after_boot_msg_must_enter_owner_space">Необходимо перейти в режим первого пользователя после перезагрузки</string>
 	 <string name="keyguard_charging_info_battery_temperature_text">Температура батареи</string>

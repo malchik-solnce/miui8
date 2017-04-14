@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_account_hint_text">Электронная почта или номер телефона</string>
+	<string name="xiao_mi_vip">Mi VIP</string>
+	<string name="account_mipay_info">Mi pay</string>
+     <string name="account_secure_info_pref_title">Информация об аккаунте</string>
+     <string name="account_security">Безопасность аккаунта</string>
+     <string name="account_security_info_pref_title">Информация безопасности</string>
+     <string name="account_user_info">Персональная информация</string>
+     <string name="mipay">Pay</string>
+     <string name="mipay_balance">Баланс</string>
+     <string name="mipay_bank_card">Банковская карта</string>
+     <string name="mipay_identity">Identity</string>
+     <string name="mipay_others">Другое</string>
+     <string name="mipay_transit_card">Транзитная карточка</string>
+     <string name="search_account_security">Безопасность аккаунта</string>
+     <string name="search_account_security_desc">Настройки аккаунта</string>
+     <string name="search_account_security_key_words">Сменить номер,Сменить почту,Защита аккаунта,Аккаунты,Авторизация,Устройства</string>
+     <string name="search_account_security_path">Настройки/Mi аккаунт/Настройки аккаунта</string>
+     <string name="vip_account_settings">Настройки Vip</string>
+     <string name="vip_more_info">Больше информации</string>
 	<string name="account_error_invalid_user_name">"Имя не может содержать &lt;, >, /"</string>
 	<string name="find_device_locked_account_email" formatted="false">%s,привязанная почта: %s</string>
     <string name="find_device_locked_account_phone" formatted="false">%s,привязанный телефон: %s</string>

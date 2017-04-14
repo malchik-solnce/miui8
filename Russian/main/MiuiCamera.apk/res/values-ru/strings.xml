@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_sd_fail">Нет доступа к SD-карте</string>
+	 <string name="pref_dualcamera_watermark_entry_dualcamera">Двойная камера</string>
+     <string name="pref_dualcamera_watermark_entry_off">Выкл</string>
+     <string name="pref_dualcamera_watermark_entry_timestamp">Дата</string>
+     <string name="pref_dualcamera_watermark_title">Водяной знак на фото</string>
+	 <string name="accessibility_portrait_button">Портретный режим</string>
+     <string name="accessibility_zoom_button">Режим увеличения</string>
+     <string name="hibernate_hint">Нажмите в любом месте для пробуждения</string>
+     <string name="portrait_mode_lowlight_hint">Требуется больше света</string>
+     <string name="portrait_mode_too_close_hint">Отойдите дальше</string>
+     <string name="portrait_mode_too_far_hint">Поместите объект в пределах 2.5 метров</string>
+     <string name="portrait_with_facebeauty_hint">В портретном режиме доступны настройки улучшения</string>
+     <string name="pref_camera_portrait_mode_entry_off">Портретный режим выключен</string>
+     <string name="pref_camera_portrait_mode_entry_on">Портретный режим включен</string>
+     <string name="pref_camera_portrait_mode_title">Портретный режим</string>
+     <string name="pref_camera_portrait_with_facebeauty_title">Улучшение в портретном режиме</string>
+     <string name="pref_camera_zoom_mode_entry_tele">Теле</string>
+     <string name="pref_camera_zoom_mode_entry_wide">Широкий</string>
+     <string name="pref_camera_zoom_mode_title">Объектив</string>
 	 <string name="groupshot_mode_use_hint">"Будет сделано несколько фото, чтобы выбрать лучшее
 выражение лица и синтезировать в фото"</string>
 	 <string name="pref_camera_mono_mode_title">Моно</string>
