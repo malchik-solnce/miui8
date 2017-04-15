@@ -1210,7 +1210,7 @@
      <string name="search_storage_settings">Очистка</string>
      <string name="search_tether_settings_title_bluetooth">Bluetooth модем</string>
      <string name="search_tether_settings_title_usb">USB модем</string>
-     <string name="search_touch_sensitive_title">Glove mode</string>
+     <string name="search_touch_sensitive_title">Режим в перчатках</string>
      <string name="search_trusted_credentials">Надежные сетитификаты</string>
      <string name="search_tts_settings_title">Синтезатор речи</string>
      <string name="search_turn_on_security_lock">Сменить пароль</string>
@@ -1271,8 +1271,8 @@
      <string name="path_touch_assistant_settings">Настройки/Дополнительно/Быстрые ярлыки</string>
      <string name="search_touch_assistant">Быстрые ярлыки</string>
      <string name="touch_assistant">Быстрые ярлыки</string>
-	 <string name="wifi_enable_data_and_wifi_roam">Переключение на мобильный интернет</string>
-     <string name="wifi_enable_data_and_wifi_roam_summary">Переключаться на мобильный интернет, если активное Wi-Fi подключение не имеет доступа в интернет</string>
+	 <string name="wifi_enable_data_and_wifi_roam">Wi-Fi ассистент</string>
+     <string name="wifi_enable_data_and_wifi_roam_summary">Переключаться на мобильную сеть при слабом Wi-Fi сигнале</string>
 	 <string name="aaid_info">"
 Рекламный идентификатор является постоянным и уникальным ID для вашего устройства. Поставщики используют его для выбора рекламного контента, который будет более полезным для вас.
 
@@ -1342,8 +1342,8 @@
      <string name="auto_disable_screenbuttons_no">Никогда не отключать</string>
      <string name="auto_disable_screenbuttons_summary">Автоматически отключать кнопки при использовании выбранных приложений. Дважды нажмите любую кнопку, чтобы снова включить их.</string>
      <string name="auto_disable_screenbuttons_title">Отключение кнопок</string>
-     <string name="battery_light_summary">Включать при зарядке</string>
-     <string name="battery_light_title">Индикатор заряда батареи</string>
+     <string name="battery_light_summary"></string>
+     <string name="battery_light_title">Уведомлять при зарядке</string>
      <string name="cmcc_dm_settings_disable_summary">Выключить автозапуск</string>
      <string name="cmcc_dm_settings_enable_summary">Включить автозапуск</string>
      <string name="cmcc_dm_settings_title">Разрешения управления устройством</string>
@@ -1383,7 +1383,7 @@
      <string name="path_key_settings">Настройки/Дополнительно/Кнопки</string>
      <string name="path_lab_functions_title">Настройки/Дополнительно/Бета функции</string>
      <string name="path_language_settings">Настройки/Дополнительно/Язык и ввод</string>
-     <string name="path_led_settings">Настройки/Дополнительно/Индикатор событий</string>
+     <string name="path_led_settings">Настройки/Дополнительно/Уведомление светодиодом</string>
      <string name="path_legal_information">Настройки/Об устройстве/Правовая информация</string>
      <string name="path_music_audio_effect_optimize">Настройки/Звук/Настройки аудио</string>
      <string name="path_music_headset_settings">Настройки/Дополнительно/Наушники и эффекты</string>
@@ -1990,7 +1990,7 @@
      <string name="mem_use_total">Итого</string>
      <string name="mem_use_zram_type">ZRam swap</string>
      <string name="miui_allow_alarm">Сигналы будильника</string>
-     <string name="miui_allow_light">Индикатор событий</string>
+     <string name="miui_allow_light">Уведомление светодиодом</string>
      <string name="miui_allow_music">Медиа</string>
      <string name="miui_allow_vibrate">Использовать вибрацию</string>
      <string name="miui_disturb_title">Выберите режим</string>
@@ -2231,8 +2231,8 @@
      <string name="wallpaper_attributions">Обои</string>
      <string name="wallpaper_attributions_values">"Фотографии со спутника:
 © CNES 2014/Astrium, DigitalGlobe, Bluesky"</string>
-     <string name="wifi_aggressive_handover">Мобильная сеть</string>
-     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если слабый Wi-Fi сигнал</string>
+     <string name="wifi_aggressive_handover">Переключаться на мобильную сеть</string>
+     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом Wi-Fi сигнале</string>
      <string name="wifi_allow_scan_with_traffic">Всегда разрешать поиск Wi-Fi сетей</string>
      <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
      <string name="wifi_assistant_card_message">Автоматически подключаться к сетям с помощью ассистента Wi-Fi</string>
@@ -2359,7 +2359,7 @@
      <string name="screen_paper_mode_update_white_pkg_list_title">Мобильный интернет</string>
 	 <string name="skip_lock_screen_confirm_msg">Следующие функции будут отключены для экрана блокировки: уведомления, управление музыкальным проигрывателем, сдвиг влево, для доступа к камере и сдвиг право, для доступа к телефону.</string>
 	 <string name="status_bar_settings_enable_notification">Включить уведомления</string>
-	 <string name="status_bar_settings_notification_led">Индикатор</string>
+	 <string name="status_bar_settings_notification_led">Светодиод</string>
      <string name="status_bar_settings_notification_sound_vibrate">Звук и вибрация</string>
 	 <string name="status_bar_settings_show_home_message">Счетчик на иконке</string>
 	 <string name="status_bar_settings_show_keyguard_notification">На экране блокировки</string>
@@ -3539,7 +3539,7 @@
      <string name="led_colors_summary">Цвет уведомлений</string>
      <string name="led_frequence_summary">Интервал между миганиями</string>
      <string name="led_pulse_summary">Уведомлять светодиодом о новых событиях</string>
-     <string name="led_settings">Индикатор событий</string>
+     <string name="led_settings">Уведомление светодиодом</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
      <string name="line_breaking_summary">Оптимизировать разрывы линий</string>
@@ -3950,7 +3950,7 @@
      <string name="notification_breathing_light_freq_title">Частота мигания</string>
      <string name="notification_listener_security_warning_summary">%1$s будет читать все уведомления, системых или любых установленных приложений, которые могут содержать личные данные, имена контактов и текст сообщений. Оно также сможет отклонить эти уведомления или нажимать кнопки действий в них.</string>
      <string name="notification_listener_security_warning_title">Включить %1$s?</string>
-     <string name="notification_pulse_title">Включить индикацию</string>
+     <string name="notification_pulse_title">Оповещать светодиодом</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Уведомления</string>
      <string name="notification_volume_title">Уведомление</string>
@@ -4392,7 +4392,7 @@
      <string name="search_key">кнопки</string>
      <string name="search_label">Настройки</string>
      <string name="search_language">язык</string>
-     <string name="search_led">индикаторы</string>
+     <string name="search_led">светодиод</string>
      <string name="search_network">сеть</string>
      <string name="search_power_mode">настройки питания</string>
      <string name="search_privacy">конфиденциальность</string>
