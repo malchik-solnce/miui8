@@ -6,6 +6,10 @@
         <item>Текстовое сообщение</item>
         <item>Будильник</item>
      </string-array>
+	 <string-array name="date_calculate_spinner">
+        <item>Назад</item>
+        <item>Вперед</item>
+     </string-array>
 	 <string-array name="repeat_countdown">
         <item>Никогда</item>
         <item>Ежемесячно</item>

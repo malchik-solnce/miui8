@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="default_connection_manager_component" />
+	<string name="notification_AllMissedCallTitle">Все пропущенные звонки</string>
 	<string name="bluetooth_dun_profile_summary_connected">Подключено к DUN серверу</string>
      <string name="bluetooth_dun_profile_summary_use_for">Использовать для доступа к сети Dial-Up</string>
 	 <string name="bluetooth_profile_dun">Доступ к сети Dial-up</string>

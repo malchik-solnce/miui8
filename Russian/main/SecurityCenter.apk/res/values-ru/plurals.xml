@@ -4,6 +4,14 @@
         <item quantity="other">Приложения без отслеживания трафика: %d</item>
         <item quantity="one">Приложения без отслеживания трафика: %d</item>
     </plurals>
+	<plurals name="fw_blocked_count_call">
+        <item quantity="other">%d вызовов</item>
+        <item quantity="one">1 вызов</item>
+     </plurals>
+     <plurals name="fw_blocked_count_sms">
+        <item quantity="other">%d сообщений</item>
+        <item quantity="one">1 сообщение</item>
+     </plurals>
 	<plurals name="add_game_notification_title">
         <item quantity="other">Добавлено игр: %d</item>
         <item quantity="one">Добавлено игр: %d</item>

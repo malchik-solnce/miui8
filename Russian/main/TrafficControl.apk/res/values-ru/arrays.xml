@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="v2_pref_basic_savings_entries">
-        <item>Высокая</item>
-        <item>Средняя</item>
-        <item>Низкая</item>
-        <item>Выкл.</item>
-    </string-array>
-</resources>

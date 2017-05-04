@@ -8,6 +8,18 @@
         <item quantity="few">Просмотров: %1$d</item>
         <item quantity="many">Просмотров: %1$d</item>
      </plurals>
+	 <plurals name="app_usage_day">
+        <item quantity="other">Не использовалось: %d дн.</item>
+        <item quantity="one">Не использовалось: %d дн.</item>
+     </plurals>
+     <plurals name="app_usage_month">
+        <item quantity="other">Не использовалось: %d мес.</item>
+        <item quantity="one">Не использовалось: %d мес.</item>
+     </plurals>
+     <plurals name="app_usage_year">
+        <item quantity="other">Не использовалось: %d лет</item>
+        <item quantity="one">Не использовалось: %d г.</item>
+     </plurals>
 	 <plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">Ошибка экспорта %d видео. Освободите место и повторите.</item>
         <item quantity="one">Ошибка экспорта %d видео. Освободите место и повторите.</item>

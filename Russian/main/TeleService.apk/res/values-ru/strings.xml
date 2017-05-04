@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Добавить</string>
+	 <string name="sum_cfu_enabled_indicator_by_sim">Все вызовы на %s будут переадресованы</string>
+     <string name="title_cfu_enabled">Включена переадресация вызово</string>
+	 <string name="callEnded_pulled">Вызов передается на другое устройство</string>
+     <string name="callFailed_data_disabled">Вызов завершен. Отключен интернет.</string>
+     <string name="callFailed_data_limit_reached">Превышен лимит трафика. Вызов завершен.</string>
+     <string name="callFailed_data_limit_reached_description">Вызов завершен. Лимит трафика был превышен.</string>
+     <string name="callFailed_maximum_reached">Используются все доступные линии. Чтобы совершить вызов, завершите один на этом устройстве или включите на другом устройстве.</string>
 	 <string name="volte_provision_notification_activate">Активировать</string>
      <string name="volte_provision_text">Обнаружено, что VoLTE не предусмотрен SIM-картой. Активировать сейчас?</string>
      <string name="volte_provision_title">VoLTE</string>

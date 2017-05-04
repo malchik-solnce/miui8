@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account_id_not_login">Нажмите, чтобы войти</string>
+	 <string name="uid_change_dialog_message">"Вы удалили обновления. Перезагрузите устройтво, чтобы пользоваться темами."</string>
+     <string name="uid_change_dialog_ok">Перезагрузить</string>
+     <string name="uid_change_dialog_title">Требуется перезагрузка</string>
 	 <string name="the_picture_is_not_support">Изображение не поддерживается</string>
 	 <string name="ad_app_download_start">Начало загрузки…</string>
      <string name="ad_app_is_downloading">Загрузка…</string>

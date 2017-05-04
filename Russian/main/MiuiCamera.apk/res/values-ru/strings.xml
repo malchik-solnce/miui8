@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_sd_fail">Нет доступа к SD-карте</string>
+	 <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
+	 <string name="pref_watermark_style_entry_dualcamera">Двойная камера</string>
+     <string name="pref_watermark_style_entry_off">Выкл</string>
+     <string name="pref_watermark_style_entry_timestamp">Время</string>
+     <string name="pref_watermark_style_title">Водяной знак на фото</string>
 	 <string name="pref_dualcamera_watermark_entry_dualcamera">Двойная камера</string>
      <string name="pref_dualcamera_watermark_entry_off">Выкл</string>
-     <string name="pref_dualcamera_watermark_entry_timestamp">Дата</string>
+     <string name="pref_dualcamera_watermark_entry_timestamp">Время</string>
      <string name="pref_dualcamera_watermark_title">Водяной знак на фото</string>
 	 <string name="accessibility_portrait_button">Портретный режим</string>
      <string name="accessibility_zoom_button">Режим увеличения</string>

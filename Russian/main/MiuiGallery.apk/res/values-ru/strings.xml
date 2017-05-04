@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Импорт</string>
+	 <string name="grant_permission_go_and_set">Настроить</string>
+     <string name="grant_permission_item">\"%s\"</string>
+     <string name="grant_permission_text">"Требуется доступ к 
+%s
+ для нормальной работы Галереи. Нажмите Настроить, чтобы предоставить доступ."</string>
+     <string name="grant_permission_title">Разрешите доступ</string>
 	 <string name="loading_fail_sync_without_network">Подключитесь к сети для загрузки метаданных</string>
      <string name="loading_fail_syncing">Дождитесь полной загрузки метаданных и повторите попытку</string>
      <string name="loading_video_fail_sync_without_network">Подключитесь к сети для загрузки метаданных</string>

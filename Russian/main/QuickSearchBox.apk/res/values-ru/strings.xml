@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Поиск</string>
+	 <string name="switch_email">Почта</string>
 	 <string name="barcode_install_back">Назад</string>
      <string name="barcode_install_cancel">Отмена</string>
      <string name="barcode_install_confirm">Установить</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Черный список</string>
+	 <string name="mx_activate_network_allow_notice">Этот сервис будет использовать сеть.</string>
 	 <string name="pref_hide_verification_code_summary">Автоматически скрывать одноразовые пароли в уведомлениях на заблокированном экране</string>
      <string name="title_hide_verification_code">Скрывать OП на локскрине</string>
 	 <string name="pref_switch_sdk_setting">Сменить движок Smart сообщений</string>

@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="privacy_password_use_finger_dialog_mess">Вы так же можете использовать отпечаток пальца на пароль защиты конфиденциальности</string>
+     <string name="privacy_password_use_finger_dialog_open">Настройки</string>
+     <string name="privacy_password_use_finger_dialog_title">Разблокировка отпечатком</string>
+     <string name="privacy_password_use_finger_success">Включено</string>
+	 <string name="paper_mode_auto_twilight_summary">Включать режим чтения вечером</string>
+     <string name="paper_mode_auto_twilight_title">Вечер</string>
+     <string name="paper_mode_customize_time_summary">Включать режим чтения в заданное время</string>
+     <string name="paper_mode_customize_time_title">Время</string>
+     <string name="paper_mode_get_location_dlg_msg">Необходимо включить определениие Вашего местоположения для получения точного времени о восходе и закате солнца. Открыть настройки?</string>
+     <string name="paper_mode_get_location_dlg_negative_btn_text">Отмена</string>
+     <string name="paper_mode_get_location_dlg_positive_btn_text">OK</string>
+     <string name="paper_mode_get_location_dlg_title">Определение местоположения</string>
+     <string name="screen_paper_mode_time_summary">Включать режим чтения в заданное время</string>
+	 <string name="music_notification_headset_custom">Отмена</string>
+     <string name="music_notification_headset_info">Нажмите, чтобы настроить</string>
+     <string name="music_notification_headset_settings">Подключены наушники</string>
 	 <string name="music_unsupport_effect_summary">Неподдерживаемая USB-гарнитура</string>
 	 <string name="palm_enabled">Большая область закрывеет экран</string>
      <string name="suspend_gesture_enabled">Сверните экран</string>
@@ -55,7 +71,7 @@
      <string name="install_master_key_and_connect">Вы можете подключиться к этой сети использую Wi-Fi Master Key. Установить его?</string>
      <string name="privacy_password_add_account">Добавить</string>
      <string name="privacy_password_add_account_info">Добавьте Mi аккаунт, чтобы иметь возможность восстановить пароль при его утрате</string>
-     <string name="privacy_password_add_account_setting">Аккунт и конфиденциальность</string>
+     <string name="privacy_password_add_account_setting">Аккаунт и конфиденциальность</string>
      <string name="privacy_password_exit_account_info">Аккаунт будет автоматически удален после выхода из него</string>
      <string name="privacy_password_login_and_add_account">Войти и добавить</string>
      <string name="privacy_password_not_add_account">Не сейчас</string>
@@ -925,7 +941,7 @@
      <string name="privacy_password_title">Пароль защиты конфиденциальности</string>
      <string name="privacy_password_transparent_tiltle" />
      <string name="privacy_password_visible_pattern">Показывать шаблон</string>
-     <string name="setting_privacy_password">Установить пароль защиты конфиденциальности</string>
+     <string name="setting_privacy_password">Установите пароль защиты конфиденциальности.</string>
      <string name="use_privacy_password_immediate">Использовать</string>
 	 <string name="input_password_hint_text">Введите пароль</string>
      <string name="you_wont_see_this">:)</string>
@@ -3661,7 +3677,7 @@
      <string name="lockpattern_pattern_confirmed_header">Новый графический ключ разблокировки</string>
      <string name="lockpattern_pattern_entered_header">Графический ключ записан!</string>
      <string name="lockpattern_recording_incorrect_too_short">Соедините точки (как минимум %d). Повторите попытку:</string>
-     <string name="lockpattern_recording_inprogress">По завершении отпусти палец</string>
+     <string name="lockpattern_recording_inprogress">По завершении отпустите палец.</string>
      <string name="lockpattern_recording_intro_footer">Для справки нажмите меню</string>
      <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ разблокировки</string>
      <string name="lockpattern_restart_button_text">Воспроизвести повторно</string>
@@ -4125,7 +4141,7 @@
      <string name="privacy_settings_title">Восстановление и сброс</string>
      <string name="private_gallery_need_to_unlock">Нарисуйте ключ:</string>
      <string name="private_gallery_recording_intro_header">Нарисуйте шаблон:</string>
-     <string name="private_gallery_reset_by_account">Чтобы сбросить пароль, войдите в Mi аккунт</string>
+     <string name="private_gallery_reset_by_account">Чтобы сбросить пароль, войдите в Mi аккаунт</string>
      <string name="private_sms_need_to_unlock">Нарисуйте ключ:</string>
      <string name="private_sms_recording_intro_header">Нарисуйте шаблон</string>
      <string name="private_sms_reset_by_account">Войдите в Mi аккаунт для восстановления пароля</string>

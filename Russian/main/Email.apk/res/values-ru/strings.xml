@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="ApplicationIconMore99">99+</string>
+	 <string name="account_settings_background_attachments_summary_inter">Загружать вложения по Wi-Fi</string>
+     <string name="imap_or_pop3_name">IMAP/POP3</string>
+     <string name="policy_dont_allow_wifi_inter">Не разрешать Wi-Fi</string>
 	 <string name="auto_remind_bind">Добавить</string>
      <string name="auto_remind_discribe_text">Включите, чтобы получать автоматические напоминания</string>
      <string name="auto_remind_text">Автоматические напоминания</string>

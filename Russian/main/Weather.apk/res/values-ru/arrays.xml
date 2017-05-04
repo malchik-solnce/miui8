@@ -29,6 +29,11 @@
         <item>Дождь со снегом</item>
         <item>Нет данных</item>
      </string-array>
+	 <string-array name="minute_rain_array">
+        <item>Сильный</item>
+        <item>Умеренный</item>
+        <item>Небольшой</item>
+     </string-array>
 	 <string-array name="aqi_detail_title">
         <item>Хороший</item>
         <item>Нормальный</item>

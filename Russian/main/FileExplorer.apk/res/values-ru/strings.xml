@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_parse_video_title">Вставить ссылку</string>
+	 <string name="overwrite_msg">\"%s\" уже существует. Нажмите для замены.</string>
+     <string name="skip_file">Пропустить</string>
 	 <string name="clear_record">Очистить историю</string>
      <string name="search_history">История поиска</string>
 	 <string name="clockin_failed">Не удалось. Повторите.</string>
@@ -46,7 +48,7 @@
      <string name="share_topic_title">"Я смотрю #%1$s# Взляника тоже!"</string>
      <string name="tab_msg">Сообщения</string>
      <string name="user_desc_default_tip">Войдите, чтобы собирать баллы и получать призы</string>
-     <string name="user_id_tip">ID: </string>
+     <string name="user_id_tip">ID: %1$s</string>
      <string name="video_publish_watchable_limit">Вы можете делать это дважды ежедневно</string>
      <string name="you_liao_god_desc">Загружайте видео регулярно и расширяйте свой фан-клуб, чтобы получить статус Джентльмен</string>
      <string name="you_liao_god_str">Джентльмен</string>

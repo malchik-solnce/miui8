@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="MIUI_startpage">Стартовая страница</string>
+	 <string name="ssl_bad_clock_date_settings">Настройка даты</string>
+     <string name="ssl_bad_clock_warning" formatted="false">Защищенное подключение к %s1 может быть не выполнено, т.к. на устройстве (%s2) неверная дата и время.</string>
+	 <string name="add_to_desk_lite_mode_toast">Нельзя добавить на рабочий стол в простом режиме</string>
+     <string name="autoSwithcingSearchEngineTips">Сменена поисковая система по сопоставлению</string>
+     <string name="back_description">Назад</string>
+     <string name="comment_description">Комментарий</string>
+     <string name="firstUsingSearchEngineTips">Смена поиска</string>
+     <string name="forward_description">Вперед</string>
+     <string name="home_description">Главная</string>
+     <string name="more_description">Меню</string>
+     <string name="pref_automatic_matching_searchengines_title">Сопоставление поисковых систем</string>
+     <string name="quicklink_cannot_save_url">Невозможно добавить эту ссылку</string>
+     <string name="quicklink_folder_text">Топ приложения</string>
+     <string name="storage_permission_request_toast">Требуется разрешение к памяти устройтва. Включите его.</string>
+     <string name="switchText">ДА</string>
+     <string name="tabs_description">Вкладки</string>
+     <string name="unSwitchText">НЕТ</string>
+     <string name="undo">Отмена</string>
 	 <string name="bookmark_url_can_not_null">Введите ссылку</string>
 	 <string name="empty_app_name">Другое приложение</string>
      <string name="open_app_confirm_message">Разрешить этой странице открыть %s?</string>
@@ -388,7 +406,7 @@
      <string name="add_new_quicklink">Добавление ссылки</string>
      <string name="add_ql_bm_title">Сохранить</string>
      <string name="add_quicklink_to_popular">Добавить на стартовую</string>
-     <string name="add_quicklinks">MIUI</string>
+     <string name="add_quicklinks">Добавить</string>
      <string name="add_to_bookmark">В закладки</string>
      <string name="add_to_bookmarks_menu_option">Закладки</string>
      <string name="add_to_desk">На рабочий стол</string>

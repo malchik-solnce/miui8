@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Желтые страницы</string>
+	<string name="miuishare_qzone_title">Qzone</string>
 	<string name="search_description_express">Запрос или быстрая экспресс отправка</string>
      <string name="search_keywords_express">Экспресс</string>
      <string name="search_title_express">Запрос или экспресс отправка</string>

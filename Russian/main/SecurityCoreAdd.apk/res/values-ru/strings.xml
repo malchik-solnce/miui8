@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Компонент безопасности</string>
+	<string name="current_space">Текущий пользователь</string>
+     <string name="function_not_support">Не поддерживается в этом пользователе</string>
 	<string name="space_deleted">Этот пользователь был удален</string>
 	 <string name="air_space_exit">Покинуть пространство</string>
      <string name="air_space_setting">Настройки пространства</string>
@@ -15,7 +17,7 @@
      <string name="same_qr_code_title">%s уже существует</string>
 	<string name="air_space_created">Рабочее пространство создано</string>
      <string name="air_space_deleted">Рабочее пространство удалено</string>
-     <string name="confirm_airspace_password">Подтвердите пароль рабочего пространства</string>
+     <string name="confirm_airspace_password">Подтвердите пароль %s</string>
      <string name="create_work_space">Создать рабочее пространство</string>
      <string name="downloading_space">Загрузка…</string>
      <string name="enter_air_space">Войти в рабочее пространство</string>

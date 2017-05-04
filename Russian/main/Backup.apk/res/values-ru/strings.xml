@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account_contact_backup_info">Данные аккаунтов и контакты</string>
+	 <string name="feature_title_antispam">Черный список</string>
 	 <string name="notif_trans_receiving_failed">Ошибка получения данных</string>
      <string name="notif_trans_sending_failed">Отправка данных не удалась</string>
 	 <string name="abort_restore_confirm">Восстановление не завершено. Остановить все равно?</string>

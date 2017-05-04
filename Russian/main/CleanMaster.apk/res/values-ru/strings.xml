@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="activity_title_ad">Реклама</string>
+	 <string name="app_usage_never">Не использовалось</string>
+     <string name="app_usage_recently">Использовалось недавно</string>
+     <string name="main_title_filesize">%1$s мусора</string>
+     <string name="menu_add_to_white_list">Добавить в исключения</string>
+     <string name="menu_clear">Очистить</string>
+     <string name="menu_install">Установить</string>
+     <string name="menu_view">Посмотреть в папке</string>
 	 <string name="file_not_found">Файл не найден</string>
      <string name="wechat_add_to_cleanlist">Успешно очищено</string>
 	 <string name="analying">Анализ…</string>
@@ -233,7 +240,7 @@
      <string name="hints_quick_deep_scanning">Сканирование</string>
      <string name="hints_quick_deep_uninstall">Удалить сейчас</string>
      <string name="hot_today">Популярные сегодня</string>
-     <string name="label_image_list_none">Пусто</string>
+     <string name="label_image_list_none">Ничего нет</string>
      <string name="label_preserve_the_best_image">Сохранить четкие фото</string>
      <string name="see_more">Еще</string>
      <string name="sponsored">Рекламные</string>
@@ -343,7 +350,7 @@
      <string name="deepclean_title_large_file">Удаление больших файлов</string>
      <string name="deepclean_title_uninstall_apps">Редко используемые</string>
      <string name="default_cache_type">Данные файлов</string>
-     <string name="empty_content_no_privacy">Пусто</string>
+     <string name="empty_content_no_privacy">Ничего нет</string>
      <string name="hints_cleanfinish">Очистка завершена</string>
      <string name="hints_deepclean_scanning">Сканирование %s</string>
      <string name="hints_header_left">%d</string>
@@ -394,7 +401,7 @@
      <string name="dialog_content_delete_image_confirm">Удалить %d фото?</string>
      <string name="dialog_content_select_all_confirm">Сохранить копию этого фото?</string>
      <string name="dialog_title_delete_image">Удалить выбранные фото</string>
-     <string name="empty_content_no_ignore_image">Пусто</string>
+     <string name="empty_content_no_ignore_image">Ничего нет</string>
      <string name="empty_content_no_similar_image">Нет копий</string>
      <string name="hint_bar_select_image">Выбрано: %d</string>
      <string name="hint_clean_select_similar_image">Удаление копий…</string>
@@ -468,7 +475,7 @@
      <string name="empty_title_ad">Реклама не найдена</string>
      <string name="empty_title_apk">Нет файлов</string>
      <string name="empty_title_garbage_cache">Кэш не найден</string>
-     <string name="empty_title_garbage_white_list">Пусто</string>
+     <string name="empty_title_garbage_white_list">Ничего нет</string>
      <string name="empty_title_installed_apps">Нет приложений</string>
      <string name="empty_title_large_files">Нет файлов</string>
      <string name="empty_title_residual">Нет файлов</string>
@@ -523,7 +530,7 @@
      <string name="pref_category_title_cleanup_white_list">Настройки белого списка</string>
      <string name="pref_category_title_garbage_cleanup_check">Уведомления</string>
      <string name="pref_category_title_other_clean_settings">Дополнительные настройки</string>
-     <string name="pref_content_cleanup_white_list_none">Пусто</string>
+     <string name="pref_content_cleanup_white_list_none">Список пуст</string>
      <string name="pref_summary_auto_clean_and_alert">Настройте очистку для автоматичекого запуска</string>
      <string name="pref_summary_auto_update_cleanup_db">Обновлено: %s</string>
      <string name="pref_summary_cleanup_white_list">Мусор из белого списка не будет удаляться</string>
@@ -532,7 +539,7 @@
      <string name="pref_summary_garbage_cleanup_check_size">Уведомлять при достижении заданного размера</string>
      <string name="pref_summary_garbage_cleanup_check_time">Уведомлять при достижении заданного времени</string>
      <string name="pref_summary_garbage_process_mode">Тип уведомления</string>
-     <string name="pref_summary_open_optimizer_cloud_scan">Загружать и сравнивать неизвестные имена файлов онлайн определением </string>
+     <string name="pref_summary_open_optimizer_cloud_scan">Загружать и сравнивать неизвестные имена файлов онлайн определением</string>
      <string name="pref_title_auto_clean_and_alert">Автоматическая очистка</string>
      <string name="pref_title_auto_clean_content_choose">Выберите файлы для очистки</string>
      <string name="pref_title_auto_update_cleanup_db">Автообновление</string>

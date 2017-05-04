@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="app_name">Калькулятор</string>
+	 <string name="cal_paste">Вставить</string>
+     <string name="deleteDesc">удалить</string>
+     <string name="menuDesc">меню</string>
+     <string name="percentDesc">процент</string>
+     <string name="settingsDesc">настройки</string>
+	 <string name="global_search_key_area_convertion">Конвертер площади;Площадь</string>
+     <string name="global_search_key_calculation">Посчитать;Калькулятор;Единицы измерения</string>
+     <string name="global_search_key_date_convertion">Конвертер времени;Единицы времени;Время</string>
+     <string name="global_search_key_exchange_rate">Конвертер валюты;Обменный курс;Валюта</string>
+     <string name="global_search_key_length_convertion">Конвертер длины;Длина</string>
+     <string name="global_search_key_mortgage">Расчет ипотеки;Ипотека</string>
+     <string name="global_search_key_personal_tax">Расчет налога;Налог</string>
+     <string name="global_search_key_scientific_convertion">Научный калькулятор;Инженерный;Алгебра</string>
+     <string name="global_search_key_speed_convertion">Конвертер скорости;Скорость</string>
+     <string name="global_search_key_temperature_convertion">Конвертер температуры;Температура</string>
+     <string name="global_search_key_volume_convertion">Конвертер объема;Объем</string>
+     <string name="global_search_key_weight_convertion">Конвертер веса;Килограмм;Весы</string>
+     <string name="global_search_key_word_figure">Финансовые символы</string>
+     <string name="golbal_search_calculator_setting">Калькулятор;Настройки калькулятора;Настройки</string>
+     <string name="golbal_search_path_calculator_setting">Системные приложения/Калькулятор/Настройки</string>
 	 <string name="unit_data_display_weight_taijin">Jin (Тайвань)</string>
      <string name="unit_data_short_weight_taijin">jin (Тв)</string>
 	 <string name="chinese_character_cross_check">Проверить родственников</string>
@@ -234,7 +254,7 @@ Delta update size: %2$s"</string>
      <string name="item_title_length_conversion">Длина</string>
      <string name="item_title_mortgage">Ипотека</string>
      <string name="item_title_scientific_calculator">Инженерный</string>
-     <string name="item_title_tax">Налоги</string>
+     <string name="item_title_tax">Налог</string>
      <string name="item_title_temprature_conversion">Температура</string>
      <string name="item_title_time_conversion">Время</string>
      <string name="item_title_tip">Тип</string>
@@ -282,7 +302,7 @@ Delta update size: %2$s"</string>
      <string name="mortgage_tab_combining_loan">Комбинированная</string>
      <string name="mortgage_tab_commercial_loan">Коммерческая</string>
      <string name="mortgage_years_amount">Срок ипотеки</string>
-     <string name="network_confirm_content">Для нормальной работы вычисчления валюты, налогов и ипотеки необходимо подключение к сети</string>
+     <string name="network_confirm_content">Для нормальной работы вычисления валюты, налога и ипотеки необходимо подключение к сети</string>
      <string name="network_confirm_title">Предупреждение</string>
      <string name="percentage">%</string>
      <string name="tax_accumulation_fund">Накопительный фонд</string>
@@ -299,7 +319,7 @@ Delta update size: %2$s"</string>
      <string name="tax_income_type">Тип дохода</string>
      <string name="tax_income_type_annual_bonus">Годовой бонус</string>
      <string name="tax_income_type_fixed_monthly_salary">Месячная зарплата</string>
-     <string name="tax_individual_income_tax">Подоходный налог</string>
+     <string name="tax_individual_income_tax">Налог</string>
      <string name="tax_individual_income_tax_result">Результат подоходного налога</string>
      <string name="tax_injury">Ущерб</string>
      <string name="tax_insurance_and_fund">Страхование и фонд</string>
