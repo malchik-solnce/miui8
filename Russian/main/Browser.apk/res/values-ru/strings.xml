@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="MIUI_startpage">Стартовая страница</string>
+	 <string name="check_permission_of_current_location">Текущее местоположение</string>
+     <string name="check_permission_of_current_url">Ссылки посещаемых сайтов</string>
+     <string name="contextmenu_share_image">Отправить изображение</string>
+     <string name="open_voice_permission">Включить разрешения</string>
+     <string name="pref_check_security_url_summary_international">Для обеспечения лучшей справочной службы, разрешите браузеру получить доступ к ссылкам</string>
+     <string name="pref_check_security_url_title_international">Получать ссылки</string>
+     <string name="scanner_uninstalled_text">Для использоания, установите приложение Сканер</string>
+     <string name="scanner_uninstalled_title">Сканер удален</string>
+     <string name="share_image_text">Мне понравилось это изображение</string>
+     <string name="show_check_security_url_check_tip_dialog_description_international">Чтобы получить соответствующие рекомендации, разрешите браузеру доступ к:</string>
+     <string name="voice_check_network">Проверьте сеть и повторите попытку</string>
+     <string name="voice_connect_network">Не удается подключиться к сети</string>
+     <string name="voice_network_connection">Для использования голосового поиска необходимо подключение к сети</string>
+     <string name="voice_search_permission">Для голосового поиска требуются разрешения. Перейдите в настройки браузера, чтобы включить их.</string>
+     <string name="voice_semantic_analysis">Семантический анализ после подключения</string>
 	 <string name="ssl_bad_clock_date_settings">Настройка даты</string>
      <string name="ssl_bad_clock_warning" formatted="false">Защищенное подключение к %s1 может быть не выполнено, т.к. на устройстве (%s2) неверная дата и время.</string>
 	 <string name="add_to_desk_lite_mode_toast">Нельзя добавить на рабочий стол в простом режиме</string>

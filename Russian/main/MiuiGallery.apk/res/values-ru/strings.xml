@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Импорт</string>
+	 <string name="album_jump_failed">Подождите, пока все альбомы синхронизируются с Mi Cloud и повторите попытку</string>
+     <string name="change_to_visible">Восстановить этого человека?</string>
+     <string name="delete_from_local_and_cloud">с этого устройства и Mi Cloud</string>
+     <string name="delete_unsynced">Удалить несинхронизированные элементы</string>
+     <string name="ignore_faces_title">Игнорируемые</string>
+     <string name="load_complete">Больше ничего нет</string>
+     <string name="load_failed">Не удалось загрузить информацию. нажмите для повтора.</string>
+     <string name="loading_dots">Подождите…</string>
+     <string name="no_ignore_faces">Здесь нет людей</string>
+     <string name="people_jump_failed">Подождите, пока фотографии с людьми синхронизируются с Mi Cloud и повторите попытку</string>
+     <string name="recovery_merge">Объединить</string>
+     <string name="recovery_merge_or_rename">Объединение альбомов</string>
+     <string name="recovery_merge_or_rename_message">Альбом с таким именем уже существует. Объединить их?</string>
+     <string name="recovery_rename">Переименовать</string>
+     <string name="search_clear_histories">Очистить</string>
+     <string name="search_title_history">Очистиь историю</string>
+     <string name="see_ignore_faces">Просмотр игнорируемых людей</string>
 	 <string name="grant_permission_go_and_set">Настроить</string>
      <string name="grant_permission_item">\"%s\"</string>
      <string name="grant_permission_text">"Требуется доступ к 

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_sd_fail">Нет доступа к SD-карте</string>
+	 <string name="pref_camera_proximity_lock_summary">Блокировать нажатия при нахождении в кармане</string>
+     <string name="pref_camera_proximity_lock_title">Карманный режим</string>
+     <string name="pref_camera_show_gender_age_label_alias">Возраст</string>
+     <string name="pref_camera_show_gender_age_label_on">Возраст и пол</string>
+     <string name="pref_camera_snap_label_take_movie">Видео</string>
+     <string name="pref_camera_snap_label_take_picture">Фото</string>
+     <string name="pref_front_mirror_label_auto">Авто</string>
 	 <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
 	 <string name="pref_watermark_style_entry_dualcamera">Двойная камера</string>
      <string name="pref_watermark_style_entry_off">Выкл</string>

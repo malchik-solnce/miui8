@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_denied">Доступ запрещен</string>
+	 <string name="micloud_detail_need_charge_or_sleep">Подключите зарядное устройство и выключите экран, чтобы возобновить синхронизацию.</string>
+	 <string name="micloud_main_sync_need_charge_or_sleep">Зарядите устройство и выключите экран</string>
 	 <string name="micloud_notif_content_dirty_data">Подробнее</string>
      <string name="micloud_notif_title_dirty_data">Есть несинхронизированные данные</string>
 	 <string name="micloud_detail_battery_low">Низкий заряд батареи</string>
@@ -16,7 +18,7 @@
      <string name="all_sync_item_open">Включено</string>
      <string name="cloud_storage_full">Место в облаке</string>
      <string name="cloud_storage_is_full">Заполнено</string>
-     <string name="due_date_format">dd.MM.yyyy</string>
+     <string name="due_date_format">d.MM.yyyy</string>
      <string name="find_device_service_summary">Удаленный поиск и блокировка устройства при его потери</string>
      <string name="find_device_service_summary_international">Удаленный поиск и блокировка устройства при его потери</string>
      <string name="find_device_service_title">Поиск устройства</string>
@@ -163,7 +165,7 @@
      <string name="micloud_detail_not_synced">Не синхронизировано</string>
      <string name="micloud_find_device_finish">Завершено</string>
      <string name="micloud_find_device_guide_button">Включить поиск устройства</string>
-     <string name="micloud_find_device_guide_content">При смене SIM-карты, будет отправлено сообщение\u0009o для повторной активации этой функции</string>
+     <string name="micloud_find_device_guide_content">При смене SIM-карты, будет отправлено сообщение\u0009 для повторной активации этой функции</string>
      <string name="micloud_find_device_guide_fail_reopen">Включите поиск устройства в Mi Cloud</string>
      <string name="micloud_find_device_guide_fail_sub_net">Проверьте сеть и повторите</string>
      <string name="micloud_find_device_guide_fail_sub_timeout">Вышло время ожидания. Повторите позже.</string>

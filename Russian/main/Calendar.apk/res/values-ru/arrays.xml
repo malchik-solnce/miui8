@@ -6,6 +6,15 @@
         <item>Текстовое сообщение</item>
         <item>Будильник</item>
      </string-array>
+	 <string-array name="week_header_name">
+        <item>ВОС</item>
+        <item>ПОН</item>
+        <item>ВТО</item>
+        <item>СРЕ</item>
+        <item>ЧЕТ</item>
+        <item>ПЯТ</item>
+        <item>СУБ</item>
+     </string-array>
 	 <string-array name="date_calculate_spinner">
         <item>Назад</item>
         <item>Вперед</item>

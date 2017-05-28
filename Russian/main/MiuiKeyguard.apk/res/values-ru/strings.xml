@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="click_to_enter_text">Посмотреть</string>
+	 <string name="keyguard_quick_charging_info_click_to_detail">Нажмите для просомтра подробностей</string>
+     <string name="keyguard_quickly_charging_info_charging_text">Быстрая зарядка</string>
 	 <string name="fingerprint_try_again_msg">Не удалось проверить отпечаток пальца. Повторите попытку.</string>
 	 <string name="fingerprint_enter_second_psw_msg_oldman">Не удается войти в режим второго пользователя в простом режиме</string>
 	 <string name="unlockscreen_quick_charging_message">Быстрая зарядка %d%%</string>

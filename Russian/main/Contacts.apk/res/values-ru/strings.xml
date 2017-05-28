@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_calllog_detail">Журнал вызовов</string>
+	 <string name="profileSavedErrorToast">Изменения не сохранены</string>
+     <string name="profileSavedToast">Профиль сохранен</string>
 	 <string name="call_sim_menu_title_suffix">(первичная)</string>
      <string name="callrecordview_menu_misim">Mi SIM</string>
      <string name="sim_unloaded">SIM-карта выгружена</string>
@@ -20,15 +22,15 @@
 	 <string name="device_transfer_by_bluetooth_message">"1. Включите \"Bluetooth\" на другом устройстве;
         
 
-- Android устройства, как правило, \"Bluetooth\" находится в разделе сети
+- Android устройства - \"Bluetooth\" находится в разделе сети
         
-- iOS устройства должны искать \"Bluetooth\" внутри Настроек
+- iOS устройства - \"Bluetooth\" внутри Настроек
         
 
 2. Android устройства должны также включить опцию \"Обнаружения\";
         
 
-3. Нажмите \"Далее\", и разрешите доступ к контактам на следующем шаге."</string>
+3. Нажмите \"Далее\", и разрешите доступ к контактам в следующем шаге."</string>
      <string name="device_transfer_by_sim_message">"1. Сохраните контакты другого устройства на SIM-карте;
         
 

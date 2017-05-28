@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="ApplicationIconMore99">99+</string>
+	 <string name="automatic_remind_text">Напомнить</string>
+     <string name="cancel_pop3_attchemt_downloading">Отмена любого загружаемого вложения недоступна для учетной записи POP3</string>
+     <string name="drawer_classification">Интеллектуальная классификация</string>
+     <string name="email_suggestions_authority">com.android.email.provider</string>
+     <string name="no_recognize_describe">"Не удалось найти электронные письма, содержащие билеты или бронирования.
+Попробуйте другой почтовый ящик."</string>
+     <string name="parse_recognize_describe">Анализ электронной почты…</string>
+     <string name="recognize_hotel_check_in_date">Время регистрации</string>
+     <string name="recognize_hotel_hotel_money">Цена %1$s</string>
+     <string name="recognize_hotel_notification_content">Приятного отдыха!</string>
+     <string name="recognize_hotel_notification_title">Вы забронировали номер в %1$s начиная с %2$s/%3$s. Дважды проверьте свое бронирование до прибытия туда.</string>
+     <string name="recognize_hotel_order_money">Всего</string>
+     <string name="recognize_hotel_other_money">Прочие расходы %1$s</string>
+     <string name="recognize_hotel_reverse_date">Заезд до %1$s:%2$s %3$s</string>
+     <string name="recognize_hotel_room_type">Номер</string>
+     <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+     <string name="recognize_hotel_title">Бронирование отеля</string>
+     <string name="recognize_hotel_user_names">Гость</string>
+     <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+     <string name="recognize_setting_title">Настройки путишествия</string>
+     <string name="recognize_ticket_air_notification_content">Приятного полета!</string>
+     <string name="recognize_ticket_air_notification_title">Скоро вылет рейса %3$s (%1$s/%2$s). Дважды проверьте информацию о рейсе.</string>
+     <string name="recognize_ticket_air_state_stopover">Остановка</string>
+     <string name="recognize_ticket_air_state_transfer">Перелет</string>
+     <string name="recognize_ticket_air_user_name">Пассажир:</string>
+     <string name="recognize_ticket_title">Билеты на самолёт и поезд</string>
+     <string name="recognize_ticket_train_alter">Изменено</string>
+     <string name="recognize_ticket_train_depart_date">Отправление в %3$s:%4$s с %1$s/%2$s</string>
+     <string name="recognize_ticket_train_notification_content">Приятного путишествия!</string>
+     <string name="recognize_ticket_train_notification_title">Поезд %3$s (%1$s/%2$s) скоро отправляется. Дважды проверьте свой билет.</string>
+     <string name="recognize_ticket_train_return">Возвращено</string>
+     <string name="recognize_ticket_train_user_name">Пассажир: %1$s</string>
+     <string name="recognize_title">Информация о путишествии</string>
 	 <string name="account_settings_background_attachments_summary_inter">Загружать вложения по Wi-Fi</string>
      <string name="imap_or_pop3_name">IMAP/POP3</string>
      <string name="policy_dont_allow_wifi_inter">Не разрешать Wi-Fi</string>

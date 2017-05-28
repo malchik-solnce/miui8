@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accessibility_add_attendee">Добавить участника</string>
+	 <string name="missing_required_permission">Вы отключили требуемое разрешение</string>
+	 <string name="holiday_detail_read_more">Еще</string>
 	 <string name="global_cricket_no_match">Сегодня нет обновлений MIUI MS, но Вы можете посмотреть прошлые версии прошивок. Ну а вообще, MIUI MS - замечательное событие, стоит подождать!</string>
      <string name="global_onthisday_com">miuims.com</string>
      <string name="match_select_activity_label">Выбор совпадений</string>

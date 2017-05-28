@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about_settings">Об устройстве</string>
+	 <string name="remove_continue">OK</string>
+     <string name="uninstall_protected_dlg_msg">Удаление системных приложений может помешать работе некоторых компонентов MIUI. Продолжить?</string>
+     <string name="uninstall_protected_dlg_title">Удаление системных приложений</string>
 	 <string name="privacy_password_use_finger_dialog_mess">Вы так же можете использовать отпечаток пальца на пароль защиты конфиденциальности</string>
      <string name="privacy_password_use_finger_dialog_open">Настройки</string>
      <string name="privacy_password_use_finger_dialog_title">Разблокировка отпечатком</string>

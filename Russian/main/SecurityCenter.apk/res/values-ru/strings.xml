@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name_antispam">Черный список</string>
+	<string name="app_manager_clear_data_dlg_message">Все данные этого приложения (файлы, настройки, учетные записи, базы данных и т.д.) будут удалены без возможности восстановления. Продолжить?</string>
+     <string name="app_manager_clear_data_dlg_title">Удаление данных приложения</string>
+     <string name="app_manager_clear_failed_dlg_message">Не удалось очистить данные приложения</string>
+     <string name="app_manager_clear_failed_dlg_title">Очистить данные</string>
+     <string name="app_manager_have_not_consume">Пусто</string>
+     <string name="app_manager_manage_space">Управление пространством</string>
+     <string name="app_manager_menu_clear_data">Очистить данные</string>
+     <string name="pref_summary_upload_data_usage">Отправлять статистику использования трафика, чтобы помочь улучшить MIUI. Отправка осуществляется в соответствии с нашей Политикой конфиденциальности.</string>
+     <string name="pref_title_upload_data_usage">Статистика использования трафика</string>
+	<string name="menu_item_install_debug_package">Установить пакет отладки</string>
 	<string name="applock_add_account">Добавить</string>
      <string name="applock_add_account_info">"Добавьте Mi аккаунт, чтобы иметь возможность сбросить пароль,
 если Вы его забудете"</string>
@@ -18,10 +28,10 @@
      <string name="demo_number">241</string>
      <string name="main_daily_package">Ежедневный трафик</string>
      <string name="menu_text_networkassistants_data">%1$s %2$s</string>
-     <string name="menu_text_networkassistants_unit_b">" Б"</string>
-     <string name="menu_text_networkassistants_unit_gb">" ГБ</string>
-     <string name="menu_text_networkassistants_unit_kb">" КБ</string>
-     <string name="menu_text_networkassistants_unit_mb">" МБ"</string>
+     <string name="menu_text_networkassistants_unit_b"> Б</string>
+     <string name="menu_text_networkassistants_unit_gb"> ГБ</string>
+     <string name="menu_text_networkassistants_unit_kb"> КБ</string>
+     <string name="menu_text_networkassistants_unit_mb"> МБ</string>
      <string name="open_activity_err">Приложение не найдено</string>
      <string name="pref_key_daily_package_summary">Включите, чтбы сбросить ежедневный лимит трафика</string>
      <string name="pref_over_traffic_limit">При превышении лимита</string>

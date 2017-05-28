@@ -7,6 +7,12 @@
         <item>Заметки</item>
         <item>Детский режим</item>
      </string-array>
+	 <string-array name="edge_touch_volume_action">
+        <item>Click adjust - Double click trigger</item>
+        <item>Slip adjust - Slip trigger</item>
+        <item>Click adjust - Click trigger</item>
+        <item>Click adjust - Long Click trigger</item>
+     </string-array>
 	<string-array name="enjoy_version_mi3">
         <item>3 ГБ</item>
         <item>32 ГБ</item>
