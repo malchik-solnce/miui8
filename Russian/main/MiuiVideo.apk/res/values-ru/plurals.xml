@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_count">
+        <item quantity="other">Комментариев: %d</item>
+        <item quantity="one">Комментариев: %d</item>
+    </plurals>
+    <plurals name="comment_sub_count">
+        <item quantity="other">%d ответов</item>
+        <item quantity="one">%d ответ</item>
+    </plurals>
+    <plurals name="comment_view_all_comment">
+        <item quantity="other">Посмотреть все комментарии (%d)</item>
+        <item quantity="one">Посмотреть все комментарии (%d)</item>
+    </plurals>
+    <plurals name="downloading_task_num">
+        <item quantity="other">%d файлов</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="notification_sub_title">
+        <item quantity="other">Загружено файлов: %d</item>
+        <item quantity="one">Загружено файлов: %d</item>
+    </plurals>
+    <plurals name="offline_num">
+        <item quantity="other">%d файлов</item>
+        <item quantity="one">%d файл</item>
+    </plurals>
+    <plurals name="offline_num_title">
+        <item quantity="other">(%d эпизодов)</item>
+        <item quantity="one">(%d эпизод)</item>
+    </plurals>
+    <plurals name="updated_already">
+        <item quantity="other">Обновлено элементов: %d</item>
+        <item quantity="one">Обновлено элементов: %d</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="video_pre_play_tip">
+        <item quantity="other">Доступен предварительный просмотр %1$d мин. Чтобы посмотреть полное видео, &lt;Data>&lt;font color=#ffa201>купите сейчас&lt;/font>&lt;/Data>.</item>
+        <item quantity="one">Доступен предварительный просмотр %1$d мин. Чтобы посмотреть полное видео, &lt;Data>&lt;font color=#ffa201>купите сейчас&lt;/font>&lt;/Data>.</item>
+    </plurals>
+</resources>

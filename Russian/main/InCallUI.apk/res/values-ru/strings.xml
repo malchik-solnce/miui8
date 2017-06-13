@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="accept_modify_call_request_prompt">Разрешить изменить запрос вызова?</string>
+	 <string name="remind_unlock_message">Устройство сейчас заблокировано. \"%s\" будет доступно после разблокировки устройства. Разблокировать?</string>
+     <string name="unlock_phone">Разблокируйте устройство</string>
 	 <string name="close_camera_failed">Не удалось закрыть камеру</string>
      <string name="close_camera_requesting">Требуется закрыть камеру</string>
 	 <string name="call_button_conference_manager_text">Менеджер конференции</string>

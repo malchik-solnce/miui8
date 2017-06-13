@@ -5,6 +5,11 @@
         <item quantity="zero">Сообщений: 0</item>
         <item quantity="one">Сообщений: 1</item>
      </plurals>
+	 <plurals name="hint_search_sms">
+        <item quantity="other">Сообшений: %d</item>
+        <item quantity="zero">Сообшений: %d</item>
+        <item quantity="one">Сообшений: %d</item>
+     </plurals>
 	 <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">Удалить %1$s сообщений?</item>
         <item quantity="one">Удалить %1$s сообщение?</item>

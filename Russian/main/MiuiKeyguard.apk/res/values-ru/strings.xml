@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="click_to_enter_text">Посмотреть</string>
-	 <string name="keyguard_quick_charging_info_click_to_detail">Нажмите для просомтра подробностей</string>
+	 <string name="keyguard_quick_charging_info_click_to_detail">Нажмите для просмотра подробностей</string>
      <string name="keyguard_quickly_charging_info_charging_text">Быстрая зарядка</string>
 	 <string name="fingerprint_try_again_msg">Не удалось проверить отпечаток пальца. Повторите попытку.</string>
 	 <string name="fingerprint_enter_second_psw_msg_oldman">Не удается войти в режим второго пользователя в простом режиме</string>
@@ -64,8 +64,8 @@
      <string name="invalid_sim_puk_hint">PUK-код состоит из 8 цифр или больше</string>
 	 <string name="set_lock_wallpaper_failed">Нет новых обоев</string>
 	 <string name="lock_screen_date_12">EEE, MMMM dd</string>
-	 <string name="fingerprint_not_identified_msg">Для разблокировки устройства введите пароль</string>
-     <string name="fingerprint_not_identified_title">Не удалось считать отпечаток</string>
+	 <string name="fingerprint_not_identified_msg">Слишком много неудачных попыток. Введите пароль или попробуйте использовать отпечаток через несколько секунд.</string>
+     <string name="fingerprint_not_identified_title">Введите пароль</string>
      <string name="fingerprint_try_again_text">Повторите еще раз</string>
      <string name="confirm_pin_msg">Введите PIN-код еще раз</string>
      <string name="default_lockscreen_unlock_hint_text">Сдвиньте вверх для разблокировки</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add">Добавить</string>
+	 <string name="no_checked_network">Вы не сможете подключиться к мобильной сети и совершать звонки. Выбрать другую сеть?</string>
 	 <string name="sum_cfu_enabled_indicator_by_sim">Все вызовы на %s будут переадресованы</string>
      <string name="title_cfu_enabled">Включена переадресация вызово</string>
 	 <string name="callEnded_pulled">Вызов передается на другое устройство</string>

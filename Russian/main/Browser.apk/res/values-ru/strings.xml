@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="MIUI_startpage">Стартовая страница</string>
+	 <string name="agree">OK</string>
+     <string name="exit">Выход</string>
 	 <string name="check_permission_of_current_location">Текущее местоположение</string>
      <string name="check_permission_of_current_url">Ссылки посещаемых сайтов</string>
      <string name="contextmenu_share_image">Отправить изображение</string>

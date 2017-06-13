@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_account_hint_text">Электронная почта или номер телефона</string>
+	<string name="confirm_bundled_phone_dialog_title">Подтвердите привязанный номер</string>
+     <string name="confirm_unbundled_phone_dialog_message">Номер телефона в %1$s связан с акканутом %2$s. Продолжая, будет отвязан акаунт %3$s. Вы уверены?</string>
+     <string name="get_phone_bind_exceed_limit">Количество номеров, привязанных к числу аккаунтов, достигло максимума (3). Больше нельзя связывать новый аккаунт.</string>
 	<string name="xiao_mi_vip">Mi VIP</string>
 	<string name="account_mipay_info">Mi pay</string>
      <string name="account_secure_info_pref_title">Информация об аккаунте</string>

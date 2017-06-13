@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Импорт</string>
+	 <string name="album_already_exists_check">Посмотреть</string>
+     <string name="album_already_exists_msg">Альбом \"%s\" уже существует</string>
 	 <string name="album_jump_failed">Подождите, пока все альбомы синхронизируются с Mi Cloud и повторите попытку</string>
      <string name="change_to_visible">Восстановить этого человека?</string>
      <string name="delete_from_local_and_cloud">с этого устройства и Mi Cloud</string>

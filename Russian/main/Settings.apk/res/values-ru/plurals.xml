@@ -4,6 +4,26 @@
         <item quantity="other">Не отключать для приложений: %d</item>
         <item quantity="one">Не отключать для приложений: 1</item>
      </plurals>
+	 <plurals name="auto_startup_count">
+        <item quantity="other">Приложения автозапуске: %d</item>
+        <item quantity="one">Приложения автозапуске: %d</item>
+     </plurals>
+     <plurals name="free_wifi_connected_count">
+        <item quantity="other">Подключено людей: %1$d</item>
+        <item quantity="one">Подключено людей: %1$d</item>
+     </plurals>
+     <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN дожен быть из %d цифр</item>
+        <item quantity="one">PIN дожен быть из %d цифры</item>
+     </plurals>
+     <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">Найдено рисков: %d</item>
+        <item quantity="one">Найдено рисков: %d</item>
+     </plurals>
+     <plurals name="wifi_share_count">
+        <item quantity="other">Общих сетей: %d</item>
+        <item quantity="one">Общих сетей: %d</item>
+     </plurals>
 	 <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="one">Сверхкраткая задержка (%1$d мс)</item>
 		<item quantity="few">Сверхкраткая задержка (%1$d мс)</item>

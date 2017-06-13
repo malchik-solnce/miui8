@@ -7,6 +7,14 @@
         <item>1 час</item>
         <item>Всегда</item>
      </string-array>
+	 <string-array name="sharer_relation_addressive">
+        <item>Папа</item>
+        <item>Мама</item>
+        <item>Дедушка по отцовской линии</item>
+        <item>Бабушка по отцовской линии</item>
+        <item>Дедушка по материнской линии</item>
+        <item>Бабушка по материнской линии</item>
+     </string-array>
 	 <string-array name="owner_relation">
         <item>Папа</item>
         <item>Мама</item>

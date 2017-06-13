@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account">Аккаунт</string>
+	 <string name="date_format_str">d.MM.yyyy</string>
+     <string name="start_shuffle">Воспроизведение в случайном порядке…</string>
 	 <string name="artist_home_search_hint">Поиск исполнителей</string>
      <string name="change_download_quality">Изменить качество загрузки</string>
      <string name="download_added_to_list">Добавлено в список загрузок</string>

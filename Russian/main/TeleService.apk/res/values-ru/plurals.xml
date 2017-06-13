@@ -4,6 +4,24 @@
         <item quantity="other">Подключение для передачи данных отсутствует %s мин.</item>
         <item quantity="one">Подключение для передачи данных отсутствует %s мин.</item>
      </plurals>
+	 <plurals name="auto_answer_summary_delay">
+        <item quantity="other">задержка: %s с.</item>
+        <item quantity="one">задержка: %s с.</item>
+     </plurals>
+     <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Будет удалено номеров: %d</item>
+        <item quantity="one">Будет удалено номеров: %d</item>
+     </plurals>
+     <plurals name="pin_attempts">
+        <item quantity="other">"
+Осталось попыток: %d"</item>
+        <item quantity="one">"
+Осталось попыток: %d"</item>
+     </plurals>
 	 <plurals name="remove_numbers_confirm">
         <item quantity="other">Будет удалено %d номеров</item>
         <item quantity="one">Будет удален %d номер</item>

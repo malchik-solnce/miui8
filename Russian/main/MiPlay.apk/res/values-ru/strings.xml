@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Медиа-сервер</string>
+	<string name="media_route_controller_disconnect">Отключить</string>
 	<string name="noti_projection_status_title">Беспроводной экран Mi Play</string>
     <string name="noti_projection_status_desc_on">Включено дублироание экрана</string>
     <string name="prjection_title">Беспроводной экран</string>
@@ -11,7 +12,7 @@
     <string name="media_status_started">Подключено</string>
     <string name="media_status_stopping">Остановка…</string>
     <string name="media_status_stopped">Остановлено</string>
-    <string name="wifi_display_settings_title">Cast</string>
+    <string name="wifi_display_settings_title">Вещание</string>
     <string name="wifi_display_enable_menu_item">Включите беспроводной экран</string>
     <string name="wifi_display_no_devices_found">Устройств по близости не найдено</string>
     <string name="wifi_display_status_connecting">Подключение</string>

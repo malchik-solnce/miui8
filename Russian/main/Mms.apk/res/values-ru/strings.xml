@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="action_firewall_setting">Черный список</string>
+	 <string name="select_sim">Выберите SIM-карту</string>
+     <string name="sms_report_dialog_content">Не удалось отправить отчет. Попробуйте еще раз.</string>
+     <string name="sms_report_dialog_retry">Попробуй еще раз</string>
+     <string name="sms_report_dialog_title">Попробуй еще раз</string>
+     <string name="switch_to_editor">Режим редактора</string>
+     <string name="switch_to_menu">Режим меню</string>
 	 <string name="pref_show_list_avatar_summary">Показывать фотографии и другую контактную информацию</string>
      <string name="title_show_list_avatar">Фото и информация</string>
 	 <string name="mx_activate_network_allow_notice">Этот сервис будет использовать сеть.</string>

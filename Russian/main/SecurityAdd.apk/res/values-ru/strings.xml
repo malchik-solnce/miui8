@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Плагин службы безопасности</string>
+	<string name="fastboot_locked_answer_1">Fastboot является традиционным методом прошивки Mi устройств. Когда устройство находится в режиме Fastboot, все данные, хранящиеся на нем, могут быть доступны и удалены напрямую. Мы заблокировали Fastboot для защиты Ваших данных в случае утери устройства, а также гарантировать надежность функции Поиск устройства.</string>
+     <string name="fastboot_locked_answer_2">В случае, если Вы потеряете устройство, Fastboot гарантирует безопасность данных, хранящихся на нем. После разблокировки Fastboot, вы больше не будете иметь возможность заблокировать устройство или удаленно стереть данные с помощью функции Поиска устройства. Мы не рекомендуем разблокировать Fastboot на устройстве.</string>
+     <string name="fastboot_locked_answer_3">Вы должны использовать инструмент разблокировки с сайта MIUI. Для того, чтобы разблокировать устройство, мы должны убедиться, что устройство принадлежит Вам. Вы должны войти в свой Mi аккаунт и включить функцию Поиск устройства.</string>
+     <string name="fastboot_locked_question_1">Почему Fastboot должен быть заблокирован?</string>
+     <string name="fastboot_locked_question_2">Существуют ли какие-либо риски, связанные с разблокировкой Fastboot?</string>
+     <string name="fastboot_locked_question_3">Я знаю о рисках, и хочу разблокировать устройство. Что мне делать?</string>
+     <string name="fastboot_status_locked_info">Fastboot не разблокирован на этом устройстве</string>
+     <string name="fastboot_status_locked_summary">Суперпользователь недоступен</string>
+     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+     <string name="fastboot_unlock_web_title">Посетите официальный сайт MIUI, чтобы получить инструмент для разблокировки</string>
 	<string name="intro_skip">Пропустить</string>
 	<string name="button_look_up">Нажмите для просмотра</string>
      <string name="card_sms_report">Сообщить по SMS</string>

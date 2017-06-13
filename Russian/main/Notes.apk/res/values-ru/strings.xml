@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="add_account_desc">Заметки можно синхронизировать с Вашим Mi аккаунтом. Войти в аккаунт и начать синхронизацию?</string>
+	 <string name="action_folder_description">Просмотр папок</string>
+     <string name="action_mode_switcher_grid_description">Сетка</string>
+     <string name="action_mode_switcher_list_description">Список</string>
+     <string name="action_settings_description">Открыть настройки</string>
+     <string name="cancel_alarm_description">Отменить будильник</string>
+     <string name="edit_header_done_description">Готово</string>
+     <string name="edit_header_home_description">Назад</string>
+     <string name="menu_add_description">Добавить заметку</string>
+     <string name="menu_add_folder_description">Добавить папку</string>
+     <string name="set_alarm_description">Установить будильник</string>
+     <string name="theme_blue_description">Синяя</string>
+     <string name="theme_green_description">Зеленая</string>
+     <string name="theme_red_description">Красная</string>
+     <string name="theme_white_description">Белая</string>
+     <string name="theme_yellow_description">Желтая</string>
+     <string name="toolbar_check_description">Добавить флажок</string>
+     <string name="toolbar_delete_description">Удалить заметку</string>
+     <string name="toolbar_gallery_description">Добавить изображение</string>
+     <string name="toolbar_more_description">Еще</string>
+     <string name="toolbar_redo_description">Вернуть</string>
+     <string name="toolbar_share_description">Поделиться заметкой</string>
+     <string name="toolbar_theme_description">Выберите тему</string>
+     <string name="toolbar_undo_description">Отмена</string>
 	 <string name="cta_reminder">Приложению требуется доступ к сети, чтобы создать резервную копию заметок в Mi Cloud. Также необходим доступ к чтению Ваших контактов, чтобы отметки заметок во время вызовов.</string>
 	 <string name="trash_folder_reminder">Удаленные заметки будут удалены навсегда через 30 дней</string>
 	 <string name="note_sort_way">Сортировка</string>

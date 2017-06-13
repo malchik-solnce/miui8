@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="access_denied">Доступ запрещен</string>
+	 <string name="micloud_buy_member_safe">Купить премиум Mi Cloud</string>
+     <string name="micloud_sync_prompt_for_no_gallery_sync">Синхронизируются только контакты, календарь и заметки. Для синхронизации всех данных, перейдите в настройки Mi Cloud.</string>
 	 <string name="micloud_detail_need_charge_or_sleep">Подключите зарядное устройство и выключите экран, чтобы возобновить синхронизацию.</string>
 	 <string name="micloud_main_sync_need_charge_or_sleep">Зарядите устройство и выключите экран</string>
 	 <string name="micloud_notif_content_dirty_data">Подробнее</string>

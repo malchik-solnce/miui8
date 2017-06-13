@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Only_the_wifi">Действует только при Wi-Fi</string>
+	 <string name="dialog_speed_cancel">Отмена</string>
+     <string name="dialog_speed_msg">Использование мобильного интернета для тестирования сети может потреблять много тафика. Продолжить?</string>
+     <string name="dialog_speed_ok">OK</string>
+     <string name="dialog_speed_title">Предупреждение трафиеп</string>
+     <string name="speed_entrance">Тест скорости Wi-Fi</string>
+     <string name="speed_result_broadband_text1">Текущая скорость загрузки</string>
+     <string name="speed_result_broadband_text2">%s</string>
+     <string name="speed_result_finish">Готово</string>
+     <string name="speed_result_restart">Повторить</string>
+     <string name="speed_start">Начать</string>
+     <string name="speed_stop">Отмена</string>
+     <string name="speed_tip_netwrok_fail">Ошибка сети. Повторите попытку.</string>
+     <string name="speed_tip_netwrok_timeout">Тайм-аут соединения. Попробуйте еще раз.</string>
+     <string name="speed_tip_no_netwrok">Не удалось подключиться к сети. Повторите попытку.</string>
+     <string name="speed_title">Тест скорости Wi-Fi</string>
+     <string name="speed_title_result">Тест скорости Wi-Fi</string>
 	 <string name="ad_download">Установить</string>
 	 <string name="download_error_download_file_not_exists">Файл не существует</string>
 	 <string name="extra_ad_title">Вам может понравиться</string>

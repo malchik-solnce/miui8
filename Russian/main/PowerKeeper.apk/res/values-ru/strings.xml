@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Экономия батареи</string>
+	<string name="sleep_config_disable_description">Энергопотребление не будет улучшаться</string>
+     <string name="sleep_config_disable_title">Выключить</string>
+     <string name="sleep_config_enhance_description">Улучшать энергопотребление</string>
+     <string name="sleep_config_enhance_title">Включить</string>
+     <string name="sleep_config_mode_title">Энергосбережение в ночное время</string>
 	<string name="power_checker_background_cpu_multi_apps_title">%1$s сильная нагрузка ЦП</string>
      <string name="power_checker_background_cpu_title">%1$s сильная нагрузка ЦП</string>
      <string name="power_checker_background_gps_multi_apps_title">%1$s частое определение местоположения</string>

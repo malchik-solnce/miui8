@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="cit_audio_lb_frontmic_to_speaker_title">Тест переднего микрофона</string>
+	 <string name="cit_hardware_info_summary">Подождите... Рендеринг информации об оборудовании этого устройства</string>
+     <string name="cit_hardware_info_title">Информация об оборудовании</string>
+     <string name="cit_tool_radio_infor">Информация о радио</string>
+     <string name="cit_tool_radio_infor_voiceNetworkTech">Информация о радио</string>
 	 <string name="cit_proximity_us_sensitivity">Xувствительность:</string>
      <string name="cit_proximity_us_summary">Калибровка ультразвукового датчика приближения</string>
      <string name="cit_tool_drx_only">DRX</string>

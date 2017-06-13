@@ -4,6 +4,22 @@
         <item quantity="other">Приложения без отслеживания трафика: %d</item>
         <item quantity="one">Приложения без отслеживания трафика: %d</item>
     </plurals>
+	<plurals name="manual_white_list_header">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+     </plurals>
+     <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">Последняя проверка: %d дней назад</item>
+        <item quantity="one">Последняя проверка: %d день назад</item>
+     </plurals>
+     <plurals name="scan_result_description">
+        <item quantity="other">Результат сканирования: найдено %d рисков оплаты</item>
+        <item quantity="one">Результат сканирования: найден %d риск оплаты</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+        <item quantity="other">Статистика трафика не синхронизировалась %d дней</item>
+        <item quantity="one">Статистика трафика не синхронизировалась %d день</item>
+     </plurals>
 	<plurals name="st_show_num_keyword">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>

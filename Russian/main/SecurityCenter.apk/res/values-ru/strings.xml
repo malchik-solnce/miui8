@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name_antispam">Черный список</string>
+	<string name="antispam_mode_details">Детали черного списка</string>
+     <string name="app_manager_instruction">Инструкция</string>
+     <string name="app_manager_sort">Сортировка по</string>
+     <string name="auto_task_manage_new_task">Новая задача</string>
 	<string name="app_manager_clear_data_dlg_message">Все данные этого приложения (файлы, настройки, учетные записи, базы данных и т.д.) будут удалены без возможности восстановления. Продолжить?</string>
      <string name="app_manager_clear_data_dlg_title">Удаление данных приложения</string>
      <string name="app_manager_clear_failed_dlg_message">Не удалось очистить данные приложения</string>
@@ -272,7 +276,7 @@
     <string name="note_keyword_none">Нет ключевых слов</string>
     <string name="block_message_number">Заблокировано: %d</string>
     <string name="block_phone_number">Заблокировано: %d</string>
-    <string name="info_antispam_close">Антиспам выключен</string>
+    <string name="info_antispam_close">Черный список выключен</string>
     <string name="mark_fraud">Мошенники</string>
     <string name="mark_agent">Торговые агенты</string>
     <string name="mark_sell">Реклама</string>
@@ -1177,7 +1181,7 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="percent_formatted_text">%s%%</string>
     <string name="power_center_main_percent_formatted">%s%%</string>
     <string name="resource_securitycenter_settings">Безопасность</string>
-    <string name="keywords_securitycenter_settings">Экономия батареи;Разрешения;Антиспам;Data usage;Calibrate data plan;Экономия трафика;Тест сети;Блокировка приложений;Save battery;Heating;Включить;Выключить;Батарея;Draining;Автозапуск;Суперпользователь;Местоположение;Access contacts;Block;Черный список;Smart blocklist;Fraud;Sales;Agents;Data;Трафик;Calibrate;Save;Connection;Internet;Тест;Пароль;Privacy;Access;Protection</string>
+    <string name="keywords_securitycenter_settings">Экономия батареи;Разрешения;Черный список;Data usage;Calibrate data plan;Экономия трафика;Тест сети;Блокировка приложений;Save battery;Heating;Включить;Выключить;Батарея;Draining;Автозапуск;Суперпользователь;Местоположение;Access contacts;Block;Черный список;Smart blocklist;Fraud;Sales;Agents;Data;Трафик;Calibrate;Save;Connection;Internet;Тест;Пароль;Privacy;Access;Protection</string>
     <string name="path_securitycenter_settings">Системные приложения/Безопасность</string>
     <string name="resource_securitycenter">Безопасность</string>
     <string name="keywords_securitycenter">Безопасность;Проверить;Сканировать</string>
@@ -1203,9 +1207,9 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="resource_buy_flow">Купить мобильный трафик</string>
     <string name="keywords_buy_flow">Данные;Купить;Купить трафик;Трафик;Мобильный трафик</string>
     <string name="path_buy_flow">Системные приложения/Безопасность/Трафик/Купить мобильный трафик</string>
-    <string name="resource_antispam">Антиспам</string>
-    <string name="keywords_antispam">Антиспам;Блокировка;Черный список;Smart blocklist;Fraud;Sales;Агенты</string>
-    <string name="path_antispam">Системные приложения/Безопасность/Антиспам</string>
+    <string name="resource_antispam">Черный список</string>
+    <string name="keywords_antispam">Антиспам;Блокировка;Черный список;Агенты</string>
+    <string name="path_antispam">Системные приложения/Безопасность/Черный список</string>
     <string name="resource_networkassistant_1">Трафик</string>
     <string name="keywords_networkassistant_1">Data;Traffic</string>
     <string name="path_networkassistant_1">Системные приложения/Безопасность/Трафик</string>
@@ -1236,7 +1240,7 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="menu_text_networkassistants">Трафик</string>
     <string name="menu_text_networkassistants_remain">Осталось %s</string>
     <string name="menu_text_networkassistants_danger">Превышено %s</string>
-    <string name="menu_text_antispam">Антиспам</string>
+    <string name="menu_text_antispam">Черный список</string>
     <string name="menu_text_license_manager">Разрешения</string>
     <string name="menu_text_garbage_cleanup">Очистка</string>
     <string name="menu_text_garbage_cleanup_danger">%s превышено</string>
@@ -1277,7 +1281,7 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_antivirus">Антивирус</string>
     <string name="activity_title_networkassistants">Трафик</string>
-    <string name="activity_title_antispam">Антиспам</string>
+    <string name="activity_title_antispam">Черный список</string>
     <string name="activity_title_license_manager">Разрешения</string>
     <string name="activity_title_power_manager">Батарея</string>
     <string name="activity_title_garbage_cleanup">Очистка</string>
@@ -1377,7 +1381,7 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="pref_category_title_module_settings">Настройки модулей</string>
     <string name="Settings_title_garbage_cleanup">Настройки очистки</string>
     <string name="Settings_title_network_assistants">Настройки трафика</string>
-    <string name="Settings_title_anti_spam">Настройки антиспама</string>
+    <string name="Settings_title_anti_spam">Настройки черного списка</string>
     <string name="Settings_title_power_center">Настройки питания</string>
     <string name="Settings_title_anti_virus">Настройки антивируса</string>
     <string name="settings_title_permission">Настройки разрешений</string>
@@ -1890,8 +1894,8 @@ You bought %s of additional data this month. This isn't reflected in the monthly
     <string name="result_autoscan_info">Автоматически контролировать среду системы при запуске приложений оплаты</string>
     <string name="result_virus_header">Найдено вирусов и небезопасных приложений: %d</string>
     <string name="result_sign_header">Найдено неофициальных приложений: %d</string>
-    <string name="result_sms_title_antispam">Антиспам</string>
-    <string name="result_sms_info_antispam">Включите Антиспам для защиты от вредоносных ссылок</string>
+    <string name="result_sms_title_antispam">Черный список</string>
+    <string name="result_sms_info_antispam">Включите для защиты от вредоносных ссылок</string>
     <string name="result_sms_title_auth">Финансовый риск</string>
     <string name="result_sms_info_auth">Ограничите доступ сторонним приложениям к проверочным кодам</string>
     <string name="toast_set_success">Включено</string>

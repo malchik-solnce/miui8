@@ -2,6 +2,8 @@
 <!-- Builded with BARS Extractor -->
 <resources>
      <string name="app_name">Программа установки сертификата</string>
+	 <string name="one_wapi_ascrt">Один сертификат WAPI AS</string>
+     <string name="one_wapi_usercrt">Один сертификат пользователя WAPI</string>
 	 <string name="done_label">ГОТОВО</string>
      <string name="install_done">%1$s полномочий, которые были добавлены к сохраненным Wi-Fi сетям</string>
      <string name="install_done_title">Полномочия установлены</string>
